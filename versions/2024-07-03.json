@@ -30,7 +30,7 @@
   {
     "quadrant": 3, 
     "ring": 0,
-    "label": "DevOps",
+    "label": "Cattle",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -51,7 +51,7 @@
   {
     "quadrant": 3, 
     "ring": 3,
-    "label": "DevOps",
+    "label": "Pets",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -86,8 +86,8 @@
   {
     "quadrant": 1, 
     "ring": 0,
-    "label": "DevOps",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Dualsimtelefoon",
+    "link": "https://nl.wikipedia.org/wiki/Dualsimtelefoon",
     "status": 0
   },
   {
