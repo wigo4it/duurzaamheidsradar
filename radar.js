@@ -24,10 +24,10 @@ function radar_visualization(config) {
     text: style.getPropertyValue('--kleur-tekst'),
     grid: '#dddde0',
     inactive: "#ddd",
-    DO: style.getPropertyValue('--kleur-gebruik'),
-    ONGOING: style.getPropertyValue('--kleur-probeer'),
-    MAYBE: style.getPropertyValue('--kleur-onderzoek'),
-    DONT: style.getPropertyValue('--kleur-verminder')
+    gebruik: style.getPropertyValue('--kleur-gebruik'),
+    probeer: style.getPropertyValue('--kleur-probeer'),
+    onderzoek: style.getPropertyValue('--kleur-onderzoek'),
+    verminder: style.getPropertyValue('--kleur-verminder')
   };
   config.quadrants = [
     { name: "Infrastructuur & Platformen" }, //rechtsonder
@@ -36,10 +36,10 @@ function radar_visualization(config) {
     { name: "Ondersteuning & Tools" }, //rechtsboven
   ];
   config.rings = [
-    { name: "Gebruik", color: config.colors.gebruik, textColor: "white" },
-    { name: "Probeer", color: config.colors.probeer, textColor: "black" },
-    { name: "Onderzoek", color: config.colors.onderzoek, textColor: "white" },
-    { name: "Verminder", color: config.colors.verminder, textColor: "white" }
+    { name: "DO", color: config.colors.gebruik, textColor: "white" },
+    { name: "ONGOING", color: config.colors.probeer, textColor: "black" },
+    { name: "MAYBE", color: config.colors.onderzoek, textColor: "white" },
+    { name: "DONT", color: config.colors.verminder, textColor: "white" }
   ];
   config.print_layout = true;
   config.links_in_new_tabs = true;
