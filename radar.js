@@ -36,10 +36,10 @@ function radar_visualization(config) {
     { name: "Strategie & Architectuur" }, //rechtsboven
   ];
   config.rings = [
-    { name: "Gebruik", color: config.colors.gebruik, textColor: "white" },
-    { name: "Probeer", color: config.colors.probeer, textColor: "black" },
-    { name: "Onderzoek", color: config.colors.onderzoek, textColor: "white" },
-    { name: "Verminder", color: config.colors.verminder, textColor: "white" }
+    { name: "DO", color: config.colors.gebruik, textColor: "white" },
+    { name: "ONGOING", color: config.colors.probeer, textColor: "black" },
+    { name: "MAYBE", color: config.colors.onderzoek, textColor: "white" },
+    { name: "DONT", color: config.colors.verminder, textColor: "white" }
   ];
   config.print_layout = true;
   config.links_in_new_tabs = true;
