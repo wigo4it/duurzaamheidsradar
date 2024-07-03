@@ -65,15 +65,22 @@
   {
     "quadrant": 0, 
     "ring": 0,
-    "label": "Reserved Capacity",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Green Coding",
+    "link": "https://greensoftware.foundation/articles/10-recommendations-for-green-software-development",
     "status": 0
   },
   {
-    "quadrant": 0, 
+    "quadrant": 1, 
     "ring": 0,
-    "label": "Green Coding",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": ".NET",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 0,
+    "label": "JAVA",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
     "status": 0
   },
   {
@@ -93,8 +100,8 @@
   {
     "quadrant": 0, 
     "ring": 3,
-    "label": "DevOps",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Python",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
     "status": 0
   },
   {
@@ -102,6 +109,12 @@
     "ring": 0,
     "label": "Dualsimtelefoon",
     "link": "https://nl.wikipedia.org/wiki/Dualsimtelefoon",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 0,
+    "label": "Test omgevingen uitzetten avond / weekend",
     "status": 0
   },
   {
