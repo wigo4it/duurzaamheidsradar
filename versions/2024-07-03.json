@@ -64,6 +64,20 @@
   },
   {
     "quadrant": 0, 
+    "ring": 0,
+    "label": "Reserved Capacity",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Green Coding",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
     "ring": 1,
     "label": "DevOps",
     "link": "https://en.wikipedia.org/wiki/DevOps",
