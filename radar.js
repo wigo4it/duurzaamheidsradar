@@ -30,10 +30,10 @@ function radar_visualization(config) {
     verminder: style.getPropertyValue('--kleur-verminder')
   };
   config.quadrants = [
-    { name: "Infrastructuur & Platformen" }, //rechtsonder
-    { name: "Talen & Frameworks" }, //linksonder
-    { name: "Architectuur & Cultuur" }, //linksboven
-    { name: "Ondersteuning & Tools" }, //rechtsboven
+    { name: "Enginering & Techniek" }, //rechtsonder
+    { name: "Gedrag &  Mindset" }, //linksonder
+    { name: "Organisatie & Cultuur" }, //linksboven
+    { name: "Strategie & Architectuur" }, //rechtsboven
   ];
   config.rings = [
     { name: "Gebruik", color: config.colors.gebruik, textColor: "white" },
