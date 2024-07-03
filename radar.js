@@ -30,7 +30,7 @@ function radar_visualization(config) {
     verminder: style.getPropertyValue('--kleur-verminder')
   };
   config.quadrants = [
-    { name: "Enginering & Techniek" }, //rechtsonder
+    { name: "Engineering & Techniek" }, //rechtsonder
     { name: "Gedrag &  Mindset" }, //linksonder
     { name: "Organisatie & Cultuur" }, //linksboven
     { name: "Strategie & Architectuur" }, //rechtsboven
