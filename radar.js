@@ -24,10 +24,10 @@ function radar_visualization(config) {
     text: style.getPropertyValue('--kleur-tekst'),
     grid: '#dddde0',
     inactive: "#ddd",
-    gebruik: style.getPropertyValue('--kleur-gebruik'),
-    probeer: style.getPropertyValue('--kleur-probeer'),
-    onderzoek: style.getPropertyValue('--kleur-onderzoek'),
-    verminder: style.getPropertyValue('--kleur-verminder')
+    DO: style.getPropertyValue('--kleur-gebruik'),
+    ONGOING: style.getPropertyValue('--kleur-probeer'),
+    MAYBE: style.getPropertyValue('--kleur-onderzoek'),
+    DONT: style.getPropertyValue('--kleur-verminder')
   };
   config.quadrants = [
     { name: "Infrastructuur & Platformen" }, //rechtsonder
