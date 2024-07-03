@@ -1,1 +1,1 @@
-# techradar
+# duurzaamheidsradar
