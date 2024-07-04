@@ -8,6 +8,13 @@
   },
   {
     "quadrant": 2, 
+    "ring": 0,
+    "label": "Duurzaamheid in organisatiedoelen",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
     "ring": 1,
     "label": "Hardware keten sluiten",
     "link": "https://en.wikipedia.org/wiki/DevOps",
@@ -38,6 +45,13 @@
     "quadrant": 2, 
     "ring": 2,
     "label": "Archiefwet refinement",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 2,
+    "label": "Duurzame product visie",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -154,6 +168,13 @@
     "status": 0
   },
   {
+    "quadrant": 0, 
+    "ring": 3,
+    "label": "Full data sets",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
     "quadrant": 3, 
     "ring": 3,
     "label": "Pets",
@@ -179,6 +200,13 @@
     "ring": 3,
     "label": "IaaS",
     "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Automate everything",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
@@ -239,8 +267,15 @@
   },
   {
     "quadrant": 1, 
+    "ring": 2,
+    "label": "Idle time",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
     "ring": 3,
-    "label": "DevOps",
+    "label": "Always-on",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   }
