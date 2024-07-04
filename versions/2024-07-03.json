@@ -31,7 +31,7 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Cattle",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
     "status": 0
   },
   {
@@ -45,7 +45,21 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Containerization",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://en.wikipedia.org/wiki/Containerization_(computing)",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": ".NET",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "JAVA",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
     "status": 0
   },
   {
@@ -71,23 +85,44 @@
   },
   {
     "quadrant": 3, 
+    "ring": 2,
+    "label": "Green builds",
+    "link": "https://app.electricitymaps.com/zone/NL",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 3,
+    "label": "Python",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
     "ring": 3,
     "label": "Pets",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Dark data",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://en.wikipedia.org/wiki/Dark_data",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Fault tolerance",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://en.wikipedia.org/wiki/Fault_tolerance",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "IaaS",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
     "status": 0
   },
   {
@@ -105,20 +140,6 @@
     "status": 0
   },
   {
-    "quadrant": 1, 
-    "ring": 0,
-    "label": ".NET",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
-    "status": 0
-  },
-  {
-    "quadrant": 1, 
-    "ring": 0,
-    "label": "JAVA",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
-    "status": 0
-  },
-  {
     "quadrant": 0, 
     "ring": 1,
     "label": "DevOps",
@@ -130,13 +151,6 @@
     "ring": 2,
     "label": "DevOps",
     "link": "https://en.wikipedia.org/wiki/DevOps",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 3,
-    "label": "Python",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
     "status": 0
   },
   {
