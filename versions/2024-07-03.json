@@ -36,22 +36,57 @@
   },
   {
     "quadrant": 3, 
+    "ring": 0,
+    "label": "Webbased",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "Containerization",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
     "ring": 1,
-    "label": "DevOps",
+    "label": "app services",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "ARM Technology",
     "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 2,
+    "label": "Electricity Map",
+    "link": "https://app.electricitymaps.com/zone/NL",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Pets",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Dark data",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Fault tolerance",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
