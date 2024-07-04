@@ -247,6 +247,13 @@
   {
     "quadrant": 0, 
     "ring": 0,
+    "label": "Automate everything",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
     "label": "Green Coding",
     "link": "https://greensoftware.foundation/articles/10-recommendations-for-green-software-development",
     "status": 0
@@ -308,10 +315,10 @@
     "status": 0
   },
   {
-    "quadrant": 0, 
+    "quadrant": 1, 
     "ring": 0,
-    "label": "Automate everything",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "End-2-end responsibility",
+    "link": "https://peerspectivegmbh.medium.com/aligned-autonomy-what-is-it-and-how-may-i-adopt-it-a4f8775371d9",
     "status": 0
   },
   {
@@ -326,6 +333,13 @@
     "ring": 1,
     "label": "Orphaned Resources",
     "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 1,
+    "label": "Digital Cleanupday",
+    "link": "https://www.digitalcleanupday.org/",
     "status": 0
   },
   {
