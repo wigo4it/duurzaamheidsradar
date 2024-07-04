@@ -120,6 +120,13 @@
   },
   {
     "quadrant": 3, 
+    "ring": 0,
+    "label": "Batches",
+    "link": "md/batches.html",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
     "ring": 1,
     "label": "app services",
     "link": "https://en.wikipedia.org/wiki/DevOps",
@@ -207,13 +214,6 @@
     "ring": 0,
     "label": "Infrastructure as Code",
     "link": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 0,
-    "label": "Batches",
-    "link": "md/batches.html",
     "status": 0
   },
   {
