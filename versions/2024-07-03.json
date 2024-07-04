@@ -2,28 +2,84 @@
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "DevOps",
+    "label": "Duurzaam inkoopbeleid",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "Duurzame organisatiedoelen",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "DevOps",
+    "label": "Hardware keten sluiten",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 1,
+    "label": "Duurzaam aanbesteden",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 1,
+    "label": "Koffie en thee",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "CSRD Rapportage",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 2,
+    "label": "Archiefwet refinement",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 2,
+    "label": "Duurzame product visie",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
-    "label": "DevOps",
+    "label": "Realtime dashboards",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 3,
+    "label": "E-mail",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 3,
+    "label": "Teams call",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 3,
+    "label": "Water bottles",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -31,28 +87,126 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Cattle",
+    "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "Webbased",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "Containerization",
+    "link": "https://en.wikipedia.org/wiki/Containerization_(computing)",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": ".NET",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "JAVA",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 1,
+    "label": "app services",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
-    "label": "DevOps",
+    "label": "Data strategie",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 1,
+    "label": "Verwijder strategie",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "ARM Technology",
     "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 2,
+    "label": "Electricity Map",
+    "link": "https://app.electricitymaps.com/zone/NL",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 2,
+    "label": "Green builds",
+    "link": "https://app.electricitymaps.com/zone/NL",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Pets",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Dark data",
+    "link": "https://en.wikipedia.org/wiki/Dark_data",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Fault tolerance",
+    "link": "https://en.wikipedia.org/wiki/Fault_tolerance",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "IaaS",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Citrix",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Server backups",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Infrastructure as Code",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
     "status": 0
   },
   {
@@ -70,30 +224,16 @@
     "status": 0
   },
   {
-    "quadrant": 1, 
-    "ring": 0,
-    "label": ".NET",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
-    "status": 0
-  },
-  {
-    "quadrant": 1, 
-    "ring": 0,
-    "label": "JAVA",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
-    "status": 0
-  },
-  {
     "quadrant": 0, 
     "ring": 1,
-    "label": "DevOps",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Green Software patterns",
+    "link": "https://patterns.greensoftware.foundation/",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "Sustainability by design",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -102,6 +242,13 @@
     "ring": 3,
     "label": "Python",
     "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 3,
+    "label": "Full data sets",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
@@ -119,6 +266,13 @@
     "status": 0
   },
   {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Automate everything",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
     "quadrant": 1, 
     "ring": 1,
     "label": "DevOps",
@@ -128,14 +282,21 @@
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "Idle time",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 1, 
+    "ring": 2,
+    "label": "Green Software Practitioner",
+    "link": "https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
     "ring": 3,
-    "label": "DevOps",
+    "label": "Always-on",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   }
