@@ -226,14 +226,14 @@
   {
     "quadrant": 0, 
     "ring": 1,
-    "label": "DevOps",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Green Software patterns",
+    "link": "https://patterns.greensoftware.foundation/",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "Sustainability by design",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -282,15 +282,15 @@
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "Idle time",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "Idle time",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Green Software Practitioner",
+    "link": "https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/",
     "status": 0
   },
   {
