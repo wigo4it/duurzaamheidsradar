@@ -282,7 +282,7 @@
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "Idle time",
+    "label": "Reduce idle time",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
