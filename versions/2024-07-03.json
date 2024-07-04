@@ -176,6 +176,13 @@
   },
   {
     "quadrant": 3, 
+    "ring": 1,
+    "label": "Reusable API's",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
     "ring": 2,
     "label": "ARM Technology",
     "link": "https://en.wikipedia.org/wiki/DevOps",
@@ -193,6 +200,13 @@
     "ring": 2,
     "label": "Green builds",
     "link": "https://app.electricitymaps.com/zone/NL",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 2,
+    "label": "Event-driven",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
@@ -283,6 +297,20 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Sustainability by design",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Energy proportionality",
+    "link": "https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/4-energy-efficiency",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Data retention policies",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
