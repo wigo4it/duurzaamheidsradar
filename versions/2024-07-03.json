@@ -9,6 +9,20 @@
   {
     "quadrant": 2, 
     "ring": 0,
+    "label": "Kantoor Energielabel A+",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "Statiegeld doneren",
+    "link": "https://www.plasticsoupfoundation.org/doneer-statiegeld-aan-plastic-soup-foundation/#:~:text=Per%201%20juli%202021%20zit,milieuorganisaties%20jarenlang%20hard%20voor%20gemaakt.",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
     "label": "Duurzame organisatiedoelen",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
@@ -232,6 +246,13 @@
   },
   {
     "quadrant": 0, 
+    "ring": 1,
+    "label": "Right Size provisioning",
+    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
     "ring": 2,
     "label": "Sustainability by design",
     "link": "https://en.wikipedia.org/wiki/DevOps",
@@ -275,8 +296,15 @@
   {
     "quadrant": 1, 
     "ring": 1,
-    "label": "DevOps",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "CleanupFest",
+    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 1,
+    "label": "Orphaned Resources",
+    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
     "status": 0
   },
   {
