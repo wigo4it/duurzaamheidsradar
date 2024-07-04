@@ -114,7 +114,8 @@
   {
     "quadrant": 1, 
     "ring": 0,
-    "label": "Test omgevingen uitzetten avond / weekend",
+    "label": "On-demand",
+    "link": "md/on-demand.md",
     "status": 0
   },
   {
