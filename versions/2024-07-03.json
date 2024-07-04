@@ -9,7 +9,7 @@
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "Duurzaamheid in organisatiedoelen",
+    "label": "Duurzame organisatiedoelen",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -161,20 +161,6 @@
     "status": 0
   },
   {
-    "quadrant": 0, 
-    "ring": 3,
-    "label": "Python",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 3,
-    "label": "Full data sets",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
-    "status": 0
-  },
-  {
     "quadrant": 3, 
     "ring": 3,
     "label": "Pets",
@@ -203,10 +189,24 @@
     "status": 0
   },
   {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Citrix",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Server backups",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
     "quadrant": 0, 
     "ring": 0,
-    "label": "Automate everything",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Infrastructure as Code",
+    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
     "status": 0
   },
   {
@@ -238,6 +238,20 @@
     "status": 0
   },
   {
+    "quadrant": 0, 
+    "ring": 3,
+    "label": "Python",
+    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 3,
+    "label": "Full data sets",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
     "quadrant": 1, 
     "ring": 0,
     "label": "Dualsimtelefoon",
@@ -249,6 +263,13 @@
     "ring": 0,
     "label": "On-demand",
     "link": "md/on-demand.html",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Automate everything",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
