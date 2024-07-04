@@ -2,28 +2,70 @@
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "DevOps",
+    "label": "Duurzaam inkoopbeleid",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "DevOps",
+    "label": "Hardware keten sluiten",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 1,
+    "label": "Duurzaam aanbesteden",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 1,
+    "label": "Koffie en thee",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
-    "label": "DevOps",
+    "label": "CSRD Rapportage",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 2,
+    "label": "Archiefwet refinement",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
-    "label": "DevOps",
+    "label": "Realtime dashboards",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 3,
+    "label": "E-mail",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 3,
+    "label": "Teams call",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 3,
+    "label": "Water bottles",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
@@ -66,6 +108,20 @@
     "quadrant": 3, 
     "ring": 1,
     "label": "app services",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 1,
+    "label": "Data strategie",
+    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 1,
+    "label": "Verwijder strategie",
     "link": "https://en.wikipedia.org/wiki/DevOps",
     "status": 0
   },
