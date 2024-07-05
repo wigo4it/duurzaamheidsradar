@@ -128,6 +128,13 @@
   {
     "quadrant": 3, 
     "ring": 0,
+    "label": "Public Cloud",
+    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
     "label": "Cattle",
     "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
     "status": 0
@@ -263,6 +270,13 @@
     "ring": 3,
     "label": "Server backups",
     "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Eigen hardware in datacenters",
+    "link": "https://www.wigo4it.nl",
     "status": 0
   },
   {
