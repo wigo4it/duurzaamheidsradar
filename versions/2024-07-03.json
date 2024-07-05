@@ -23,15 +23,22 @@
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "STOMP",
+    "label": "Duurzame organisatiedoelen",
+    "link": "md/duurzame-orgdoelen.html",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "STOMP principe",
     "link": "https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto.",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "Duurzame organisatiedoelen",
-    "link": "md/duurzame-orgdoelen.html",
+    "label": "Digitaal ondertekenen",
+    "link": "https://www.validsign.eu/",
     "status": 0
   },
   {
@@ -333,6 +340,13 @@
     "ring": 2,
     "label": "Carbon Aware SDK",
     "link": "https://carbon-aware-sdk.greensoftware.foundation/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Berichtenbox",
+    "link": "md/berichtenbox.html",
     "status": 0
   },
   {
