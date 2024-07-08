@@ -3,84 +3,133 @@
     "quadrant": 2, 
     "ring": 0,
     "label": "Duurzaam inkoopbeleid",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "Kantoor Energielabel A+",
+    "link": "https://www.kvk.nl/duurzaamheid/energielabel-c-volg-deze-stappen-en-voorkom-een-boete/",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "Statiegeld doneren",
+    "link": "https://www.plasticsoupfoundation.org/doneer-statiegeld-aan-plastic-soup-foundation/#:~:text=Per%201%20juli%202021%20zit,milieuorganisaties%20jarenlang%20hard%20voor%20gemaakt.",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
     "label": "Duurzame organisatiedoelen",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "md/duurzame-orgdoelen.html",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "STOMP principe",
+    "link": "https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto.",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
+    "label": "Digitaal ondertekenen",
+    "link": "https://www.validsign.eu/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Hardware keten sluiten",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Duurzaam aanbesteden",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Koffie en thee",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 1,
+    "label": "5% van de tijd aan duurzaamheid",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 1,
+    "label": "1% van het budget naar duurzaamheid",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
     "label": "CSRD Rapportage",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.ser.nl/nl/thema/duurzaamheid/eu-duurzaamheidsrapportage",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
     "label": "Archiefwet refinement",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
     "label": "Duurzame product visie",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Realtime dashboards",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "E-mail",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Teams call",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Water bottles",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "Public Cloud",
+    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
     "status": 0
   },
   {
@@ -94,7 +143,7 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Webbased",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
@@ -129,28 +178,35 @@
     "quadrant": 3, 
     "ring": 1,
     "label": "app services",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Data strategie",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Verwijder strategie",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 1,
+    "label": "Reusable API's",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "ARM Technology",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
@@ -165,6 +221,13 @@
     "ring": 2,
     "label": "Green builds",
     "link": "https://app.electricitymaps.com/zone/NL",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 2,
+    "label": "Event-driven",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
@@ -210,10 +273,24 @@
     "status": 0
   },
   {
+    "quadrant": 3, 
+    "ring": 3,
+    "label": "Eigen hardware in datacenters",
+    "link": "https://www.wigo4it.nl",
+    "status": 0
+  },
+  {
     "quadrant": 0, 
     "ring": 0,
     "label": "Infrastructure as Code",
     "link": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Automate everything",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
@@ -225,6 +302,13 @@
   },
   {
     "quadrant": 0, 
+    "ring": 0,
+    "label": "Terracost",
+    "link": "https://github.com/cycloidio/terracost",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
     "ring": 1,
     "label": "Green Software patterns",
     "link": "https://patterns.greensoftware.foundation/",
@@ -232,9 +316,51 @@
   },
   {
     "quadrant": 0, 
+    "ring": 1,
+    "label": "Right Size provisioning",
+    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 1,
+    "label": "Planet as a Stakeholder",
+    "link": "https://theplanetasastakeholder.com/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
     "ring": 2,
     "label": "Sustainability by design",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Energy proportionality",
+    "link": "https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/4-energy-efficiency",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Data retention policies",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Carbon Aware SDK",
+    "link": "https://carbon-aware-sdk.greensoftware.foundation/",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
+    "label": "Berichtenbox",
+    "link": "md/berichtenbox.html",
     "status": 0
   },
   {
@@ -248,7 +374,7 @@
     "quadrant": 0, 
     "ring": 3,
     "label": "Full data sets",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
@@ -266,24 +392,38 @@
     "status": 0
   },
   {
-    "quadrant": 0, 
+    "quadrant": 1, 
     "ring": 0,
-    "label": "Automate everything",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "End-2-end responsibility",
+    "link": "https://peerspectivegmbh.medium.com/aligned-autonomy-what-is-it-and-how-may-i-adopt-it-a4f8775371d9",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 1,
-    "label": "DevOps",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "CleanupFest",
+    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 1,
+    "label": "Orphaned Resources",
+    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 1,
+    "label": "Digital Cleanupday",
+    "link": "https://www.digitalcleanupday.org/",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "Idle time",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "label": "Reduce idle time",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   },
   {
@@ -295,9 +435,16 @@
   },
   {
     "quadrant": 1, 
+    "ring": 2,
+    "label": "Agile Sustainability Manifesto",
+    "link": "https://www.agilealliance.org/sustainability-manifesto/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
     "ring": 3,
     "label": "Always-on",
-    "link": "https://en.wikipedia.org/wiki/DevOps",
+    "link": "https://www.wigo4it.nl/",
     "status": 0
   }
 ]
