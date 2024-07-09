@@ -446,5 +446,12 @@
     "label": "Always-on",
     "link": "https://www.wigo4it.nl/",
     "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 3,
+    "label": "Archiveren",
+    "link": "/md/archiveren.html",
+    "status": 0
   }
 ]
