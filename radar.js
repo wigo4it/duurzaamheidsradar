@@ -24,10 +24,10 @@ function radar_visualization(config) {
     text: style.getPropertyValue('--kleur-tekst'),
     grid: '#dddde0',
     inactive: "#ddd",
-    gebruik: style.getPropertyValue('--kleur-gebruik'),
-    probeer: style.getPropertyValue('--kleur-probeer'),
-    onderzoek: style.getPropertyValue('--kleur-onderzoek'),
-    verminder: style.getPropertyValue('--kleur-verminder')
+    doing: style.getPropertyValue('--kleur-doing'),
+    ongoing: style.getPropertyValue('--kleur-ongoing'),
+    planning: style.getPropertyValue('--kleur-planning'),
+    undoing: style.getPropertyValue('--kleur-undoing')
   };
   config.quadrants = [
     { name: "Engineering & Techniek" }, //rechtsonder
@@ -36,10 +36,10 @@ function radar_visualization(config) {
     { name: "Strategie & Architectuur" }, //rechtsboven
   ];
   config.rings = [
-    { name: "DOING", color: config.colors.gebruik, textColor: "white" },
-    { name: "ONGOING", color: config.colors.probeer, textColor: "black" },
-    { name: "PLANNING", color: config.colors.onderzoek, textColor: "white" },
-    { name: "UNDOING", color: config.colors.verminder, textColor: "white" }
+    { name: "DOING", color: config.colors.doing, textColor: "white" },
+    { name: "ONGOING", color: config.colors.ongoing, textColor: "black" },
+    { name: "PLANNING", color: config.colors.planning, textColor: "white" },
+    { name: "UNDOING", color: config.colors.undoing, textColor: "white" }
   ];
   config.print_layout = true;
   config.links_in_new_tabs = true;
@@ -316,7 +316,7 @@ function radar_visualization(config) {
           .attr("transform", legend_transform(quadrant, ring))
           .text(config.rings[ring].name)
           .style("font-family", "Raleway")
-          .style("font-size", "12px")
+          .style("font-size", "14px")
           .style("font-weight", "bold")
           .style("fill", config.rings[ring].color);
         legend.selectAll(".legend" + quadrant + ring)
@@ -334,7 +334,21 @@ function radar_visualization(config) {
               .attr("transform", function(d, i) { return legend_transform(quadrant, ring, i); })
               .attr("class", "legend" + quadrant + ring)
               .attr("id", function(d, i) { return "legendItem" + d.id; })
-              .text(function(d, i) { return d.id + ". " + d.label; })
+              .text(function(d, i) { 
+                // Define a function to truncate text to a maximum length
+                function truncateText(text, maxLength) {
+                  if (text.length > maxLength) {
+                    return text.substring(0, maxLength - 3) + "..."; // Subtract 3 for the ellipsis
+                  } else {
+                    return text;
+                  }
+                }
+              
+                // Assuming you want to limit to 20 characters
+                const maxLength = 25;
+                const displayText = d.id + ". " + d.label;
+                return truncateText(displayText, maxLength);
+              })
               .style("font-family", "Raleway")
               .style("font-size", "11px")
               .attr("fill", config.colors.text)
