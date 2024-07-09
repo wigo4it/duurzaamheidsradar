@@ -218,6 +218,13 @@
   },
   {
     "quadrant": 3, 
+    "ring": 2,
+    "label": "Carbon monitoring",
+    "link": "https://www.wigo4it.nl/",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
     "ring": 3,
     "label": "Pets",
     "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
@@ -438,6 +445,13 @@
     "ring": 2,
     "label": "Agile Sustainability Manifesto",
     "link": "https://www.agilealliance.org/sustainability-manifesto/",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 2,
+    "label": "Demand Shaping",
+    "link": "https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-application-platform#process-when-the-carbon-intensity-is-low",
     "status": 0
   },
   {
