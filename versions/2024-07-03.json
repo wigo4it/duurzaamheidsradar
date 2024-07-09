@@ -24,7 +24,7 @@
     "quadrant": 2, 
     "ring": 0,
     "label": "Duurzame organisatiedoelen",
-    "link": "md/duurzame-orgdoelen.html",
+    "link": "wiki/wiki.html?page=duurzame-orgdoelen",
     "status": 0
   },
   {
@@ -157,7 +157,7 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Batches",
-    "link": "md/batches.html",
+    "link": "wiki/wiki.html?page=batches",
     "status": 0
   },
   {
@@ -367,14 +367,14 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Big O notation",
-    "link": "md/big-o-notation.html",
+    "link": "wiki/wiki.html?page=big-o-notation",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
     "label": "Berichtenbox",
-    "link": "md/berichtenbox.html",
+    "link": "wiki/wiki.html?page=berichtenbox",
     "status": 0
   },
   {
@@ -402,7 +402,7 @@
     "quadrant": 1, 
     "ring": 0,
     "label": "On-demand",
-    "link": "md/on-demand.html",
+    "link": "wiki/wiki.html?page=on-demand",
     "status": 0
   },
   {
@@ -472,7 +472,7 @@
     "quadrant": 1, 
     "ring": 3,
     "label": "Archiveren",
-    "link": "md/archiveren.html",
+    "link": "wiki/wiki.html?page=archiveren",
     "status": 0
   }
 ]
