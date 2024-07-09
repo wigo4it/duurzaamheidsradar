@@ -366,6 +366,13 @@
   {
     "quadrant": 0, 
     "ring": 2,
+    "label": "Big O notation",
+    "link": "md/big-o-notation.html",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 2,
     "label": "Berichtenbox",
     "link": "md/berichtenbox.html",
     "status": 0
@@ -465,7 +472,7 @@
     "quadrant": 1, 
     "ring": 3,
     "label": "Archiveren",
-    "link": "/md/archiveren.html",
+    "link": "md/archiveren.html",
     "status": 0
   }
 ]
