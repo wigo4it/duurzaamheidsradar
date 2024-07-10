@@ -10,7 +10,7 @@
             const params = new URLSearchParams(window.location.search);
             const wikiKey = params.get('page');
             if (wikiKey) {
-                const markdownFile = wikiKey + '.md'; // Append .md to the wikiKey
+                const markdownFile = `wiki/${wikiKey}.md`; // Append .md to the wikiKey
     
                 // Function to capitalize the first letter of a string
                 function capitalizeFirstLetter(string) {
