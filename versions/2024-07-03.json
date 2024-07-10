@@ -3,13 +3,13 @@
     "quadrant": 2, 
     "ring": 0,
     "label": "Inkoopbeleid",
-    "link": "wiki/wiki.html?page=inkoopbeleid",
+    "link": "wiki.html?page=inkoopbeleid",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "Kantoor Energielabel A+",
+    "label": "Energielabel A+",
     "link": "https://www.kvk.nl/duurzaamheid/energielabel-c-volg-deze-stappen-en-voorkom-een-boete/",
     "status": 0
   },
@@ -24,7 +24,7 @@
     "quadrant": 2, 
     "ring": 0,
     "label": "Duurzame organisatiedoelen",
-    "link": "wiki/wiki.html?page=duurzame-orgdoelen",
+    "link": "wiki.html?page=duurzame-orgdoelen",
     "status": 0
   },
   {
@@ -45,35 +45,35 @@
     "quadrant": 2, 
     "ring": 1,
     "label": "Hardware keten sluiten",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Duurzaam aanbesteden",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Koffie en thee",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "5% tijd",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "1% budget",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -87,42 +87,42 @@
     "quadrant": 2, 
     "ring": 2,
     "label": "Archiefwet refinement",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
     "label": "Duurzame product visie",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Realtime dashboards",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "E-mail",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Teams call",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Water bottles",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -143,7 +143,7 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Webbased",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -157,42 +157,42 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Batches",
-    "link": "wiki/wiki.html?page=batches",
+    "link": "wiki.html?page=batches",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "app services",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Data strategie",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Verwijder strategie",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Reusable API's",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "ARM Technology",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -213,14 +213,14 @@
     "quadrant": 3, 
     "ring": 2,
     "label": "Event-driven",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "Carbon monitoring",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -283,7 +283,7 @@
     "quadrant": 0, 
     "ring": 0,
     "label": "Automate everything",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -339,7 +339,7 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Sustainability by design",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -353,7 +353,7 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Data retention policies",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -367,14 +367,14 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Big O notation",
-    "link": "wiki/wiki.html?page=big-o-notation",
+    "link": "wiki.html?page=big-o-notation",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
     "label": "Berichtenbox",
-    "link": "wiki/wiki.html?page=berichtenbox",
+    "link": "wiki.html?page=berichtenbox",
     "status": 0
   },
   {
@@ -388,7 +388,7 @@
     "quadrant": 0, 
     "ring": 3,
     "label": "Full data sets",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -402,7 +402,7 @@
     "quadrant": 1, 
     "ring": 0,
     "label": "On-demand",
-    "link": "wiki/wiki.html?page=on-demand",
+    "link": "wiki.html?page=on-demand",
     "status": 0
   },
   {
@@ -437,7 +437,7 @@
     "quadrant": 1, 
     "ring": 2,
     "label": "Reduce idle time",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -465,14 +465,14 @@
     "quadrant": 1, 
     "ring": 3,
     "label": "Always-on",
-    "link": "wiki/wiki.html?page=wigo4it",
+    "link": "wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 3,
     "label": "Archiveren",
-    "link": "wiki/wiki.html?page=archiveren",
+    "link": "wiki.html?page=archiveren",
     "status": 0
   }
 ]
