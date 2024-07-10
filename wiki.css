@@ -14,7 +14,7 @@ body {
 }
 
 /* Media query for screens wider than 768px */
-@media (min-width: 768px) {
+@media (min-width: 1500px) {
     #wiki-container {
         width: 50%; /* Set the width to 50% for normal screens */
     }
