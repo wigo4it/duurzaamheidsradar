@@ -16,9 +16,13 @@ function radar_visualization(config) {
 
   const style = getComputedStyle(document.documentElement);
 
+   // Use viewport dimensions with a fallback for smaller screens
+   const screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+   const screenHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+ 
   config.svg_id = "radar";
-  config.width = 1450;
-  config.height = 900;
+  config.width = screenWidth < 600 ? screenWidth : 1450; // Adjust for mobile
+  config.height = screenHeight < 600 ? screenHeight : 900; // Adjust for mobile
   config.colors = {
     background: style.getPropertyValue('--kleur-achtergrond'),
     text: style.getPropertyValue('--kleur-tekst'),
