@@ -2,8 +2,8 @@
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "Duurzaam inkoopbeleid",
-    "link": "https://www.wigo4it.nl/",
+    "label": "Inkoopbeleid",
+    "link": "wiki/wiki.html?page=inkoopbeleid",
     "status": 0
   },
   {
@@ -45,35 +45,35 @@
     "quadrant": 2, 
     "ring": 1,
     "label": "Hardware keten sluiten",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Duurzaam aanbesteden",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Koffie en thee",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "5% van de tijd aan duurzaamheid",
-    "link": "https://www.wigo4it.nl/",
+    "label": "5% tijd",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "1% van het budget naar duurzaamheid",
-    "link": "https://www.wigo4it.nl/",
+    "label": "1% budget",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -87,42 +87,42 @@
     "quadrant": 2, 
     "ring": 2,
     "label": "Archiefwet refinement",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
     "label": "Duurzame product visie",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Realtime dashboards",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "E-mail",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Teams call",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "Water bottles",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -143,7 +143,7 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Webbased",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -164,35 +164,35 @@
     "quadrant": 3, 
     "ring": 1,
     "label": "app services",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Data strategie",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Verwijder strategie",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Reusable API's",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "ARM Technology",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -213,14 +213,14 @@
     "quadrant": 3, 
     "ring": 2,
     "label": "Event-driven",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "Carbon monitoring",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -283,7 +283,7 @@
     "quadrant": 0, 
     "ring": 0,
     "label": "Automate everything",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -339,7 +339,7 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Sustainability by design",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -353,7 +353,7 @@
     "quadrant": 0, 
     "ring": 2,
     "label": "Data retention policies",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -388,7 +388,7 @@
     "quadrant": 0, 
     "ring": 3,
     "label": "Full data sets",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -437,7 +437,7 @@
     "quadrant": 1, 
     "ring": 2,
     "label": "Reduce idle time",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
@@ -465,7 +465,7 @@
     "quadrant": 1, 
     "ring": 3,
     "label": "Always-on",
-    "link": "https://www.wigo4it.nl/",
+    "link": "wiki/wiki.html?page=wigo4it",
     "status": 0
   },
   {
