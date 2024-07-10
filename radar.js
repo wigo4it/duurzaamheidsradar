@@ -16,13 +16,9 @@ function radar_visualization(config) {
 
   const style = getComputedStyle(document.documentElement);
 
-   // Use viewport dimensions with a fallback for smaller screens
-   const screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-   const screenHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
- 
   config.svg_id = "radar";
-  config.width = screenWidth < 600 ? screenWidth : 1450; // Adjust for mobile
-  config.height = screenHeight < 600 ? screenHeight : 900; // Adjust for mobile
+  config.width = 1450;
+  config.height = 900;
   config.colors = {
     background: style.getPropertyValue('--kleur-achtergrond'),
     text: style.getPropertyValue('--kleur-tekst'),
@@ -33,6 +29,7 @@ function radar_visualization(config) {
     planning: style.getPropertyValue('--kleur-planning'),
     undoing: style.getPropertyValue('--kleur-undoing')
   };
+  config.viewport = "width=1024";
   config.quadrants = [
     { name: "Engineering & Techniek" }, //rechtsonder
     { name: "Gedrag &  Mindset" }, //linksonder
