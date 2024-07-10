@@ -344,8 +344,7 @@ function radar_visualization(config) {
                   }
                 }
               
-                // Assuming you want to limit to 20 characters
-                const maxLength = 25;
+                const maxLength = 25; //maximale lengte van de tekst
                 const displayText = d.id + ". " + d.label;
                 return truncateText(displayText, maxLength);
               })
