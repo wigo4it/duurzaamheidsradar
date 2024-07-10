@@ -5,9 +5,6 @@ Welkom bij de [duurzaamheidsradar](https://duurzaamheidsradar.wigo4it.nl) van Wi
 - Inzicht in huidige positie: De radar biedt een visueel overzicht van onze voortgang en prestaties op verschillende duurzaamheidinspanningen.
 - Bewustwording: Door onze duurzaamheidsinspanningen transparant te delen, willen we zowel intern als extern bewustzijn en betrokkenheid vergroten.
 
-## Kerncomponenten:
-Duurzaamheidscriteria: De radar evalueert onze prestaties op basis van diverse duurzaamheidsindicatoren, zoals energieverbruik, afvalbeheer, en sociale verantwoordelijkheid.
-
 ## Visuele weergave 
 Deze intuïtieve en interactieve radar toont onze sterke punten en aandachtspunten. De radar fungeert als een hulpmiddel voor continue verbetering door periodieke updates en betrokkenheid van medewerkers en management.
 
