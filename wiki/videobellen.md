@@ -1,7 +1,8 @@
-# Titel
+# Videobellen
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Het gaat hier om het feit dat 1 op 1 calls duurzamer kunnen via de telefoon
+Voorkeur: fysiek, chat, bellen, videobellen
 
 -
 -

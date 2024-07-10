@@ -1,7 +1,7 @@
-# Titel
+# Dashboards
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Bij ons ontvang je informatie op het juiste moment, in plaats van dat realtime dashboards continu op een scherm worden weergegeven.
 
 -
 -

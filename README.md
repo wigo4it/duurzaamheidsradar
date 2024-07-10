@@ -12,3 +12,5 @@ Deze intuïtieve en interactieve radar toont onze sterke punten en aandachtspunt
 De code voor deze radar is open-source en beschikbaar op GitHub. U kunt de code downloaden, aanpassen en gebruiken om uw eigen duurzaamheidsinitiatieven te evalueren en te verbeteren. We nodigen u uit om bij te dragen aan dit project door suggesties, verbeteringen en nieuwe ideeën te delen.
 
 Samen kunnen we werken aan een duurzamere toekomst. Bedankt voor uw interesse en bijdrage aan de Duurzaamheidsradar van Wigo4it!
+
+![Screenshot duurzaamheidsradar Wigo4it](duurzaamheidsradar.png)

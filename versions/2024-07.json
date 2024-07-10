@@ -10,119 +10,119 @@
     "quadrant": 2, 
     "ring": 0,
     "label": "Energielabel A+",
-    "link": "https://www.kvk.nl/duurzaamheid/energielabel-c-volg-deze-stappen-en-voorkom-een-boete/",
+    "link": "wiki.html?page=energielabelAplus",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "Statiegeld doneren",
-    "link": "https://www.plasticsoupfoundation.org/doneer-statiegeld-aan-plastic-soup-foundation/#:~:text=Per%201%20juli%202021%20zit,milieuorganisaties%20jarenlang%20hard%20voor%20gemaakt.",
+    "label": "Statiegeld",
+    "link": "wiki.html?page=statiegeld",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "Duurzame organisatiedoelen",
-    "link": "wiki.html?page=duurzame-orgdoelen",
+    "label": "Organisatiedoelen",
+    "link": "wiki.html?page=organisatiedoelen",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
-    "label": "STOMP principe",
-    "link": "https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto.",
+    "label": "STOMP",
+    "link": "wiki.html?page=stomp",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 0,
     "label": "Digitaal ondertekenen",
-    "link": "https://www.validsign.eu/",
+    "link": "wiki.html?page=digitaalOndertekenen",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "Hardware keten sluiten",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Hardware",
+    "link": "wiki.html?page=hardware",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "Duurzaam aanbesteden",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Aanbesteden",
+    "link": "wiki.html?page=aanbesteden",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
     "label": "Koffie en thee",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=koffieEnThee",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "5% tijd",
-    "link": "wiki.html?page=wigo4it",
+    "label": "1% van de begroting",
+    "link": "wiki.html?page=1procentVanDeBegroting",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 1,
-    "label": "1% budget",
-    "link": "wiki.html?page=wigo4it",
+    "label": "5% van de tijd",
+    "link": "wiki.html?page=5procentVanDeTijd",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
     "label": "CSRD Rapportage",
-    "link": "https://www.ser.nl/nl/thema/duurzaamheid/eu-duurzaamheidsrapportage",
+    "link": "wiki.html?page=csrdRapportage",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
-    "label": "Archiefwet refinement",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Archiefwet",
+    "link": "wiki.html?page=archiefwet",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 2,
-    "label": "Duurzame product visie",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Productvisie",
+    "link": "wiki.html?page=productvisie",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
-    "label": "Realtime dashboards",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Dashboards",
+    "link": "wiki.html?page=dashboards",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
     "label": "E-mail",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=email",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
-    "label": "Teams call",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Videobellen",
+    "link": "wiki.html?page=videobellen",
     "status": 0
   },
   {
     "quadrant": 2, 
     "ring": 3,
-    "label": "Water bottles",
-    "link": "wiki.html?page=wigo4it",
+    "label": "Waterflessen",
+    "link": "wiki.html?page=waterflessen",
     "status": 0
   },
   {

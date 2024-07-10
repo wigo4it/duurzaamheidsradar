@@ -29,7 +29,6 @@ function radar_visualization(config) {
     planning: style.getPropertyValue('--kleur-planning'),
     undoing: style.getPropertyValue('--kleur-undoing')
   };
-  config.viewport = "width=1450"; //Forceer desktop site op klein scherm (mobiel)
   config.quadrants = [
     { name: "Engineering & Techniek" }, //rechtsonder
     { name: "Gedrag &  Mindset" }, //linksonder

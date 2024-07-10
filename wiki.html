@@ -11,18 +11,7 @@
             const wikiKey = params.get('page');
             if (wikiKey) {
                 const markdownFile = `wiki/${wikiKey}.md`; // Append .md to the wikiKey
-    
-                // Function to capitalize the first letter of a string
-                function capitalizeFirstLetter(string) {
-                    return string.charAt(0).toUpperCase() + string.slice(1);
-                }
-    
-                // Remove the .md extension and capitalize the first letter
-                const pageTitle = capitalizeFirstLetter(wikiKey);
-    
-                // Set the document's title
-                document.title = pageTitle;
-    
+
                 fetch(markdownFile)
                     .then(response => {
                         if (!response.ok) {
@@ -31,6 +20,13 @@
                         return response.text();
                     })
                     .then(markdown => {
+                        // Extract the first line of the markdown file
+                        const firstLine = markdown.split('\n')[0];
+                        // Remove '#' and the space, then set as the document's title
+                        const pageTitle = firstLine.replace('# ', '');
+                        document.title = pageTitle;
+
+                        // Parse the markdown to HTML and display it
                         const htmlContent = marked.parse(markdown);
                         document.getElementById('wiki-container').innerHTML = htmlContent;
                     })

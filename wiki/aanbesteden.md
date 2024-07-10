@@ -1,4 +1,4 @@
-# Titel
+# Aanbesteden
 
 ## Wat wordt hiermee bedoeld?
 Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
@@ -15,4 +15,4 @@ Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
 -
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it website](https://www.wigo4it.nl/)
+- [Duurzaam aanbesteden](https://europadecentraal.nl/onderwerp/aanbesteden/verantwoord-aanbesteden/duurzaam-aanbesteden/)
