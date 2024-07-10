@@ -10,8 +10,14 @@ body {
     padding: 10px;
     color: white;
     background-color: #2C5E4F;
-    width: 50%; /* Set the width to 50% of the viewport width */
     margin: 0 auto; /* Center the container */
+}
+
+/* Media query for screens wider than 768px */
+@media (min-width: 768px) {
+    #wiki-container {
+        width: 50%; /* Set the width to 50% for normal screens */
+    }
 }
 
 #wiki-container a {
