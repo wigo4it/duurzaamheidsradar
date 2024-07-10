@@ -10,6 +10,8 @@ body {
     padding: 10px;
     color: white;
     background-color: #2C5E4F;
+    width: 50%; /* Set the width to 50% of the viewport width */
+    margin: 0 auto; /* Center the container */
 }
 
 #wiki-container a {
