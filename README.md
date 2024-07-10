@@ -1,5 +1,5 @@
 # Duurzaamheidsradar bij Wigo4it
-Welkom bij de [Duurzaamheidsradar](https://duurzaamheidsradar.wigo4it.nl) van Wigo4it! Deze radar is geïnspireerd door de Thoughtworks & Zalando Radar en heeft als doel om onze huidige positie als organisatie op het gebied van duurzaamheid inzichtelijk te maken en tegelijkertijd bewustwording te creëren.
+Welkom bij de [duurzaamheidsradar](https://duurzaamheidsradar.wigo4it.nl) van Wigo4it! Deze radar is geïnspireerd door de Thoughtworks & Zalando Radar en heeft als doel om onze huidige positie als organisatie op het gebied van duurzaamheid inzichtelijk te maken en tegelijkertijd bewustwording te creëren.
 
 ## Doelstellingen:
 Inzicht in huidige positie: De radar biedt een visueel overzicht van onze voortgang en prestaties op verschillende duurzaamheidinspanningen.
