@@ -129,14 +129,21 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Public Cloud",
-    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+    "link": "wiki.html?page=publicCloud",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 0,
+    "label": "Bouw conform je SLA",
+    "link": "wiki.html?page=bouwConformJeSLA",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 0,
     "label": "Cattle",
-    "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
+    "link": "wiki.html?page=cattle",
     "status": 0
   },
   {
@@ -226,8 +233,15 @@
   {
     "quadrant": 3, 
     "ring": 3,
+    "label": "Twin datacenters",
+    "link": "wiki.html?page=twinDatacenters",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 3,
     "label": "Pets",
-    "link": "https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/",
+    "link": "wiki.html?page=pets",
     "status": 0
   },
   {
