@@ -1,7 +1,7 @@
 # Hardware
 
 ## Wat wordt hiermee bedoeld?
-Bij de productie van hardware worden veel schaarse delfstoffen gebruikt, wat jaarlijks zorgt voor een CO2-uitstoot van 2-3 megaton op de Nederlandse markt. Daarnaast produceert Nederland jaarlijks 16 kton aan e-waste door afgedankte hardware. Om deze problemen aan te pakken, ligt de focus nu op het verlengen van de levensduur van hardware. Dit kan door hergebruik, reparatie, verkoop of duurzame afvoer, waardoor we onze impact op het milieu kunnen verminderen en kostbare grondstoffen kunnen besparen.
+Bij de productie van hardware worden veel schaarse grondstoffen gebruikt, wat jaarlijks zorgt voor een CO2-uitstoot van 2 tot 3 megaton op de Nederlandse markt. Daarnaast produceert Nederland jaarlijks 16 kiloton aan e-waste, wat neerkomt op 22 kilogram per persoon aan afgedankte hardware. Om deze problemen aan te pakken, ligt de focus nu op het verlengen van de levensduur van hardware. Dit kan door hergebruik, reparatie, verkoop of duurzame afvoer. Hierdoor kunnen we onze impact op het milieu verminderen en kostbare grondstoffen besparen.
 
 - Hergebruik: Door hardware opnieuw te gebruiken, verminderen we de vraag naar nieuwe producten en besparen we grondstoffen.
 
