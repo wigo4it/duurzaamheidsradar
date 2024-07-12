@@ -10,15 +10,15 @@ Het CleanupFest is een half jaarlijks Wigo4it evenement waarbij medewerkers zich
 - Kennisuitwisseling over cloud management en best practices door actieve deelname aan het evenement.
 
 ## Hoe staan we ervoor?
-Wij hebben het Cleanupfest tot nu twee keer uitgevoerd met verbluffende resultaten. Deze resultaten voelen wel wat dubbel, want als iedereen al een duurzaamheidsmindset had gehad, hadden we het Cleanupfest niet nodig. De afdronk na twee Cleanupfests:
+Wij hebben het CleanupFest tot nu twee keer uitgevoerd met verbluffende resultaten. Deze resultaten voelen wel wat dubbel, want als iedereen al een duurzaamheidsmindset had gehad, hadden we het CleanupFest niet nodig. De afdronk na twee Cleanupfests:
 
 - We blijven dit 100% ieder half jaar doen.
 
 - Totaal meer dan 200.000 euro bespaard. Wat neer komt 8% van onze jaarlijkse Cloud spent.
 
-- Tot nu toe alleen in Azure, de volgende keer ook Cleanupfest in de Oracle Cloud. 
+- Tot nu toe alleen in Azure, de volgende keer ook CleanupFest in de Oracle Cloud. 
 
-- Het Cleanupfest krijgt veel positieve reacties op social media en zelfs al opvolging bij andere bedrijven. Dit draagt weer bij aan naamsbekendheid van Wigo4it en het willen uitstralen van een autoriteit.
+- Het CleanupFest krijgt veel positieve reacties op social media en zelfs al opvolging bij andere bedrijven. Dit draagt weer bij aan naamsbekendheid van Wigo4it en het willen uitstralen van een autoriteit.
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it website](https://www.wigo4it.nl/)
+- [Wigo4it CleanupFest](https://www.wigo4it.nl/techorama-2023/duurzame-tips/)
