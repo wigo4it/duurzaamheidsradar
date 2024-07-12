@@ -15,10 +15,10 @@ Voordelen van het statiegeldsysteem:
 Wigo4it heeft meerdere koelkasten waar onze collega's gratis blikjes fris kunnen pakken. We hebben een aparte inzamelbak voor deze blikjes. Zodra de bak vol is worden de blikjes ingeleverd bij een statiegeld Nederland machine op Centraal Station Den Haag. Het ingezamelde geld wordt gedoneerd aan de [Plastic Soup Foundation](https://www.plasticsoupfoundation.org/doneer-statiegeld-aan-plastic-soup-foundation/#:~:text=Per%201%20juli%202021%20zit,milieuorganisaties%20jarenlang%20hard%20voor%20gemaakt.)
 We doen dit nu zo'n anderhalf jaar en onze afdronk tot dusver is:
 
-- Draagt bij aan verhoogde medewerkerstevredenheid
-- Doneren voelt goed 
-- Blikjes water kopen is onzin (dat komt uit de kraan)
-- Gezondere alternatieven onderzoeken
+- De gratis drankjes dragen bij aan verhoogde medewerkerstevredenheid.
+- Doneren voelt goed.
+- Blikjes water kopen is onzin (dat komt uit de kraan).
+- We moeten een keer gezondere alternatieven onderzoeken in plaats van frisdrank
 
 ## Waar kan ik hier meer over lezen?
 - [Statiegeld Nederland](https://www.statiegeldnederland.nl/)
