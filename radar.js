@@ -42,7 +42,7 @@ function radar_visualization(config) {
     { name: "UNDOING", color: config.colors.undoing, textColor: "white" }
   ];
   config.print_layout = true;
-  config.links_in_new_tabs = true;
+  config.links_in_new_tabs = false;
 
   // custom random number generator, to make random sequence reproducible
   // source: https://stackoverflow.com/questions/521295
