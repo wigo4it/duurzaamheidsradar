@@ -1,8 +1,6 @@
 # Inkoopbeleid
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets:
-
 Een duurzaam inkoopbeleid richt zich op het selecteren van leveranciers die milieuvriendelijke en sociaal verantwoorde producten en diensten aanbieden. Dit omvat criteria voor energie-efficiëntie, herbruikbaarheid, en minimale milieu-impact, evenals ethische overwegingen zoals eerlijke arbeidspraktijken. Het beleid stimuleert het gebruik van lokale leveranciers om transportemissies te verminderen en legt vast dat duurzaamheidseisen in contracten worden opgenomen. Regelmatige evaluatie van leveranciers op duurzaamheidsprestaties is essentieel.
 
 - Richtlijnen voor het selecteren van leveranciers die duurzame producten en diensten aanbieden.
@@ -11,8 +9,6 @@ Een duurzaam inkoopbeleid richt zich op het selecteren van leveranciers die mili
 - Initiatieven voor het verminderen van de ecologische voetafdruk door efficiëntere inkoopprocessen.
 
 ## Hoe staan we ervoor?
-Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
-
 De afgelopen jaren heeft Wigo4it aanzienlijke stappen gezet in de implementatie van een duurzaam inkoopbeleid. Dit beleid richt zich op het minimaliseren van de ecologische voetafdruk en het bevorderen van maatschappelijk verantwoord ondernemen.
 
 - Het selecteren van leveranciers die gebruikmaken van milieuvriendelijke materialen en productieprocessen.
