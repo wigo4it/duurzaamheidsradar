@@ -1,18 +1,24 @@
 # Hardware
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Bij de productie van hardware worden veel schaarse delfstoffen gebruikt, wat jaarlijks zorgt voor een CO2-uitstoot van 2-3 megaton op de Nederlandse markt. Daarnaast produceert Nederland jaarlijks 16 kton aan e-waste door afgedankte hardware. Om deze problemen aan te pakken, ligt de focus nu op het verlengen van de levensduur van hardware. Dit kan door hergebruik, reparatie, verkoop of duurzame afvoer, waardoor we onze impact op het milieu kunnen verminderen en kostbare grondstoffen kunnen besparen.
 
--
--
--
+- Hergebruik: Door hardware opnieuw te gebruiken, verminderen we de vraag naar nieuwe producten en besparen we grondstoffen.
+
+- Reparatie: Het repareren van defecte apparaten verlengt hun levensduur en voorkomt dat ze vroegtijdig als afval eindigen.
+
+- Duurzame afvoer: Hardware die niet meer bruikbaar is, wordt op een milieuvriendelijke manier afgevoerd, bijvoorbeeld door donatie aan initiatieven zoals Closing the Loop.
 
 ## Hoe staan we ervoor?
-Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
+Wanneer gebruikersapparatuur zoals telefoons en laptops defect raken, geven wij de voorkeur aan reparatie boven vervanging. Dit geldt ook voor apparaten die economisch afgeschreven zijn. Ons doel is om de levensduur van onze apparatuur te verlengen en daarmee bij te dragen aan een duurzamere bedrijfsvoering. Voor hardware die nog functioneert hebben wij de volgende opties:
 
--
--
--
+- Overgebleven hardware kan zakelijk worden overgenomen tegen de dagprijs vanuit het COYD-budget.
+
+- Economisch afgeschreven hardware kan via een interne “marktplaats” privé worden overgenomen.
+
+- Hardware die niemand meer wil wordt duurzaam gedoneerd aan initiatieven zoals Closing the Loop.
+
 
 ## Waar kan ik hier meer over lezen?
 - [De Circulaire IT-hardware keten – Afterservice](https://data.rvo.nl/subsidies-regelingen/projecten/de-circulaire-it-hardware-keten-%E2%80%93-afterservice)
+- [Closing the loop](https://www.closingtheloop.eu/)
