@@ -107,13 +107,6 @@
   {
     "quadrant": 2, 
     "ring": 3,
-    "label": "Videobellen",
-    "link": "wiki.html?page=videobellen",
-    "status": 0
-  },
-  {
-    "quadrant": 2, 
-    "ring": 3,
     "label": "Waterflessen",
     "link": "wiki.html?page=waterflessen",
     "status": 0
@@ -473,6 +466,13 @@
     "ring": 3,
     "label": "Always-on",
     "link": "wiki.html?page=wigo4it",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 3,
+    "label": "Videobellen",
+    "link": "wiki.html?page=videobellen",
     "status": 0
   },
   {
