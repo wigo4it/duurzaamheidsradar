@@ -14,8 +14,6 @@ In het digitale tijdperk van vandaag is de manier waarop we communiceren drastis
 ## Hoe staan we ervoor?
 Sinds de coronapandemie is het gebruik van Teams onze standaard communicatiemethode geworden. Momenteel proberen we door middel van voorbeeldgedrag ook onze communicatie te verduurzamen. Hierbij hanteren we de volgende richtlijnen:
 
-- **Geef de voorkeur aan Face-to-Face gesprekken**: Wij beschouwen fysieke interacties als de meest duurzame vorm van communicatie.
-
 - **Chatten**: Voor korte, contextarme interacties maken we gebruik van chatberichten.
 
 - **Bellen**: Eén-op-één gesprekken voeren we bij voorkeur telefonisch en tijdens een wandeling buiten.
