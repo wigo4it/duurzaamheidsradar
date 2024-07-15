@@ -12,6 +12,8 @@ Schatting van CO2-uitstoot per e-mail:
 
 - Spam e-mails: Ongeveer 0.3 gram CO2 per e-mail.
 
+Per persoon stoten we jaarlijks 45kg CO2 uit aan e-mail. Dat staat toch gelijk aan het produceren van 6750 plastic tasjes.
+
 ## Hoe staan we ervoor?
 Wij zijn ons bewust dat e-mail niet een hele grote impact heeft, desondanks brengen we het toch graag onder de aandacht, omdat er ook veel laaghangend fruit is. Er vanuitgaand dat de mail die je bewust stuurt echt nodig is, wordt er ook nog veel mail geautomatiseerd verstuurd. Zo hebben wij de onderstaande automatische mailing met 90% weten te verlagen. 
 
