@@ -1,20 +1,31 @@
 # E-Mail
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Dagelijks worden er wereldwijd een enorme hoeveelheid e-mails verstuurd. Volgens recente schattingen worden er dagelijks meer dan 300 miljard e-mails verstuurd. Dit aantal groeit voortdurend naarmate de wereldwijde digitale communicatie toeneemt.
 
+Het verzenden van e-mails draagt bij aan de CO2-uitstoot, zij het op een relatief kleine schaal per individuele e-mail. De uitstoot komt voornamelijk voort uit het energieverbruik van datacenters, netwerkapparatuur en de apparaten die we gebruiken om e-mails te versturen en te ontvangen.
 
--
--
+Schatting van CO2-uitstoot per e-mail:
+- Korte e-mails (zoals zakelijke correspondentie): Ongeveer 4 gram CO2 per e-mail.
+
+- Gemiddelde e-mails (met bijlagen): Ongeveer 50 gram CO2 per e-mail.
+
+- Spam e-mails: Ongeveer 0.3 gram CO2 per e-mail.
 
 ## Hoe staan we ervoor?
-Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
+Wij zijn ons bewust dat e-mail niet een hele grote impact heeft, desondanks brengen we het toch graag onder de aandacht, omdat er ook veel laaghangend fruit is. Er vanuitgaand dat de mail die je bewust stuurt echt nodig is, wordt er ook nog veel mail geautomatiseerd verstuurd. Zo hebben wij de onderstaande automatische mailing met 90% weten te verlagen. 
 
--
--
--
+- Privileged Identity mail aanvragen en goedkeuringen (2000 per maand)
+
+- Azure DevOps PR's, Pipelines, builds etc (5000 per maand)
+
+- We schrijven ons uit voor nieuwsbrieven die we toch nooit lezen
+
+![Email CO2 Uitstoot](emailuitstoot.png)
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it website](https://www.wigo4it.nl/)
 
-![alt text](emailuitstoot.png)
+[Denk Doe Duurzaam](https://www.denkdoeduurzaam.nl/actueel/nieuws/2023/07/13/dagelijks-dataverkeer-is-vervuilend-wat-kan-er-anders#:~:text=1%20e%2Dmail%20die%20uit,10.000%20e%2Dmails%20per%20jaar.)
+
+
+
