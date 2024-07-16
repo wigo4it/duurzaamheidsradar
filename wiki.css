@@ -25,7 +25,7 @@ body {
 }
 
 #wiki-container a:hover {
-    color: #bb4eac;
+    color: #ba4fab;
 }
 
 #wiki-container h1 {
@@ -37,5 +37,5 @@ body {
 #wiki-container h4,
 #wiki-container h5,
 #wiki-container h6 {
-    color: #66d08f;
+    color: #66d18f;
 }

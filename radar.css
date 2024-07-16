@@ -3,10 +3,10 @@
 :root {
   --kleur-achtergrond: #005452; /* officieel #00116E */
   --kleur-tekst: white;
-  --kleur-doing: #66d08f;
+  --kleur-doing: #66d18f;
   --kleur-ongoing: white;
-  --kleur-planning: #e67968;
-  --kleur-undoing: #bb4eac;
+  --kleur-planning: #f5666b;
+  --kleur-undoing: #ba4fab;
 }
 body {
   font-family: 'Raleway';
