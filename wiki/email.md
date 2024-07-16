@@ -23,11 +23,11 @@ Wij zijn ons bewust dat e-mail niet een hele grote impact heeft, desondanks bren
 
 - We schrijven ons uit voor nieuwsbrieven die we toch nooit lezen
 
-![Email CO2 Uitstoot](emailuitstoot.png)
-
 ## Waar kan ik hier meer over lezen?
 
 [Denk Doe Duurzaam](https://www.denkdoeduurzaam.nl/actueel/nieuws/2023/07/13/dagelijks-dataverkeer-is-vervuilend-wat-kan-er-anders#:~:text=1%20e%2Dmail%20die%20uit,10.000%20e%2Dmails%20per%20jaar.)
+
+![alt text](wiki/emailuitstoot.png)
 
 
 

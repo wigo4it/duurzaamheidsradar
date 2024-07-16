@@ -1,3 +1,3 @@
 # Big O Notation
 
-![alt text](bigOnotation.png)
+![alt text](wiki/bigOnotation.png)
