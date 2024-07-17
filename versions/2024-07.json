@@ -36,6 +36,13 @@
   },
   {
     "quadrant": 2, 
+    "ring": 0,
+    "label": "Schoonmaak",
+    "link": "wiki.html?page=schoonmaak",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
     "ring": 1,
     "label": "Hardware",
     "link": "wiki.html?page=hardware",
