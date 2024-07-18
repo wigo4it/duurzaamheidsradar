@@ -150,7 +150,7 @@
     "quadrant": 3, 
     "ring": 0,
     "label": "Containerization",
-    "link": "https://en.wikipedia.org/wiki/Containerization_(computing)",
+    "link": "wiki.html?page=containerization",
     "status": 0
   },
   {
@@ -164,63 +164,63 @@
     "quadrant": 3, 
     "ring": 1,
     "label": "app services",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=appServices",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Data strategie",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=dataStrategie",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Verwijder strategie",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=verwijderStrategie",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 1,
     "label": "Reusable API's",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=reusableAPIs",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "ARM Technology",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=armTechnology",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "Electricity Map",
-    "link": "https://app.electricitymaps.com/zone/NL",
+    "link": "wiki.html?page=electricityMap",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "Green builds",
-    "link": "https://app.electricitymaps.com/zone/NL",
+    "link": "wiki.html?page=greenBuilds",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "Event-driven",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=eventDriven",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
     "label": "Carbon monitoring",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=carbonMonitoring",
     "status": 0
   },
   {
@@ -241,133 +241,126 @@
     "quadrant": 3, 
     "ring": 3,
     "label": "Dark data",
-    "link": "https://en.wikipedia.org/wiki/Dark_data",
+    "link": "wiki.html?page=darkData",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Fault tolerance",
-    "link": "https://en.wikipedia.org/wiki/Fault_tolerance",
+    "link": "wiki.html?page=faultTolerance",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "IaaS",
-    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "link": "wiki.html?page=iaas",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Citrix",
-    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+    "link": "wiki.html?page=citrix",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
     "label": "Server backups",
-    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
-    "status": 0
-  },
-  {
-    "quadrant": 3, 
-    "ring": 3,
-    "label": "Eigen hardware in datacenters",
-    "link": "https://www.wigo4it.nl",
+    "link": "wiki.html?page=serverBackups",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 0,
     "label": "Infrastructure as Code",
-    "link": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
+    "link": "wiki.html?page=infrastructureAsCode",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 0,
     "label": "Automate everything",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=automateEverything",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 0,
     "label": "Green Coding",
-    "link": "https://greensoftware.foundation/articles/10-recommendations-for-green-software-development",
+    "link": "wiki.html?page=greenCoding",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 0,
     "label": ".NET",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "link": "wiki.html?page=.net",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 0,
     "label": "JAVA",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "link": "wiki.html?page=JAVA",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 0,
     "label": "Terracost",
-    "link": "https://github.com/cycloidio/terracost",
+    "link": "wiki.html?page=terracost",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 1,
     "label": "Green Software patterns",
-    "link": "https://patterns.greensoftware.foundation/",
+    "link": "wiki.html?page=greenSoftwarePatterns",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 1,
     "label": "Right Size provisioning",
-    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "link": "wiki.html?page=rightSizeProvisioning",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 1,
     "label": "Planet as a Stakeholder",
-    "link": "https://theplanetasastakeholder.com/",
+    "link": "wiki.html?page=planetAsAStakeholder",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
     "label": "Sustainability by design",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=sustainabilityByDesign",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
     "label": "Energy proportionality",
-    "link": "https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/4-energy-efficiency",
+    "link": "wiki.html?page=energyProportionality",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
     "label": "Data retention policies",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=dataRetentionPolicies",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 2,
     "label": "Carbon Aware SDK",
-    "link": "https://carbon-aware-sdk.greensoftware.foundation/",
+    "link": "wiki.html?page=carbonAwareSDK",
     "status": 0
   },
   {
@@ -388,21 +381,21 @@
     "quadrant": 0, 
     "ring": 3,
     "label": "Python",
-    "link": "https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/",
+    "link": "wiki.html?page=python",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 3,
     "label": "Full data sets",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=fullDataSets",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 0,
     "label": "Dualsimtelefoon",
-    "link": "https://nl.wikipedia.org/wiki/Dualsimtelefoon",
+    "link": "wiki.html?page=dualsimtelefoon",
     "status": 0
   },
   {
@@ -416,7 +409,7 @@
     "quadrant": 1, 
     "ring": 0,
     "label": "End-2-end responsibility",
-    "link": "https://peerspectivegmbh.medium.com/aligned-autonomy-what-is-it-and-how-may-i-adopt-it-a4f8775371d9",
+    "link": "wiki.html?page=end-2-endResponsibility",
     "status": 0
   },
   {
@@ -430,49 +423,49 @@
     "quadrant": 1, 
     "ring": 1,
     "label": "Orphaned Resources",
-    "link": "https://www.wigo4it.nl/techorama-2023/duurzame-tips/",
+    "link": "wiki.html?page=orphanedResources",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 1,
     "label": "Digital Cleanupday",
-    "link": "https://www.digitalcleanupday.org/",
+    "link": "wiki.html?page=digitalCleanupday",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
     "label": "Reduce idle time",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=reduceIdleTime",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
     "label": "Green Software Practitioner",
-    "link": "https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/",
+    "link": "wiki.html?page= greenSoftwarePractitioner",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
     "label": "Agile Sustainability Manifesto",
-    "link": "https://www.agilealliance.org/sustainability-manifesto/",
+    "link": "wiki.html?page=agileSustainabilityManifesto",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
     "label": "Demand Shaping",
-    "link": "https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-application-platform#process-when-the-carbon-intensity-is-low",
+    "link": "wiki.html?page=demandShaping",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 3,
     "label": "Always-on",
-    "link": "wiki.html?page=wigo4it",
+    "link": "wiki.html?page=always-on",
     "status": 0
   },
   {
