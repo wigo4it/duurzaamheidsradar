@@ -1,7 +1,7 @@
 # Reduce idle time
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Onderzoeken of we onze idle time in de nacht waar we niet onderuit komen in kunnen zetten voor iets nuttigs. (verder uitwerken)
 
 - 
 

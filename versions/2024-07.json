@@ -296,6 +296,13 @@
   {
     "quadrant": 0, 
     "ring": 0,
+    "label": "Self-service",
+    "link": "wiki.html?page=selfService",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
     "label": "Green Coding",
     "link": "wiki.html?page=greenCoding",
     "status": 0
@@ -319,6 +326,13 @@
     "ring": 0,
     "label": "Terracost",
     "link": "wiki.html?page=terracost",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Scaling",
+    "link": "wiki.html?page=scaling",
     "status": 0
   },
   {
@@ -401,22 +415,15 @@
   {
     "quadrant": 1, 
     "ring": 0,
-    "label": "Dualsimtelefoon",
-    "link": "wiki.html?page=dualsimtelefoon",
-    "status": 0
-  },
-  {
-    "quadrant": 1, 
-    "ring": 0,
     "label": "On-demand",
-    "link": "wiki.html?page=on-demand",
+    "link": "wiki.html?page=ondemand",
     "status": 0
   },
   {
     "quadrant": 1, 
-    "ring": 0,
-    "label": "End-2-end responsibility",
-    "link": "wiki.html?page=end-2-endResponsibility",
+    "ring": 1,
+    "label": "Verantwoordelijkheid",
+    "link": "wiki.html?page=verantwoordelijkheid",
     "status": 0
   },
   {
@@ -429,8 +436,15 @@
   {
     "quadrant": 1, 
     "ring": 1,
-    "label": "Orphaned Resources",
-    "link": "wiki.html?page=orphanedResources",
+    "label": "Dualsimtelefoon",
+    "link": "wiki.html?page=dualsimtelefoon",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 1,
+    "label": "Workbooks",
+    "link": "wiki.html?page=workbooks",
     "status": 0
   },
   {
@@ -450,29 +464,29 @@
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "Green Software Practitioner",
-    "link": "wiki.html?page= greenSoftwarePractitioner",
+    "label": "Certification",
+    "link": "wiki.html?page=certification",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "Agile Sustainability Manifesto",
-    "link": "wiki.html?page=agileSustainabilityManifesto",
+    "label": "Manifesto",
+    "link": "wiki.html?page=manifesto",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 2,
-    "label": "Demand Shaping",
-    "link": "wiki.html?page=demandShaping",
+    "label": "CO2Demand",
+    "link": "wiki.html?page=CO2Demand",
     "status": 0
   },
   {
     "quadrant": 1, 
     "ring": 3,
     "label": "Always-on",
-    "link": "wiki.html?page=always-on",
+    "link": "wiki.html?page=alwayson",
     "status": 0
   },
   {

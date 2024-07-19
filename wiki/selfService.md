@@ -1,4 +1,4 @@
-# Green Software Practitioner
+# Titel
 
 ## Wat wordt hiermee bedoeld?
 Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.

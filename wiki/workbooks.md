@@ -1,9 +1,7 @@
-# Always On
+# Workbooks
 
 ## Wat wordt hiermee bedoeld?
-AVS - always on
-Ook wij hebben (uiteraard) omgevingen die 24/7 nog aanstaan. AVS = hypotheek.
-AVS tot bare minimum
+Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
 
 - 
 

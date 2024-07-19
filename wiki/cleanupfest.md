@@ -16,6 +16,8 @@ Wij hebben het CleanupFest tot nu twee keer uitgevoerd met verbluffende resultat
 
 - Totaal meer dan 200.000 euro bespaard. Wat neer komt 8% van onze jaarlijkse Cloud spent.
 
+- We hebben wel is teveel weggegooid :)
+
 - Tot nu toe alleen in Azure, de volgende keer ook CleanupFest in de Oracle Cloud. 
 
 - Het CleanupFest krijgt veel positieve reacties op social media en zelfs al opvolging bij andere bedrijven. Dit draagt weer bij aan naamsbekendheid van Wigo4it en het willen uitstralen van een autoriteit.

@@ -1,7 +1,8 @@
-# End-2-end Responsibility
+# Demand Shaping
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Demand afstellen op carbon intensity. 
+Batches automatisch laten draaien als via de ElectricityMaps API blijkt dat de carbon intensity low is.
 
 - 
 

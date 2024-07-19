@@ -13,6 +13,7 @@ Wigo4it is gevestigd het kantorenpand New Babylon in Den Haag. Dit pand heeft En
 
 - Milieuvriendelijker
 - Gezonder binnenklimaat 
+- We zitten wel is in het donker vanwege de bewegingssensoren
 - Positieve bedrijfsreputatie
 
 ## Waar kan ik hier meer over lezen?
