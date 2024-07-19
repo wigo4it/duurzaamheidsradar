@@ -3,11 +3,13 @@
 ## Wat wordt hiermee bedoeld?
 Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
 
-- 
+- appservices
 
-- 
+- webapps
 
-- 
+- functionapps
+
+- AKS
 
 ## Hoe staan we ervoor?
 Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:

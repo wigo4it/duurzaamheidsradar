@@ -156,31 +156,11 @@
   {
     "quadrant": 3, 
     "ring": 0,
-    "label": "Containerization",
-    "link": "wiki.html?page=containerization",
-    "status": 0
-  },
-  {
-    "quadrant": 3, 
-    "ring": 0,
     "label": "Batches",
     "link": "wiki.html?page=batches",
     "status": 0
   },
-  {
-    "quadrant": 3, 
-    "ring": 1,
-    "label": "app services",
-    "link": "wiki.html?page=appServices",
-    "status": 0
-  },
-  {
-    "quadrant": 3, 
-    "ring": 1,
-    "label": "Data strategie",
-    "link": "wiki.html?page=dataStrategie",
-    "status": 0
-  },
+
   {
     "quadrant": 3, 
     "ring": 1,
@@ -191,15 +171,22 @@
   {
     "quadrant": 3, 
     "ring": 1,
-    "label": "Reusable API's",
-    "link": "wiki.html?page=reusableAPIs",
+    "label": "API's",
+    "link": "wiki.html?page=APIs",
+    "status": 0
+  },
+  {
+    "quadrant": 3, 
+    "ring": 1,
+    "label": "Event-driven",
+    "link": "wiki.html?page=eventDriven",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 2,
-    "label": "ARM Technology",
-    "link": "wiki.html?page=armTechnology",
+    "label": "ARM Architectuur",
+    "link": "wiki.html?page=armArchitectuur",
     "status": 0
   },
   {
@@ -219,15 +206,8 @@
   {
     "quadrant": 3, 
     "ring": 2,
-    "label": "Event-driven",
-    "link": "wiki.html?page=eventDriven",
-    "status": 0
-  },
-  {
-    "quadrant": 3, 
-    "ring": 2,
-    "label": "Carbon monitoring",
-    "link": "wiki.html?page=carbonMonitoring",
+    "label": "CO2monitoring",
+    "link": "wiki.html?page=CO2monitoring",
     "status": 0
   },
   {
@@ -254,13 +234,6 @@
   {
     "quadrant": 3, 
     "ring": 3,
-    "label": "Fault tolerance",
-    "link": "wiki.html?page=faultTolerance",
-    "status": 0
-  },
-  {
-    "quadrant": 3, 
-    "ring": 3,
     "label": "IaaS",
     "link": "wiki.html?page=iaas",
     "status": 0
@@ -268,15 +241,15 @@
   {
     "quadrant": 3, 
     "ring": 3,
-    "label": "Citrix",
-    "link": "wiki.html?page=citrix",
+    "label": "Client Server",
+    "link": "wiki.html?page=clientServer",
     "status": 0
   },
   {
     "quadrant": 3, 
     "ring": 3,
-    "label": "Server backups",
-    "link": "wiki.html?page=serverBackups",
+    "label": "Backups",
+    "link": "wiki.html?page=backups",
     "status": 0
   },
   {
@@ -298,6 +271,13 @@
     "ring": 0,
     "label": "Self-service",
     "link": "wiki.html?page=selfService",
+    "status": 0
+  },
+  {
+    "quadrant": 0, 
+    "ring": 0,
+    "label": "Containerization",
+    "link": "wiki.html?page=containerization",
     "status": 0
   },
   {

@@ -1,7 +1,7 @@
 # Dark Data
 
 ## Wat wordt hiermee bedoeld?
-Beschrijf wat we bedoelen met dit item. Geef voorbeelden in bullets.
+Niet opslaan is het beste. Dark data voorkomen.
 
 - 
 
