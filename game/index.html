@@ -1,0 +1,208 @@
+<!-- 
+The MIT License (MIT)
+
+Copyright (c) 2017 Zalando SE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+Kleuren: 
+  Roze    : #BB4EAC
+  Mint    : #66D08F
+  Blauw   : #00116E
+  Oranje  : #E67968
+  Groen   : #005452
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Random Number Game</title>
+	<style>
+		@font-face {
+			font-family: 'Anderson Four Feather Falls';
+			src: url('Anderson Four Feather Falls.ttf') format('truetype');
+		}
+
+		#confetti {
+			display: none;
+			/* Hide canvas initially */
+		}
+
+		body {
+			display: flex;
+			flex-direction: column;
+			/* Stacks items vertically */
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			margin: 0;
+			background-image: url('game.png');
+			/* Sets the background image to game.png */
+			background-size: cover;
+			/* Ensures the background covers the entire area */
+			background-position: center top 5px;
+			/* Centers the background image and offsets it 100px from the top */
+		}
+
+		#randomNumberButton {
+			width: 250px;
+			height: 250px;
+			font-size: 40px;
+			border: none;
+			cursor: pointer;
+			border-radius: 50%;
+			border: 6px solid #9f2f90;
+			/* Creates a border around the box */
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-family: 'Anderson Four Feather Falls', sans-serif;
+			position: fixed;
+			top: calc(50% - 170px);
+			left: 50%;
+			transform: translate(-50%, -50%);
+			background: linear-gradient(to bottom, #FF85A2 0%, #BB4EAC 100%);
+			box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6), 0 5px 10px rgba(0, 0, 0, 0.4);
+			/* Enhanced shadow for more depth */
+			transition: box-shadow 0.2s, transform 0.2s;
+			/* Smooth transition for shadow and position */
+		}
+
+		#randomNumberButton:active {
+			box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+			/* Reduced shadow for pressed effect */
+			transform: translate(-50%, -48%) scale(0.98);
+			/* Slightly move down and scale down */
+		}
+
+		#displayNumber {
+			position: fixed;
+			/* Keeps the display number's position fixed */
+			top: calc(50% - 60px);
+			/* Positions the number just above the center, below the button */
+			left: 50%;
+			/* Centers the number horizontally */
+			transform: translateX(-50%);
+			/* Adjusts for exact horizontal centering */
+			width: 150px;
+			/* Sets the width of the box to 100px */
+			height: 130px;
+			/* Sets the height of the box to 100px */
+			font-size: 90px;
+			/* Keeps the doubled font size for the displayed number */
+			font-family: 'Anderson Four Feather Falls', sans-serif;
+			/* Maintains the custom font */
+			color: #005452;
+			margin-top: 60px;
+			/* Adds space between the button and the number */
+			padding: 20px;
+			/* Adds padding around the text */
+			border: 6px solid #005452;
+			/* Creates a border around the box */
+			background-color: white;
+			/* Sets the background color of the box to white */
+			box-sizing: border-box;
+			/* Ensures padding and border are included in the element's total width and height */
+			display: flex;
+			/* Enables flexbox properties */
+			justify-content: center;
+			/* Centers content horizontally */
+			align-items: center;
+			/* Centers content vertically */
+			overflow: hidden;
+			/* Hides any overflow */
+			border-radius: 20px;
+			/* Makes corners of the box round */
+		}
+
+		h1 {
+			position: absolute;
+			margin-top: 30vh;
+			width: 100%;
+			text-align: center;
+			font-size: 333%;
+			font-family: sans-serif;
+			color: grey;
+			opacity: 0.5;
+		}
+
+		canvas {
+			overflow-y: hidden;
+			overflow-x: hidden;
+			width: 100%;
+			margin: 0;
+		}
+
+
+		@keyframes blink {
+			0% {
+				opacity: 1;
+			}
+
+			50% {
+				opacity: 0;
+			}
+
+			100% {
+				opacity: 1;
+			}
+		}
+	</style>
+</head>
+
+<body>
+
+	<button id="randomNumberButton">Wat kan jij doen?</button>
+	<div id="displayNumber"></div>
+	<canvas id="confetti"></canvas>
+
+	<script src="/confetti.js"></script>
+	<script>
+		document.getElementById('randomNumberButton').addEventListener('click', function () {
+			const maxNumber = 70;
+			const interval = 100; // Milliseconds between number changes, adjust for speed
+			const display = document.getElementById('displayNumber');
+			const duration = 4000; // Duration of the entire loop in milliseconds
+
+			// Function to generate a random number between 1 and maxNumber
+			const generateRandomNumber = () => Math.floor(Math.random() * maxNumber) + 1;
+
+			// Start looping through random numbers
+			const startTime = Date.now();
+			const numberInterval = setInterval(() => {
+				const randomNumber = generateRandomNumber();
+				display.textContent = randomNumber;
+				display.classList.remove('finalNumber'); // Ensure class is removed during looping
+				if (Date.now() - startTime > duration) {
+					clearInterval(numberInterval); // Stop the looping
+					display.textContent = randomNumber; // Display final random number
+					display.classList.add('finalNumber'); // Add class to make final number blink and change color
+
+					// Check if the final number is 2, then start the confetti animation
+					if (randomNumber % 2 === 0) {
+						document.getElementById('confetti').style.display = 'block'; // Ensure the canvas is visible
+					}
+
+					// Hide the confetti after x seconds
+					setTimeout(function () {
+						document.getElementById('confetti').style.display = 'none'; // Hide the confetti canvas
+					}, 5000);
+				}
+			}, interval);
+		});
+	</script>
+
+</body>
+
+</html>
