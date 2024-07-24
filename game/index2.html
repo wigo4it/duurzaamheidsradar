@@ -49,8 +49,6 @@ Kleuren:
 			background-image: url('game.png');
 			background-position: center center;
 			background-repeat: no-repeat;
-			background-size: cover;
-			background-position: center top 1px;
 		}
 
 		#randomNameButton {
@@ -206,10 +204,28 @@ Kleuren:
 			});
 		});
 
-		function startConfetti() {
-			// Your confetti.js start script here
-			// Example: confetti.start();
+		function adjustBackgroundSize() {
+			const aspectRatio = 16 / 9;
+			let bgWidth, bgHeight;
+
+			// Check if the current window aspect ratio is greater than 4:3
+			if (window.innerWidth / window.innerHeight > aspectRatio) {
+				// Window is wider than 4:3, adjust background size based on window height
+				bgHeight = window.innerHeight;
+				bgWidth = bgHeight * aspectRatio;
+			} else {
+				// Window is narrower than 4:3, adjust background size based on window width
+				bgWidth = window.innerWidth;
+				bgHeight = bgWidth / aspectRatio;
+			}
+
+			// Apply the calculated background size
+			document.body.style.backgroundSize = `${bgWidth}px ${bgHeight}px`;
 		}
+
+		// Adjust background size on window resize and initial load
+		window.addEventListener('resize', adjustBackgroundSize);
+		window.addEventListener('load', adjustBackgroundSize);
 	</script>
 </body>
 
