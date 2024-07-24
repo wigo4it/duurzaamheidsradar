@@ -42,17 +42,15 @@ Kleuren:
 		body {
 			display: flex;
 			flex-direction: column;
-			/* Stacks items vertically */
 			justify-content: center;
 			align-items: center;
 			height: 100vh;
 			margin: 0;
 			background-image: url('game.png');
-			/* Sets the background image to game.png */
-			background-size: cover;
-			/* Ensures the background covers the entire area */
-			background-position: center top 5px;
-			/* Centers the background image and offsets it 100px from the top */
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: contain;
+			background-position: center top 1px;
 		}
 
 		#randomNameButton {
@@ -63,7 +61,6 @@ Kleuren:
 			cursor: pointer;
 			border-radius: 50%;
 			border: 6px solid #9f2f90;
-			/* Creates a border around the box */
 			display: flex;
 			justify-content: center;
 			align-items: center;
@@ -191,7 +188,7 @@ Kleuren:
 					displayName.textContent = names[currentIndex];
 					currentIndex = (currentIndex + 1) % names.length;
 				}, intervalTime);
-				
+
 				setTimeout(function () {
 					clearInterval(interval); // Stop changing names
 					// Display a random name as the final name
@@ -200,7 +197,7 @@ Kleuren:
 					// Start confetti effect here
 				}, totalTime);
 
-				
+
 				// Show the confetti and play sound after x seconds
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'block';
