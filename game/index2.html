@@ -183,9 +183,10 @@ Kleuren:
 
 			button.addEventListener('click', function () {
 				document.getElementById('wachtMuziekje').play();
+				document.getElementById('confetti').style.display = 'none';
 				let currentIndex = 0;
 				const intervalTime = 200; // Time between name changes, adjust as needed
-				const totalTime = 23000; // Total time to loop through names
+				const totalTime = 22900; // Total time to loop through names
 				const interval = setInterval(function () {
 					displayName.textContent = names[currentIndex];
 					currentIndex = (currentIndex + 1) % names.length;
@@ -204,17 +205,7 @@ Kleuren:
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'block';
 					document.getElementById('winnaar').play();
-					document.getElementById('eindMuziekje').play();
-				}, 23200);
-
-				// Hide the confetti and sound after x seconds
-				setTimeout(function () {
-					document.getElementById('confetti').style.display = 'none';
-					const eindMuziekje = document.getElementById('eindMuziekje');
-					eindMuziekje.pause(); // Stop playing the sound
-					eindMuziekje.currentTime = 0; // Reset the sound to the beginning
-				}, 40000);
-
+				}, 23000);
 			});
 		});
 
