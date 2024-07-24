@@ -27,7 +27,7 @@ Kleuren:
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Fun Fair Game</title>
+	<title>CO2 Game by tattaTeun</title>
 	<style>
 		@font-face {
 			font-family: 'Anderson Four Feather Falls';
@@ -172,7 +172,7 @@ Kleuren:
 
 	<script>
 		document.addEventListener('DOMContentLoaded', function () {
-			const names = ["Dian", "Jean-Paul", "Sabine", "John"];
+			const names = ["Dian", "Jean-Paul", "Sabine", "John", "tattaTeun"];
 			const button = document.getElementById('randomNameButton');
 			const displayName = document.getElementById('displayName');
 
@@ -180,8 +180,8 @@ Kleuren:
 				document.getElementById('wachtMuziekje').play();
 				document.getElementById('confetti').style.display = 'none';
 				let currentIndex = 0;
-				const intervalTime = 200; // Time between name changes, adjust as needed
-				const totalTime = 22900; // Total time to loop through names
+				const intervalTime = 300; // Time between name changes, adjust as needed
+				const totalTime = 6900; // Total time to loop through names
 				const interval = setInterval(function () {
 					displayName.textContent = names[currentIndex];
 					currentIndex = (currentIndex + 1) % names.length;
@@ -191,7 +191,7 @@ Kleuren:
 					clearInterval(interval); // Stop changing names
 					// Display a random name as the final name
 					const randomIndex = Math.floor(Math.random() * names.length);
-					displayName.textContent = names[randomIndex]; // Display the random name
+					displayName.textContent = "tattateun"; // Always display "tattateun"
 					// Start confetti effect here
 				}, totalTime);
 
@@ -200,7 +200,7 @@ Kleuren:
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'block';
 					document.getElementById('winnaar').play();
-				}, 23000);
+				}, 7000);
 			});
 		});
 
