@@ -6,7 +6,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>CO2 Game by tattaTeun</title>
 	<style>
-
 		#confetti {
 			display: none;
 		}
@@ -25,10 +24,13 @@
 
 		#randomNameButton {
 			position: fixed;
-			top: 32%;
+			top: 50%;
 			left: 50%;
 			width: 15vw;
-			height: 15vw;
+			min-width: 10px;
+			max-width: 200px;
+			padding-top: 1vw;
+			aspect-ratio: 1 / 1;
 			font-size: 2.2vw;
 			border: 0.45vw solid #9f2f90;
 			border-radius: 50%;
@@ -36,8 +38,7 @@
 			justify-content: center;
 			align-items: center;
 			font-family: 'Anderson Four Feather Falls', sans-serif;
-			padding-top: 1vw;
-			transform: translate(-50%, -50%);
+			transform: translate(-50%, -125%);
 			background: linear-gradient(to bottom, #FF85A2 0%, #BB4EAC 100%);
 			box-shadow: 0 1.5vw 2.5vw rgba(0, 0, 0, 0.6), 0 0.5vw 1vw rgba(0, 0, 0, 0.4);
 			transition: box-shadow 0.2s, transform 0.2s;
@@ -45,7 +46,7 @@
 
 		#randomNameButton:active {
 			box-shadow: 0 0.5vw 1vw rgba(0, 0, 0, 0.5);
-			transform: translate(-50%, -48%) scale(0.98);
+			transform: translate(-50%, -120%) scale(0.98);
 		}
 
 		#displayName {
@@ -68,7 +69,6 @@
 			align-items: center;
 			border-radius: 20px;
 		}
-
 	</style>
 </head>
 
