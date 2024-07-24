@@ -166,10 +166,11 @@ Kleuren:
 
 <body>
 
-	<button id="randomNameButton">Wie wint de C02 meter?</button>
+	<button id="randomNameButton">Wie wint een C02 meter?</button>
 	<div id="displayName"></div>
 	<canvas id="confetti"></canvas>
 	<audio id="wachtMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
+	<audio id="eindMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
 	<audio id="winnaar" src="winnaar.mp3" type="audio/mp3"></audio>
 
 	<script src="confetti.js"></script>
@@ -198,19 +199,21 @@ Kleuren:
 					// Start confetti effect here
 				}, totalTime);
 
+				
 				// Show the confetti and play sound after x seconds
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'block';
 					document.getElementById('winnaar').play();
-				}, 23100);
+					document.getElementById('eindMuziekje').play();
+				}, 23200);
 
 				// Hide the confetti and sound after x seconds
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'none';
-					const winnaar = document.getElementById('winnaar');
-					winnaar.pause(); // Stop playing the sound
-					winnaar.currentTime = 0; // Reset the sound to the beginning
-				}, 30000);
+					const eindMuziekje = document.getElementById('eindMuziekje');
+					eindMuziekje.pause(); // Stop playing the sound
+					eindMuziekje.currentTime = 0; // Reset the sound to the beginning
+				}, 40000);
 
 			});
 		});
