@@ -27,6 +27,9 @@ body {
     width: 15vw;
     height: 15vw;
     padding-top: 1vw;
+    padding-bottom: 0.7vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
     font-size: 2vw;
     border: 0.45vw solid #9f2f90;
     border-radius: 50%;
@@ -64,4 +67,33 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 20px;
+}
+
+@keyframes blink {
+    0%, 100% { color: transparent; }
+    50% { color: gold; }
+}
+
+.final-name {
+    animation: blink 1s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: translate(-50%, -125%) rotate(0deg); /* Starting position */
+    }
+    25% {
+        transform: translate(-90%, -100%) rotate(180deg); /* Mid-point - reaches the 'to' state */
+    }
+    50% {
+        transform: translate(-20%, -100%) rotate(360deg); /* Mid-point - reaches the 'to' state */
+    }
+    100% {
+        transform: translate(-50%, -125%) rotate(720deg); /* End position - returns to the 'from' state with an additional rotation */
+    }
+}
+
+.rotate {
+    animation: rotate calc(var(--animation-duration) / var(--animation-divisor)) linear infinite;
+    transform-origin: center center;
 }

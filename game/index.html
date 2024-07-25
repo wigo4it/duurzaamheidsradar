@@ -8,49 +8,68 @@
 	<link rel="stylesheet" href="game.css">
 </head>
 
+<style>
+    .rotate {
+        --animation-duration: 22s;
+		--animation-divisor: 3;
+    }
+</style>
+
 <body>
-	<button id="button">Wie wint een C02 meter?</button>
+	<button id="button">Wie wint er een C02 meter?</button>
 	<div id="textBox"></div>
 	<canvas id="confetti"></canvas>
 	<audio id="wachtMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
 	<audio id="winnaar" src="winnaar.mp3" type="audio/mp3"></audio>
-	
+	<a href="https://brave-flower-0b3176903.5.azurestaticapps.net/game/index.html" class="background-link"></a>
+
+
 	<script src="confetti.js"></script>
-	
+
 	<script>
 		document.addEventListener('DOMContentLoaded', function () {
 			const button = document.getElementById('button');
 			const textBox = document.getElementById('textBox');
-			let names = []; 
+			let names = [];
 
 			fetch('game.csv')
-			.then(response => response.text())
-			.then(data => {
-				names = data.split(',');
-				console.log(names);
-			});
-	
+				.then(response => response.text())
+				.then(data => {
+					names = data.split(',');
+					console.log(names);
+				});
+
 			button.addEventListener('click', function () {
+				// Capture the button context to use inside setInterval and setTimeout
+				const self = this;
+				textBox.classList.remove('final-name');
+				// Reset animation by removing and re-adding the class
+				self.classList.remove('rotate');
+				void self.offsetWidth; // Force reflow
+				self.classList.add('rotate');
+
 				document.getElementById('wachtMuziekje').play();
 				document.getElementById('confetti').style.display = 'none';
 				let currentIndex = 0;
 				const intervalTime = 300;
-				const totalTime = 6900;
+				const totalTime = 22000;
 				const interval = setInterval(function () {
-					if(names.length > 0){ // Check if names is not empty
+					if (names.length > 0) { // Check if names is not empty
 						textBox.textContent = names[currentIndex];
 						currentIndex = (currentIndex + 1) % names.length;
 					}
 				}, intervalTime);
-	
+
 				setTimeout(function () {
 					clearInterval(interval);
-					if(names.length > 0){ // Check if names is not empty
+					if (names.length > 0) { // Check if names is not empty
 						const randomIndex = Math.floor(Math.random() * names.length);
 						textBox.textContent = names[randomIndex]; // Display a random name
+						textBox.classList.add('final-name');
+						self.classList.remove('rotate');
 					}
 				}, totalTime);
-	
+
 				// Show the confetti and play sound after x seconds
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'block';
