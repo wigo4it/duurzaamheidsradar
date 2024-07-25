@@ -9,10 +9,10 @@
 </head>
 
 <style>
-    .rotate {
-        --animation-duration: 42s;
+	.rotate {
+		--animation-duration: 42s;
 		--animation-divisor: 4;
-    }
+	}
 </style>
 
 <body>
@@ -38,12 +38,12 @@
 					names = data.split(',');
 					console.log(names);
 				});
-
-			button.addEventListener('click', function () {
-				const self = this;
+			// Function to handle the action
+			function handleAction() {
+				const self = button;
 				textBox.classList.remove('final-name');
 				self.classList.remove('rotate');
-				void self.offsetWidth; 
+				void self.offsetWidth;
 				self.classList.add('rotate');
 
 				document.getElementById('wachtMuziekje').play();
@@ -51,7 +51,7 @@
 				let currentIndex = 0;
 				const intervalTime = 400;
 				const totalTime = 42000;
-				
+
 				const interval = setInterval(function () {
 					if (names.length > 0) {
 						textBox.textContent = names[currentIndex];
@@ -61,7 +61,7 @@
 
 				setTimeout(function () {
 					clearInterval(interval);
-					if (names.length > 0) { 
+					if (names.length > 0) {
 						const randomIndex = Math.floor(Math.random() * names.length);
 						textBox.textContent = names[randomIndex]; // Display a random name
 						textBox.classList.add('final-name');
@@ -74,7 +74,18 @@
 					document.getElementById('confetti').style.display = 'block';
 					document.getElementById('winnaar').play();
 				}, totalTime + 100); // Adjust time as needed
+			}
+
+			// Add event listener for the button click
+			button.addEventListener('click', handleAction);
+
+			// Add event listener for the Enter key press
+			document.addEventListener('keydown', function (event) {
+				if (event.key === 'Enter'|| event.key === ' ') {
+					handleAction();
+				}
 			});
+
 		});
 	</script>
 </body>
