@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>CO2 Game by tattaTeun</title>
+	<title>Made by tattaTeun</title>
 	<link rel="stylesheet" href="game.css">
 </head>
 
 <body>
-	<button id="button">Wie wint een C02 meter?</button>
+	<button id="button">TattaTeun wint een C02 meter!</button>
 	<div id="textBox"></div>
 	<canvas id="confetti"></canvas>
 	<audio id="wachtMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
@@ -47,8 +47,8 @@
 					clearInterval(interval);
 					if(names.length > 0){ // Check if names is not empty
 						const randomIndex = Math.floor(Math.random() * names.length);
-						textBox.textContent = names[randomIndex]; // Display a random name
-					}
+						textBox.textContent = "tattaTeun"; // Always display "tattaTeun"
+						}
 				}, totalTime);
 	
 				// Show the confetti and play sound after x seconds
