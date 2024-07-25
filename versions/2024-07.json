@@ -37,6 +37,13 @@
   {
     "quadrant": 2, 
     "ring": 0,
+    "label": "Bank",
+    "link": "wiki.html?page=bank",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 0,
     "label": "Schoonmaak",
     "link": "wiki.html?page=schoonmaak",
     "status": 0
@@ -102,6 +109,13 @@
     "ring": 2,
     "label": "Productvisie",
     "link": "wiki.html?page=productvisie",
+    "status": 0
+  },
+  {
+    "quadrant": 2, 
+    "ring": 2,
+    "label": "Zoekmachine",
+    "link": "wiki.html?page=zoekmachine",
     "status": 0
   },
   {
