@@ -18,7 +18,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-}
+}   
 
 #button {
     position: fixed;
@@ -30,21 +30,26 @@ body {
     padding-bottom: 0.7vw;
     padding-left: 1vw;
     padding-right: 1vw;
-    font-size: 2vw;
-    border: 0.45vw solid #9f2f90;
+    font-size: 1.8vw;
+    color: rgb(47, 12, 39);
+    border: 0.40vw solid #7e3875;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Anderson Four Feather Falls', sans-serif;
     transform: translate(-50%, -125%);
-    background: linear-gradient(to bottom, #FF85A2 0%, #BB4EAC 100%);
-    box-shadow: 0 1.5vw 2.5vw rgba(0, 0, 0, 0.6), 0 0.5vw 1vw rgba(0, 0, 0, 0.4);
+    background: #e963b4;
+    box-shadow: 0 0 2vw rgba(0, 0, 0, 2), /* Even shadow all around */
+                inset 0 0.5vw 1vw rgba(255, 255, 255, 0.5), /* Inner top light */
+                inset 0 -0.5vw 1vw rgba(0, 0, 0, 1); /* Inner bottom shadow */
     transition: box-shadow 0.2s, transform 0.2s;
 }
 
 #button:active {
-    box-shadow: 0 0.5vw 1vw rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0.5vw 1vw rgba(0, 0, 0, 0.5),
+                inset 0 0.5vw 1vw rgba(255, 255, 255, 0.2), /* Inner top light */
+                inset 0 -0.5vw 1vw rgba(0, 0, 0, 0.5); /* Inner bottom shadow */
     transform: translate(-50%, -120%) scale(0.98);
 }
 
