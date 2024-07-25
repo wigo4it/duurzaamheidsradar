@@ -5,145 +5,59 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>CO2 Game by tattaTeun</title>
-	<style>
-		@font-face {
-			font-family: 'Anderson Four Feather Falls';
-			src: url('Anderson Four Feather Falls.ttf') format('truetype');
-		}
-
-		#confetti {
-			display: none;
-		}
-
-		body {
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			align-items: center;
-			height: 100vh;
-			margin: 0;
-			background-image: url('game.png');
-			background-position: center center;
-			background-repeat: no-repeat;
-		}
-
-		#randomNameButton {
-			position: fixed;
-			top: 50%;
-			left: 50%;
-			width: 15vw;
-			min-width: 10px;
-			max-width: 200px;
-			padding-top: 1vw;
-			aspect-ratio: 1 / 1;
-			font-size: 2.2vw;
-			border: 0.45vw solid #9f2f90;
-			border-radius: 50%;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			font-family: 'Anderson Four Feather Falls', sans-serif;
-			transform: translate(-50%, -125%);
-			background: linear-gradient(to bottom, #FF85A2 0%, #BB4EAC 100%);
-			box-shadow: 0 1.5vw 2.5vw rgba(0, 0, 0, 0.6), 0 0.5vw 1vw rgba(0, 0, 0, 0.4);
-			transition: box-shadow 0.2s, transform 0.2s;
-		}
-
-		#randomNameButton:active {
-			box-shadow: 0 0.5vw 1vw rgba(0, 0, 0, 0.5);
-			transform: translate(-50%, -120%) scale(0.98);
-		}
-
-		#displayName {
-			position: fixed;
-			top: 52%;
-			left: 50%;
-			min-width: 15vw;
-			min-height: 7vw;
-			font-size: 4vw;
-			transform: translateX(-50%);
-			font-family: 'Anderson Four Feather Falls', sans-serif;
-			padding-left: 1vw;
-			padding-right: 1vw;
-			color: #005452;
-			border: 0.45vw solid #005452;
-			background-color: white;
-			box-sizing: border-box;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			border-radius: 20px;
-		}
-	</style>
+	<link rel="stylesheet" href="game.css">
 </head>
 
 <body>
-
-	<button id="randomNameButton">Wie wint een C02 meter?</button>
-	<div id="displayName"></div>
+	<button id="button">Wie wint een C02 meter?</button>
+	<div id="textBox"></div>
 	<canvas id="confetti"></canvas>
 	<audio id="wachtMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
-	<audio id="eindMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
 	<audio id="winnaar" src="winnaar.mp3" type="audio/mp3"></audio>
-
+	
 	<script src="confetti.js"></script>
-
+	
 	<script>
 		document.addEventListener('DOMContentLoaded', function () {
-			const names = ["Dian", "Jean-Paul", "Sabine", "John", "tattaTeun"];
-			const button = document.getElementById('randomNameButton');
-			const displayName = document.getElementById('displayName');
+			const button = document.getElementById('button');
+			const textBox = document.getElementById('textBox');
+			let names = []; 
 
+			fetch('game.csv')
+			.then(response => response.text())
+			.then(data => {
+				names = data.split(',');
+				console.log(names);
+			});
+	
 			button.addEventListener('click', function () {
 				document.getElementById('wachtMuziekje').play();
 				document.getElementById('confetti').style.display = 'none';
 				let currentIndex = 0;
-				const intervalTime = 300; // Time between name changes, adjust as needed
-				const totalTime = 6900; // Total time to loop through names
+				const intervalTime = 300;
+				const totalTime = 6900;
 				const interval = setInterval(function () {
-					displayName.textContent = names[currentIndex];
-					currentIndex = (currentIndex + 1) % names.length;
+					if(names.length > 0){ // Check if names is not empty
+						textBox.textContent = names[currentIndex];
+						currentIndex = (currentIndex + 1) % names.length;
+					}
 				}, intervalTime);
-
+	
 				setTimeout(function () {
-					clearInterval(interval); // Stop changing names
-					// Display a random name as the final name
-					const randomIndex = Math.floor(Math.random() * names.length);
-					displayName.textContent = "tattateun"; // Always display "tattateun"
-					// Start confetti effect here
+					clearInterval(interval);
+					if(names.length > 0){ // Check if names is not empty
+						const randomIndex = Math.floor(Math.random() * names.length);
+						textBox.textContent = names[randomIndex]; // Display a random name
+					}
 				}, totalTime);
-
-
+	
 				// Show the confetti and play sound after x seconds
 				setTimeout(function () {
 					document.getElementById('confetti').style.display = 'block';
 					document.getElementById('winnaar').play();
-				}, 7000);
+				}, totalTime + 100); // Adjust time as needed
 			});
 		});
-
-		function adjustBackgroundSize() {
-			const aspectRatio = 16 / 9;
-			let bgWidth, bgHeight;
-
-			// Check if the current window aspect ratio is greater than 4:3
-			if (window.innerWidth / window.innerHeight > aspectRatio) {
-				// Window is wider than 4:3, adjust background size based on window height
-				bgHeight = window.innerHeight;
-				bgWidth = bgHeight * aspectRatio;
-			} else {
-				// Window is narrower than 4:3, adjust background size based on window width
-				bgWidth = window.innerWidth;
-				bgHeight = bgWidth / aspectRatio;
-			}
-
-			// Apply the calculated background size
-			document.body.style.backgroundSize = `${bgWidth}px ${bgHeight}px`;
-		}
-
-		// Adjust background size on window resize and initial load
-		window.addEventListener('resize', adjustBackgroundSize);
-		window.addEventListener('load', adjustBackgroundSize);
 	</script>
 </body>
 
