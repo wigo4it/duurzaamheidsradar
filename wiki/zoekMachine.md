@@ -1,7 +1,7 @@
 # Zoekmachine
 
 ## Wat wordt hiermee bedoeld?
-Het gebruik van zoekmachines is wijdverbreid en een integraal onderdeel van het dagelijks leven van veel mensen. Gemiddeld voert een persoon meerdere zoekopdrachten per dag uit, met Google als de meest gebruikte zoekmachine. De frequentie van gebruik wordt beïnvloed door de context, zoals werk, studie, en dagelijkse behoeften en is toegenomen door de beschikbaarheid van zoekfuncties op mobiele apparaten. Er worden per seconde zo'n 50.000 zoekopdrachten wereldwijd uitgevoerd. 
+Het gebruik van zoekmachines is een integraal onderdeel van het dagelijks leven van veel mensen. Gemiddeld voert een persoon meerdere zoekopdrachten per dag uit, met Google als de meest gebruikte zoekmachine. De frequentie van gebruik wordt beïnvloed door de context, zoals werk, studie, en dagelijkse behoeften en is toegenomen door de beschikbaarheid van zoekfuncties op mobiele apparaten. Er worden per seconde zo'n 50.000 zoekopdrachten wereldwijd uitgevoerd. 
 
 - Impact op het Milieu
 Het runnen van zoekmachines vereist aanzienlijke hoeveelheden energie, voornamelijk vanwege de noodzaak om enorme datacenters te laten draaien. Deze datacenters bevatten duizenden servers die voortdurend in bedrijf zijn en gekoeld moeten worden, wat leidt tot een aanzienlijke ecologische voetafdruk. Verschillende zoekmachines nemen maatregelen om hun impact te verminderen, zoals het gebruik van hernieuwbare energiebronnen en het investeren in CO2-compensatieprojecten.
