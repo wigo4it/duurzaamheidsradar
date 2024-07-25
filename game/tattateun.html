@@ -8,12 +8,21 @@
 	<link rel="stylesheet" href="game.css">
 </head>
 
+<style>
+	.background-link {
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
 <body>
 	<button id="button">TattaTeun wint een C02 meter!</button>
 	<div id="textBox"></div>
 	<canvas id="confetti"></canvas>
 	<audio id="wachtMuziekje" src="wachtMuziekje.mp3" type="audio/mp3"></audio>
 	<audio id="winnaar" src="winnaar.mp3" type="audio/mp3"></audio>
+	<a href="https://brave-flower-0b3176903.5.azurestaticapps.net/game/index.html" class="background-link"></a>
+
 	
 	<script src="confetti.js"></script>
 	
@@ -21,7 +30,7 @@
 		document.addEventListener('DOMContentLoaded', function () {
 			const button = document.getElementById('button');
 			const textBox = document.getElementById('textBox');
-			let names = []; 
+			let names = [];
 
 			fetch('game.csv')
 			.then(response => response.text())
