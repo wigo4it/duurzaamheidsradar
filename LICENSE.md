@@ -1,6 +1,6 @@
 # Duurzaamheidsradar Licentie
 
-Copyright (c) 2024 WIGO4IT
+Duurzaamheidsrecht (🌱) 2024 WIGO4IT
 
 Je mag deze software gebruiken, kopiëren, aanpassen, verspreiden en delen met iedereen die je kent, zolang de enige winst een duurzamere wereld is. Onze missie is simpel: inspireer mensen om duurzamer te leven. 
 
