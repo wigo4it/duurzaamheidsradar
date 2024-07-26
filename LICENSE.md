@@ -8,4 +8,4 @@ De software wordt geleverd “zoals hij is”, zonder enige garanties. Als je en
 
 Geniet van de duurzaamheidsradar en laten we samen de wereld een beetje groener maken!
 
-*Deze radar is gebaseerd op de TechRadar van ThoughtWorks en Zalando. Bedankt voor hun inspiratie en geweldige werk!*
+*Deze radar is gebaseerd op de TechRadar van [ThoughtWorks](https://www.thoughtworks.com/radar) en [Zalando](https://github.com/zalando/tech-radar). Bedankt voor hun inspiratie en geweldige werk!*
