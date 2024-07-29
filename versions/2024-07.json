@@ -269,15 +269,8 @@
   {
     "quadrant": 0, 
     "ring": 0,
-    "label": "Infrastructure as Code",
-    "link": "wiki.html?page=infrastructureAsCode",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 0,
-    "label": "Automate everything",
-    "link": "wiki.html?page=automateEverything",
+    "label": "X as Code",
+    "link": "wiki.html?page=xAsCode",
     "status": 0
   },
   {
@@ -304,27 +297,6 @@
   {
     "quadrant": 0, 
     "ring": 0,
-    "label": ".NET",
-    "link": "wiki.html?page=.net",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 0,
-    "label": "JAVA",
-    "link": "wiki.html?page=JAVA",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 0,
-    "label": "Terracost",
-    "link": "wiki.html?page=terracost",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 0,
     "label": "Scaling",
     "link": "wiki.html?page=scaling",
     "status": 0
@@ -332,29 +304,15 @@
   {
     "quadrant": 0, 
     "ring": 1,
-    "label": "Green Software patterns",
+    "label": "Software patterns",
     "link": "wiki.html?page=greenSoftwarePatterns",
     "status": 0
   },
   {
     "quadrant": 0, 
     "ring": 1,
-    "label": "Right Size provisioning",
+    "label": "Right Size",
     "link": "wiki.html?page=rightSizeProvisioning",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 1,
-    "label": "Planet as a Stakeholder",
-    "link": "wiki.html?page=planetAsAStakeholder",
-    "status": 0
-  },
-  {
-    "quadrant": 0, 
-    "ring": 2,
-    "label": "Sustainability by design",
-    "link": "wiki.html?page=sustainabilityByDesign",
     "status": 0
   },
   {
@@ -367,8 +325,8 @@
   {
     "quadrant": 0, 
     "ring": 2,
-    "label": "Data retention policies",
-    "link": "wiki.html?page=dataRetentionPolicies",
+    "label": "Retention policies",
+    "link": "wiki.html?page=retentionPolicies",
     "status": 0
   },
   {
@@ -381,8 +339,8 @@
   {
     "quadrant": 0, 
     "ring": 2,
-    "label": "Big O notation",
-    "link": "wiki.html?page=bigOnotation",
+    "label": "Algoritme",
+    "link": "wiki.html?page=algoritme",
     "status": 0
   },
   {
@@ -415,6 +373,13 @@
   },
   {
     "quadrant": 1, 
+    "ring": 0,
+    "label": "Terracost",
+    "link": "wiki.html?page=terracost",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
     "ring": 1,
     "label": "Verantwoordelijkheid",
     "link": "wiki.html?page=verantwoordelijkheid",
@@ -425,6 +390,13 @@
     "ring": 1,
     "label": "CleanupFest",
     "link": "wiki.html?page=cleanupfest",
+    "status": 0
+  },
+  {
+    "quadrant": 1, 
+    "ring": 1,
+    "label": "Planet as a Stakeholder",
+    "link": "wiki.html?page=planetAsAStakeholder",
     "status": 0
   },
   {
