@@ -16,6 +16,7 @@ API's (Application Programming Interfaces) worden als duurzaam beschouwd om vers
 Op dit moment ontsluiten wij nog geen data aan derden via API's. De Socrates API wordt alleen gebruikt voor de interne werking van onze applicaties.
 
 - Onze interne API schaalt automatisch op basis van het gebruik.
+
 - Het is onze strategie om alle externe datakoppelingen via API's te laten verlopen, zodat we precies de juiste informatie op het juiste moment kunnen leveren.
 
 

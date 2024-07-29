@@ -16,9 +16,9 @@ In de huidige tijd is duurzaamheid niet langer een optionele bedrijfsstrategie, 
 
 Op dit moment besteden individuen tijd aan duurzaamheidsinitiatieven, maar is dit nog niet ingebed in de bedrijfscultuur. Om de transitie van individuele inspanningen naar een bredere cultuur te maken, stellen wij voor om 5% van de tijd van elke medewerker te reserveren voor duurzaamheid. Dit zal helpen om duurzaamheid als een kernwaarde in te bedden in onze dagelijkse werkzaamheden. Voorbeelden van hoe deze tijd kan worden benut zijn:
 
-- Training en Educatie: Medewerkers kunnen deelnemen aan trainingen en workshops over duurzame praktijken en hoe deze toegepast kunnen worden in hun dagelijkse werkzaamheden, wat bijdraagt aan een bredere bewustwording en kennisdeling binnen het bedrijf.
+- **Training en Educatie**: Medewerkers kunnen deelnemen aan trainingen en workshops over duurzame praktijken en hoe deze toegepast kunnen worden in hun dagelijkse werkzaamheden, wat bijdraagt aan een bredere bewustwording en kennisdeling binnen het bedrijf.
 
-- Onderzoeken en Implementeren van Groene Technologieën: Medewerkers kunnen tijd investeren in het verkennen en toepassen van groene coding-principes en duurzame technologieën. Dit omvat onder andere het optimaliseren van softwareprestaties om energie-efficiëntie te bevorderen.
+- **Onderzoeken en Implementeren van Groene Technologieën**: Medewerkers kunnen tijd investeren in het verkennen en toepassen van groene coding-principes en duurzame technologieën. Dit omvat onder andere het optimaliseren van softwareprestaties om energie-efficiëntie te bevorderen.
 
 
 ## Waar kan ik hier meer over lezen?
