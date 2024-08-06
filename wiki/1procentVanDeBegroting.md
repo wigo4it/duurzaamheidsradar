@@ -16,6 +16,8 @@ Op dit moment is er in de begroting nog geen specifieke reservering opgenomen vo
 *Initiatieven:*
 - Management Inspireren: We moeten het management inspireren en motiveren om de 1%-regel voor duurzaamheid te omarmen door de lange termijn voordelen voor zowel het bedrijf als de maatschappij te benadrukken, en hen te laten zien hoe hun leiderschap kan bijdragen aan een groenere toekomst.
 
+- Op maandag 29 juli is er door MT akkoord gegeven op de memo om 1% van de begroting vanaf 2025 te reserveren voor duurzaamheid!
+
 Dus, als je denkt dat 1% weinig is, bedenk dan dat dit het begin is van iets groots. Elke stap die we zetten in de richting van duurzaamheid, hoe klein ook, brengt ons dichter bij een betere wereld. En dat is toch iets om enthousiast van te worden, nietwaar?
 
 ## Waar kan ik hier meer over lezen?
