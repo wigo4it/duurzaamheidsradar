@@ -12,4 +12,4 @@ Terracost is een tool die wordt gebruikt met Terraform om kostenramingen te make
 Wigo4it gebruikt Terracost in meerdere repo's om direct inzicht te krijgen wat de impact op kosten (en daarmee vaak milieu) is van bepaalde keuzes in de code. Kunnen we bijvoorbeeld ook af met een andere SKU? Het helpt je om de financiële impact te bepalen van je infrastructurele wijzigingen. Een kleine extensie in vsCode die weer voor net wat meer awareness zorgt!
 
 ## Waar kan ik hier meer over lezen?
-- [Terracost](https://www.cycloid.io/open-source/terracost)
+- <a href="https://www.cycloid.io/open-source/terracost" target="_blank">Terracost</a>

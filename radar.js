@@ -330,9 +330,14 @@ function radar_visualization(config) {
               .attr("target", function (d, i) {
                  return (d.link && config.links_in_new_tabs) ? "_blank" : null;
               })
-              // add application insights link clicked event
-              .attr("onclick", function (d, i) {
-                return "if (appInsights) { appInsights.trackEvent('" + d.label + " clicked'); }";
+              .attr("data-custom-id", function (d, i) {
+                return d.label.replace(/\s+/g, '');
+              })
+              .attr("data-custom-name", function (d, i) {
+                return d.label;
+              })
+              .attr("data-custom-bhvr", function (d, i) {
+                return "NAVIGATION";
               })
             .append("text")
               .attr("transform", function(d, i) { return legend_transform(quadrant, ring, i); })

@@ -5,9 +5,7 @@ Self-service verwijst naar systemen en tools waarmee gebruikers zelfstandig IT-z
 
 - IT-teams en klanten kunnen resources op vraagbasis toewijzen (denk aan cloud-omgevingen), wat zorgt voor een efficiënter gebruik van servers en minder onnodige belasting. Dit voorkomt verspilling van energie, omdat alleen die resources worden gebruikt die daadwerkelijk nodig zijn.
 
-- Veel self-service systemen vervangen papieren processen door digitale workflows. Dit vermindert het gebruik van papier, inkt, en andere fysieke resources, wat direct bijdraagt aan duurzaamheid. Bovendien bespaart het ook de energie die anders nodig zou zijn voor het afdrukken, opslaan en verzenden van fysieke documenten.
-
-- 
+- Veel self-service systemen vervangen papieren processen door digitale workflows. Dit vermindert het gebruik van papier, inkt, en andere fysieke resources, wat direct bijdraagt aan duurzaamheid. Bovendien bespaart het ook de energie die anders nodig zou zijn voor het afdrukken, opslaan en verzenden van fysieke documenten. 
 
 ## Hoe staan we ervoor?
 Wigo4it heeft flink wat self-service geïmplementeerd. Het mooiste voorbeeld vinden wij onze ['Wegwijzer'](wiki.html?page=wegwijzer). Via deze portal kunnen onze developers en onze klanten zelf volledige omgevingen configureren, uitrollen en verwijderen. Daarnaast hebben we nog een paar andere self-service implementaties:
@@ -19,4 +17,4 @@ Wigo4it heeft flink wat self-service geïmplementeerd. Het mooiste voorbeeld vin
 - Teams kunnen via een portal zelf subscriptions uitrollen inclusief BIO compliant keyvaults, storage accounts etc..
 
 ## Waar kan ik hier meer over lezen?
-- [Self-service](https://en.wikipedia.org/wiki/Self-service)
+- <a href="https://en.wikipedia.org/wiki/Self-service" target="_blank">Self-service</a>

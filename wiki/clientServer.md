@@ -21,4 +21,4 @@ Wigo4it had vroeger ook zo'n ouderwetse applicatie met een client-server model. 
 - De backend draait in AKS en alles is 100% geautomatiseerd met Terraform en pipelines. Geen losse VM's meer die we moeten beheren.
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it website](https://www.wigo4it.nl/)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>

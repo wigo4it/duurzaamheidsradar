@@ -23,4 +23,4 @@ Wigo4it doet naast haar eigen ['CleanupFest'](wiki.html?page=cleanupfest) ook ie
 - PIM notificatie mails uitgezet (scheelt 5000 mailtjes per maand)
 
 ## Waar kan ik hier meer over lezen?
-- [Digital Cleanup Day](https://www.digitalcleanupday.org/)
+- <a href="https://www.digitalcleanupday.org/" target="_blank">Digital Cleanup Day</a>

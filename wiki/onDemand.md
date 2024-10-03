@@ -46,7 +46,6 @@ Door nauwkeurige monitoring en analyse van resourcegebruik kunt u inefficiëntie
 Het gebruik van on-demand resources biedt bedrijven niet alleen kostenbesparingen en flexibiliteit, maar speelt ook een cruciale rol in het bevorderen van duurzaamheid. Door testomgevingen in de avond en het weekend uit te zetten, kunnen bedrijven hun energieverbruik en ecologische voetafdruk aanzienlijk verminderen. Door bewust om te gaan met resourcegebruik en te investeren in automatisering en monitoring, kunnen bedrijven hun IT-infrastructuur optimaliseren voor een duurzamere toekomst.
 
 ## Aanvullende Bronnen
-
-- [Cloud Sustainability - Microsoft Azure](https://azure.microsoft.com/en-us/solutions/sustainability/)
-- [AWS Sustainability](https://aws.amazon.com/sustainability/)
-- [Google Cloud Sustainability](https://cloud.google.com/sustainability)
+- <a href="https://azure.microsoft.com/en-us/solutions/sustainability/" target="_blank">Cloud Sustainability - Microsoft Azure</a>
+- <a href="https://aws.amazon.com/sustainability/" target="_blank">AWS Sustainability</a>
+- <a href="https://cloud.google.com/sustainability" target="_blank">Google Cloud Sustainability</a>

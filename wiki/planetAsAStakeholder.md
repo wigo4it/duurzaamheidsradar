@@ -23,4 +23,4 @@ Wij zijn al best aardig bezig, steeds meer collega's in onze organisatie nemen b
 - De planeet zit ook verstopt door onze organisatiedoelen heen.
 
 ## Waar kan ik hier meer over lezen?
-- [Planet as a stakeholder](https://theplanetasastakeholder.com/)
+- <a href="https://theplanetasastakeholder.com/" target="_blank">Planet as a stakeholder</a>

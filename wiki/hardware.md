@@ -20,5 +20,5 @@ Wanneer gebruikersapparatuur zoals telefoons en laptops defect raken, geven wij 
 
 
 ## Waar kan ik hier meer over lezen?
-- [De Circulaire IT-hardware keten – Afterservice](https://data.rvo.nl/subsidies-regelingen/projecten/de-circulaire-it-hardware-keten-%E2%80%93-afterservice)
-- [Closing the loop](https://www.closingtheloop.eu/)
+- <a href="https://data.rvo.nl/subsidies-regelingen/projecten/de-circulaire-it-hardware-keten-%E2%80%93-afterservice" target="_blank">De Circulaire IT-hardware keten – Afterservice</a>
+- <a href="https://www.closingtheloop.eu/" target="_blank">Closing the loop</a>

@@ -23,4 +23,4 @@ Wij hebben het CleanupFest tot nu twee keer uitgevoerd met verbluffende resultat
 - Het CleanupFest krijgt veel positieve reacties op social media en zelfs al opvolging bij andere bedrijven. Dit draagt weer bij aan naamsbekendheid van Wigo4it en het willen uitstralen van een autoriteit.
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it CleanupFest](https://www.wigo4it.nl/techorama-2023/duurzame-tips/)
+- <a href="https://www.wigo4it.nl/techorama-2023/duurzame-tips/" target="_blank">Wigo4it CleanupFest</a>

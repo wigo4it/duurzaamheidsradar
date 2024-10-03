@@ -21,4 +21,4 @@ Wigo4it probeert onnodige opslag zoveel mogelijk te voorkomen. Vroeger maakte we
 - Dark data voorkomen door kritisch te zijn wat je standaard logt, bewaard etc. Tenslotte is niet opslaan is het beste.
 
 ## Waar kan ik hier meer over lezen?
-- [Dark Data](https://en.wikipedia.org/wiki/Dark_data)
+- <a href="https://en.wikipedia.org/wiki/Dark_data" target="_blank">Dark Data</a>

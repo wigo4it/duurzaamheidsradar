@@ -15,5 +15,5 @@ Bij Wigo4it hebben we geen plastic waterflessen meer, maar zijn we overgestapt n
 - Een Quooker is waterbesparend, je gebruikt alleen wat je nodig hebt.
 
 ## Waar kan ik hier meer over lezen?
-- [Factsheet bottled water](https://pacinst.org/wp-content/uploads/2007/02/bottled_water_factsheet.pdf)
-- [Waterkoker vs Quooker](https://www.innovaenergie.nl/blog/tip/stroomverbruik-waterkoker-vs-quooker/)
+- <a href="https://pacinst.org/wp-content/uploads/2007/02/bottled_water_factsheet.pdf" target="_blank">Factsheet bottled water</a>
+- <a href="https://www.innovaenergie.nl/blog/tip/stroomverbruik-waterkoker-vs-quooker/" target="_blank">Waterkoker vs Quooker</a>

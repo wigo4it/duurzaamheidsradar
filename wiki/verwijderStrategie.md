@@ -25,4 +25,4 @@ Wigo4it heeft nog geen verwijderstrategie die volledig af is, maar doet al best 
 - We bewaren alleen de data voor een langere periode als de wet ons dat voorschrijft. Dit laten we ook jaarlijks toetsen door de auditor. 
 
 ## Waar kan ik hier meer over lezen?
-- [Data retentie strategie](https://www.pwc.nl/nl/themas/blogs/in-vijf-stappen-naar-een-verantwoorde-dataretentie.html)
+- <a href="https://www.pwc.nl/nl/themas/blogs/in-vijf-stappen-naar-een-verantwoorde-dataretentie.html" target="_blank">Data retentie strategie</a>

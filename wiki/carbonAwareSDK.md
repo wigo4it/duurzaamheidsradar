@@ -13,5 +13,5 @@ De Carbon Aware SDK is een software development kit van de Green Software Founda
 Dit is dus gewoon een super tof initiatief en daar doen we nog helemaal niets mee. Dit is een heel mooi voorbeeld van wat we zouden kunnen doen tijdens onze FunovationDay. Dat is één dag per kwartaal waar je niet naar je PO hoeft te luisteren of naar de backlog hoef te kijken. Gewoon innovatieve dingen doen, los van wat de uitkomst is. 
 
 ## Waar kan ik hier meer over lezen?
-- [Carbon Aware SDK](https://carbon-aware-sdk.greensoftware.foundation/)
-- [Carbon Aware SDK Github](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
+- <a href="https://carbon-aware-sdk.greensoftware.foundation/" target="_blank">Carbon Aware SDK</a>
+- <a href="https://github.com/Green-Software-Foundation/carbon-aware-sdk" target="_blank">Carbon Aware SDK Github</a>

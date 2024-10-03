@@ -17,8 +17,8 @@ De afgelopen jaren hebben we kritisch gekeken naar wat we allemaal archiveren. Z
 - Dat verhaal van 7+ jaar bewaartermijn binnen de overheid is écht op hol geslagen en geldt maar voor specifieke type data. We moeten stoppen met elkaar na-praten en écht doorleven of je die data wel zo lang moet opslaan. Wij durven te stellen dat meer dan 50% van de data binnen de overheid niet zo lang opgeslagen hoeft te worden als dat nu gebeurd. 
 
 ## Waar kan ik hier meer over lezen?
-- [Archieven van de Overheid](https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid)
-- [Archiefwet en AVG](https://www.autoriteitpersoonsgegevens.nl/themas/overheid/archivering-door-de-overheid/archiefwet-en-avg)
+- <a href="https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid" target="_blank">Archieven van de Overheid</a>
+- <a href="https://www.autoriteitpersoonsgegevens.nl/themas/overheid/archivering-door-de-overheid/archiefwet-en-avg" target="_blank">Archiefwet en AVG</a>
 
 
 

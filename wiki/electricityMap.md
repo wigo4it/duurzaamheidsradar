@@ -22,7 +22,7 @@ Wigo4it is momenteel aan het stoeien met de Electricity Maps API. Wij zien meerd
 
 - Bepaalde minder belangrijke worloads pas laten draaien op het moment dat er groene energie beschikbaar is (zonder te verhuizen uit West-Europe region). 
 
-- We kunnen hier ook de [Carbon Aware SDK](https://carbon-aware-sdk.greensoftware.foundation/) voor inzetten. Dit is een super tof initiatief waar we nog te weinig mee doen. Deze gaan we binnenkort inzetten op onze FunovationDay!
+- We kunnen hier ook de <a href="https://carbon-aware-sdk.greensoftware.foundation/" target="_blank">Carbon Aware SDK</a> voor inzetten. Dit is een super tof initiatief waar we nog te weinig mee doen. Deze gaan we binnenkort inzetten op onze FunovationDay!
 
 ## Waar kan ik hier meer over lezen?
-- [Electricity Maps](https://app.electricitymaps.com/zone/NL)
+- <a href="https://app.electricitymaps.com/zone/NL" target="_blank">Electricity Maps</a>
