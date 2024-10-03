@@ -19,4 +19,4 @@ Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
 - 
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it website](https://www.wigo4it.nl/)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>

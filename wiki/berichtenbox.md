@@ -14,7 +14,7 @@ Wigo4it genereert indirect 5 miljoen brieven per jaar. Deze brieven worden uitge
 Dit staat helaas nog in de kinderschoenen en is vooralsnog een gedachtegang die op de roadmap staat. Deze moet nog verder uitgewerkt worden, maar we streven om dit vóór 2028 te hebben geregeld. Dat klinkt weer als logge en trage overheid, maar geloof ons, dat is oprecht snel anders hadden we het al lang gedaan ;-). 
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it](https://www.wigo4it.nl)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>
 - [Berichtenbox](https://mijn.overheid.nl/)
 
 

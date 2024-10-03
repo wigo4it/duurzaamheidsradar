@@ -19,4 +19,4 @@ Wigo4it draait 100% in de publieke cloud en heeft dus alle bovenstaande genoemde
 - De publieke cloud icm 100% automation zorgt ervoor dat we voor de helft van het geld, meer waarde kunnen leveren aan onze klanten. Wie wil dat nou niet! :)
 
 ## Waar kan ik hier meer over lezen?
-- [Cloud computing](https://nl.wikipedia.org/wiki/Cloudcomputing)
+- <a href="https://nl.wikipedia.org/wiki/Cloudcomputing" target="_blank">Cloud computing</a>

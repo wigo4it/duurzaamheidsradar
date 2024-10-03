@@ -20,7 +20,5 @@ Wigo4it had vroeger Python draaien, daar hebben we inmiddels afscheid van genome
 
 - Blazor, lichtgewicht programmeertaal voor front-end.
 
-- 
-
 ## Waar kan ik hier meer over lezen?
-- [Reducing Carbon Emissions when coding](https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/)
+- <a href="https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/" target="_blank">Reducing Carbon Emissions when coding</a>

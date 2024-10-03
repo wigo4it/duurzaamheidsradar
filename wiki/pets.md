@@ -17,4 +17,4 @@ Alle statische componenten die cloud native draaien zijn gebaseerd op het ['catt
 - Wij hebben ongeveer 30% van onze workloads verhuisd naar Azure VMware Solutions (AVS), zodat wij onze beide fysieke datacenters kunnen afbouwen. Zie AVS als een dierenpension vol met pets. De komende twee jaar worden de pets of uitgefaseerd of omgebouwd tot cattle.
 
 ## Waar kan ik hier meer over lezen?
-- [The History of Pets vs Cattle and How to Use the Analogy Properly](https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
+- <a href="https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/" target="_blank">The History of Pets vs Cattle and How to Use the Analogy Properly</a>

@@ -19,4 +19,4 @@ Wigo4it heeft op verschillende plekken scaling ingericht:
 - Onze Virtual Machine Scalesets schalen automatisch afhankelijk van de vraag. Dit voorkomt dat we onnodig veel VM's draaien als de vraag laag is. 
 
 ## Waar kan ik hier meer over lezen?
-- [Cloud scalability](https://www.nops.io/blog/cloud-scalability/)
+- <a href="https://www.nops.io/blog/cloud-scalability/" target="_blank">Cloud scalability</a>

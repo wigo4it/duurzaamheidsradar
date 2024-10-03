@@ -23,4 +23,4 @@ Wigo4it automatiseert alles, maar dan ook écht alles. Het enige dat nog niet is
 - Security en compliancy worden automatisch meegenomen in de pipelines (shift-left security en compliancy)
 
 ## Waar kan ik hier meer over lezen?
-- [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
+- <a href="https://en.wikipedia.org/wiki/Infrastructure_as_code" target="_blank">Infrastructure as Code</a>

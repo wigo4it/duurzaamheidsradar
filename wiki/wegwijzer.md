@@ -26,4 +26,4 @@ We zijn al best lekker bezig met de wegwijzer, het doel is eigenlijk al bereikt.
 Daarnaast kunnen we de steden nog iets meer nudgen door bijvoorbeeld op vrijdag een pop-up scherm te tonen met de tekst: "Hee ambtenaar, het is al 17:00 uur geweest, zou je niet is uitloggen. En vergeet niet je omgevingen te verwijderen, dit scheelt weer 3 bomen aan uitstoot!"
 
 ## Waar kan ik hier meer over lezen?
-- [Carbon credits API](https://www.cnaught.com/product/api-integration)
+- <a href="https://www.cnaught.com/product/api-integration" target="_blank">Carbon credits API</a>

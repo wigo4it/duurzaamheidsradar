@@ -17,4 +17,4 @@ Wigo4it is gevestigd het kantorenpand New Babylon in Den Haag. Dit pand heeft En
 - Positieve bedrijfsreputatie
 
 ## Waar kan ik hier meer over lezen?
-- [Verplichting energielabel C: voorkom boete](https://www.kvk.nl/duurzaamheid/energielabel-c-volg-deze-stappen-en-voorkom-een-boete/)
+- <a href="https://www.kvk.nl/duurzaamheid/energielabel-c-volg-deze-stappen-en-voorkom-een-boete/" target="_blank">Verplichting energielabel C: voorkom boete</a>

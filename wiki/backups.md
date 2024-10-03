@@ -22,4 +22,4 @@ Wigo4it maakt alleen nog maar backups van productie data. Vroeger on-premises ma
 - De afgelopen vier jaar zijn we van 140TB aan backups naar 10TB aan backups gegaan. Een daling van ruim 90%!
 
 ## Waar kan ik hier meer over lezen?
-- [Wigo4it website](https://www.wigo4it.nl/)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>

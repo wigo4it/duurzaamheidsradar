@@ -15,4 +15,4 @@ Allereerst de schoonmaker. Deze komt tegenwoordig één keer per dag in plaats v
 - Qua wc-papier zou het wel nog een stuk duurzamer kunnen.
 
 ## Waar kan ik hier meer over lezen?
-- [Stappen, Trappen, Openbaar Vervoer, Mobility as a Service (MaaS), Privéauto](https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto.)
+- <a href="https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto." target="_blank">Stappen, Trappen, Openbaar Vervoer, Mobility as a Service (MaaS), Privéauto</a>

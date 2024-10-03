@@ -20,4 +20,4 @@ Alle statische componenten die cloud native draaien zijn gebaseerd op het 'cattl
 - Er wordt geen back-up meer gemaakt van infrastructurele componenten, omdat ze eenvoudig opnieuw gecreëerd kunnen worden bij een storing. Dit vermindert de opslagbehoefte.
 
 ## Waar kan ik hier meer over lezen?
-- [The History of Pets vs Cattle and How to Use the Analogy Properly](https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
+- <a href="https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/" target="_blank">The History of Pets vs Cattle and How to Use the Analogy Properly</a>

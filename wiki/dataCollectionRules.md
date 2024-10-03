@@ -19,5 +19,5 @@ Wigo4it maakt gebruik van Data Collection Rules in combinatie met retention poli
 - Met retention policies zoals operationale nonprod logging wordt automatisch verwijderd na 31 dagen blijven we niet zitten met een bak aan data waar we nooit meer iets mee doen. 
 
 ## Waar kan ik hier meer over lezen?
-- [Data Collection Rules](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
-- [Data retention policies](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-retention-configure?tabs=portal-3%2Cportal-1%2Cportal-2)
+- <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview" target="_blank">Data Collection Rules</a>
+- <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-retention-configure?tabs=portal-3%2Cportal-1%2Cportal-2" target="_blank">Data retention policies</a>

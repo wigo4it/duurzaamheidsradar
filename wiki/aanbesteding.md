@@ -20,4 +20,4 @@ Bij alle nieuwe aanbestedingen hanteren we strikte duurzaamheidseisen om onze ec
 - **Datacenteroptimalisatie**: Voor cloud- en datacenteroplossingen kiezen we voor leveranciers die energie-efficiënte infrastructuren aanbieden, zoals datacenters met koeling door middel van natuurlijke bronnen (zoals water of lucht) en een focus op groene energiebronnen.
 
 ## Waar kan ik hier meer over lezen?
-- [Duurzaame aanbesteden](https)
+- <a href="#" target="_blank">Duurzaame aanbesteden</a>

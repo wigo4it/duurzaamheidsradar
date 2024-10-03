@@ -25,7 +25,7 @@ Wij zijn ons bewust dat e-mail niet een hele grote impact heeft, desondanks bren
 
 ## Waar kan ik hier meer over lezen?
 
-[Denk Doe Duurzaam](https://www.denkdoeduurzaam.nl/actueel/nieuws/2023/07/13/dagelijks-dataverkeer-is-vervuilend-wat-kan-er-anders#:~:text=1%20e%2Dmail%20die%20uit,10.000%20e%2Dmails%20per%20jaar.)
+- <a href="https://www.denkdoeduurzaam.nl/actueel/nieuws/2023/07/13/dagelijks-dataverkeer-is-vervuilend-wat-kan-er-anders#:~:text=1%20e%2Dmail%20die%20uit,10.000%20e%2Dmails%20per%20jaar." target="_blank">Denk Doe Duurzaam</a>
 
 ![alt text](wiki/emailuitstoot.png)
 

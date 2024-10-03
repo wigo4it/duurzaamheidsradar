@@ -19,4 +19,4 @@ Binnen onze applicatie Socrates archiveren wij gegevens op een efficiënte en mo
 - Door het elimineren van tapes voor archiefdoeleinden, slaan we nu 30% minder data op. Bovendien verdwijnen de logistieke uitdagingen rondom het transport van tapes en de noodzaak van een tape library, wat resulteert in minder e-waste.
 
 ## Waar kan ik hier meer over lezen?
-- [Archiefwet](hhttps://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid/)
+- <a href="https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid/" target="_blank">Archiefwet</a>
