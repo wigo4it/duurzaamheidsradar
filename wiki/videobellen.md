@@ -29,4 +29,4 @@ Sinds de coronapandemie is het gebruik van Teams onze standaard communicatiemeth
 - Onze collega's zijn tenslotte toch niet super knap ;)
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.technopolis.be/nl/blog/zijn-videocalls-slecht-voor-het-milieu/#:~:text=Dankzij%20de%20data%20van%20achttien,1%20kilogram%20CO2-uitstoot" target="_blank">Zijn videocalls slecht voor het klimaat?</a>
+- <a href="https://www.technopolis.be/nl/blog/zijn-videocalls-slecht-voor-het-milieu/#:~:text=Dankzij%20de%20data%20van%20achttien,1%20kilogram%20CO2-uitstoot">Zijn videocalls slecht voor het klimaat?</a>

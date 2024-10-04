@@ -19,4 +19,4 @@ Wigo4it heeft een enkel patroon al wel doorgevoerd, maar dit mag nog wel wat mee
 - Niet alleen de Cloud patterns, maar ook de Web patterns moeten we nog iets mee. Stel je voor dat onze WebApp die toch aan zo'n 5000 gebruikers wordt aangeboden 10% efficiënter kan worden. Die impact is veel groter dan die paar zonnenpanelen op je dak thuis!
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://patterns.greensoftware.foundation/" target="_blank">Green Software Foundation Patterns</a>
+- <a href="https://patterns.greensoftware.foundation/">Green Software Foundation Patterns</a>

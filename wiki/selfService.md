@@ -17,4 +17,4 @@ Wigo4it heeft flink wat self-service geïmplementeerd. Het mooiste voorbeeld vin
 - Teams kunnen via een portal zelf subscriptions uitrollen inclusief BIO compliant keyvaults, storage accounts etc..
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://en.wikipedia.org/wiki/Self-service" target="_blank">Self-service</a>
+- <a href="https://en.wikipedia.org/wiki/Self-service">Self-service</a>

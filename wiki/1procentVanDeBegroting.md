@@ -21,4 +21,4 @@ Op dit moment is er in de begroting nog geen specifieke reservering opgenomen vo
 Dus, als je denkt dat 1% weinig is, bedenk dan dat dit het begin is van iets groots. Elke stap die we zetten in de richting van duurzaamheid, hoe klein ook, brengt ons dichter bij een betere wereld. En dat is toch iets om enthousiast van te worden, nietwaar?
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

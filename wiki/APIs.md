@@ -21,4 +21,4 @@ Op dit moment ontsluiten wij nog geen data aan derden via API's. De Socrates API
 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

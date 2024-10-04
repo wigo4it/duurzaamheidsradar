@@ -27,4 +27,4 @@ Wigo4it heeft inmiddels on-demand omgevingen waardoor er veel minder omgevingen 
 - We zijn bezig om te kijken of we met minimale datasets kunnen gaan werken. Bijvoorbeeld alleen klanten die beginnen met de letter A tm C. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

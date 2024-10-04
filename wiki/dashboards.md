@@ -23,4 +23,4 @@ Door te begrijpen waarom realtime dashboards vaak niet een duurzame optie is, ku
 - We gebruiken event-driven systemen die alleen gegevens verwerken wanneer er significante wijzigingen zijn, in plaats van constant gegevens op te halen en bij te werken.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar" target="_blank">Wigo4it website</a>
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

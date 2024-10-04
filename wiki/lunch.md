@@ -21,4 +21,4 @@ De meeste collega's halen in de buurt van het kantoor iets te eten of nemen zelf
 - We gooien nagenoeg niets weg. Als we lunch bestellen dan zijn er altijd collega's die zelfs om 16:30 nog denken: "Laat ik dit sompige broodje is lekker op eten".
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.eur.nl/en/ice/media/2022-08-scriptie-csr-fenna-van-beurden-15-februari-2022-pdf" target="_blank">Wat is de impact van vlees of vis bij de lunch?</a>
+- <a href="https://www.eur.nl/en/ice/media/2022-08-scriptie-csr-fenna-van-beurden-15-februari-2022-pdf">Wat is de impact van vlees of vis bij de lunch?</a>

@@ -19,5 +19,5 @@ Eigenlijk valt deze erg samen met ['ElectricityMaps'](wiki.html?page=electricity
 - Niet boeiende processen laten draaien overdag op het moment dat er voldoende groene stroom is in West-Europe. Dit zodat we workloads niet in een andere regio hoeven te draaien. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://watttime.org/" target="_blank">WattTime</a>
-- <a href="https://app.electricitymaps.com/zone/NL" target="_blank">Electricity Maps</a>
+- <a href="https://watttime.org/">WattTime</a>
+- <a href="https://app.electricitymaps.com/zone/NL">Electricity Maps</a>

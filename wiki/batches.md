@@ -21,4 +21,4 @@ Wigo4it maakt gebruik van flink wat batches, hoe staan we ervoor:
 - Er staan geen batchservers meer 24/7 te draaien voor dat uur dat ze écht gebruikt worden.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://en.wikipedia.org/wiki/Batch_processing" target="_blank">Batchverwerking</a>
+- <a href="https://en.wikipedia.org/wiki/Batch_processing">Batchverwerking</a>

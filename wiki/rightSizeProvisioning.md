@@ -23,6 +23,6 @@ Wigo4it heeft o.a. tijdens het ['CleanupFest'](wiki.html?page=cleanupFest) meerd
 - Images alleen configureren met de tools en software die je nodig hebt.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://azure.microsoft.com/en-us/blog/rightsize-to-maximize-your-cloud-investment-with-microsoft-azure/" target="_blank">Rightsize workloads</a>
-- <a href="https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-right-sizing/cost-optimization-right-sizing.html" target="_blank">Right Sizing Provisioning</a>
+- <a href="https://azure.microsoft.com/en-us/blog/rightsize-to-maximize-your-cloud-investment-with-microsoft-azure/">Rightsize workloads</a>
+- <a href="https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-right-sizing/cost-optimization-right-sizing.html">Right Sizing Provisioning</a>
 

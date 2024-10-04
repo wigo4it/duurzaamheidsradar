@@ -22,4 +22,4 @@ De ARM-architectuur heeft zich in de afgelopen jaren sterk ontwikkeld op het geb
   ARM breidt zich ook snel uit naar de server- en datacentermarkt, waar energieverbruik en efficiëntie cruciaal zijn. Als onze reservation zijn afgelopen stappen wij daar waar mogelijk over op ARM-based VM's.
   
 ## Waar kan ik hier meer over lezen?
-- <a href="https://azure.microsoft.com/nl-nl/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/" target="_blank">ARM on Azure</a>
+- <a href="https://azure.microsoft.com/nl-nl/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/">ARM on Azure</a>

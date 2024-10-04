@@ -27,6 +27,6 @@ Wigo4it heeft de onderstaande reservations afgenomen:
 - We bouwen onze hypotheken die we hebben zo snel mogelijk af (binnen twee jaar)
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.linkedin.com/pulse/reservations-savings-plan-compute-what-you-need-know-buy-wohlfarter-o2s2f/" target="_blank">Reservations Azure</a>
-- <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html" target="_blank">Reservations AWS</a>
-- <a href="https://cloud.google.com/compute/docs/instances/reservations-overview" target="_blank">Reservations Google Cloud</a>
+- <a href="https://www.linkedin.com/pulse/reservations-savings-plan-compute-what-you-need-know-buy-wohlfarter-o2s2f/">Reservations Azure</a>
+- <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html">Reservations AWS</a>
+- <a href="https://cloud.google.com/compute/docs/instances/reservations-overview">Reservations Google Cloud</a>

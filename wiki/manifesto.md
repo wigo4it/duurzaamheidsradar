@@ -31,4 +31,4 @@ Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
 - 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.agilealliance.org/sustainability-manifesto/" target="_blank">Sustainability Manifesto</a>
+- <a href="https://www.agilealliance.org/sustainability-manifesto/">Sustainability Manifesto</a>

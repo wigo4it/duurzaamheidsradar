@@ -19,4 +19,4 @@ Wigo4it is best lekker bezig als het gaat om het voorkomen van idle time:
 - We hebben nog een klein beetje legacy draaien. Deze staat dus vaak in de nacht niets te doen. Door deze legacy om te bouwen naar meer cloud-native oplossingen kunnen we nog een slag maken. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.computerweekly.com/feature/A-waste-of-energy-Dealing-with-idle-servers-in-the-datacentre" target="_blank">Waste of Energy</a>
+- <a href="https://www.computerweekly.com/feature/A-waste-of-energy-Dealing-with-idle-servers-in-the-datacentre">Waste of Energy</a>

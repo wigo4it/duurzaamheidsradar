@@ -25,4 +25,4 @@ Wigo4it valt onder geen van bovenstaande organisaties en voldoet niet aan de eis
 - Er een MVO gepland staat voor 2025
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.ser.nl/nl/thema/duurzaamheid/eu-duurzaamheidsrapportage" target="_blank">CSRD: EU-duurzaamheidsrapportage</a>
+- <a href="https://www.ser.nl/nl/thema/duurzaamheid/eu-duurzaamheidsrapportage">CSRD: EU-duurzaamheidsrapportage</a>

@@ -21,7 +21,7 @@ Wigo4it heeft haar bankrekening bij de BNG (Bank Nederlandse Gemeenten). Dat is 
 Ken jij nog andere duurzame banken? 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.bngbank.nl/over-BNG-Bank/Onze-duurzame-ontwikkelingsdoelen" target="_blank">BNG Bank</a>
-- <a href="https://www.duurzaam-beleggen.nl/blog/de-impact-van-je-bankrekening/" target="_blank">De impact van je bankrekening</a>
-- <a href="[Triodos Bank](https://www.triodos.nl/)" target="_blank">Triodos Bank</a>
-- <a href="https://www.asnbank.nl/home.html" target="_blank">ASN Bank</a>
+- <a href="https://www.bngbank.nl/over-BNG-Bank/Onze-duurzame-ontwikkelingsdoelen">BNG Bank</a>
+- <a href="https://www.duurzaam-beleggen.nl/blog/de-impact-van-je-bankrekening/">De impact van je bankrekening</a>
+- <a href="[Triodos Bank](https://www.triodos.nl/)">Triodos Bank</a>
+- <a href="https://www.asnbank.nl/home.html">ASN Bank</a>

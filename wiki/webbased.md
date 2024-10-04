@@ -21,4 +21,4 @@ Wigo4it had vroeger ook een client-server architectuur die lastig te beheren was
 - We kunnen nu A/B test scenario's veel makkelijker implementeren.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://en.wikipedia.org/wiki/Web_application" target="_blank">Web application</a>
+- <a href="https://en.wikipedia.org/wiki/Web_application">Web application</a>

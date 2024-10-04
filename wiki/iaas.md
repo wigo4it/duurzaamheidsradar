@@ -23,4 +23,4 @@ Wigo4it heeft een mantra waar in staat dat we 30 keer per dag willen releasen vo
 Al deze diensten schalen veel beter dan IaaS diensten, waardoor we onze omgeving zo efficiënt mogelijk inzetten. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://engineering.dunelm.com/pizza-as-a-service-2-0-5085cd4c365e" target="_blank">Pizza as a Service</a>
+- <a href="https://engineering.dunelm.com/pizza-as-a-service-2-0-5085cd4c365e">Pizza as a Service</a>
