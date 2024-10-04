@@ -6,11 +6,11 @@ Workbooks zijn een krachtige tool binnen het Azure-platform die IT Engineers hel
 ## Hoe staan we ervoor?
 Wigo4it gebruikt deze workbooks om inzicht te krijgen in de omgeving. Tijdens ons Cleanupfest worden deze workbooks standaard ingezet om écht tijd te nemen voor analyse of we zaken veilig kunnen verwijderen. Daarnaast genereren deze workbooks een stukje bewustzijn. Enkele voorbeelden van workbooks die wij gebruiken om inzicht te krijgen in de cloud omgeving: 
 
-- <a href="https://github.com/dolevshor/azure-orphan-resources/" target="_blank">Azure orphaned resources workbook</a>
-- <a href="https://learn.microsoft.com/en-us/cloud-computing/finops/toolkit/optimization-workbook/cost-optimization-workbook" target="_blank">Azure Cost analyze workbook</a>
-- <a href="https://learn.microsoft.com/en-us/azure/carbon-optimization/overview" target="_blank">Carbon Optimization</a>
+- <a href="https://github.com/dolevshor/azure-orphan-resources/">Azure orphaned resources workbook</a>
+- <a href="https://learn.microsoft.com/en-us/cloud-computing/finops/toolkit/optimization-workbook/cost-optimization-workbook">Azure Cost analyze workbook</a>
+- <a href="https://learn.microsoft.com/en-us/azure/carbon-optimization/overview">Carbon Optimization</a>
 
 Ieder team kan deze workbooks inzetten voor haar subscriptions. Kortom, je kunt je nergens achter verschuilen. You build it, you run it!
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.wigo4it.nl/techorama-2023/duurzame-tips/" target="_blank">Wigo4it Cleanupfest</a>
+- <a href="https://www.wigo4it.nl/techorama-2023/duurzame-tips/">Wigo4it Cleanupfest</a>

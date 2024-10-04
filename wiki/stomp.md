@@ -21,4 +21,4 @@ Voor woonwerk vergoeding is de rit gemaximeerd tot 0,21 cent (ongeachte wijze va
 - Meer cent per kilometer betalen als collega's op de fiets komen.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto." target="_blank">Stappen, Trappen, Openbaar Vervoer, Mobility as a Service (MaaS), Privéauto</a>
+- <a href="https://www.wegenwiki.nl/STOMP#:~:text=Het%20STOMP%20principe%20is%20een,en%20ten%20slotte%20de%20Priv%C3%A9auto.">Stappen, Trappen, Openbaar Vervoer, Mobility as a Service (MaaS), Privéauto</a>

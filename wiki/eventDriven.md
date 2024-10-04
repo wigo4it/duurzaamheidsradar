@@ -16,4 +16,4 @@ We zijn actief bezig met het transformeren van onze BizTalk-oplossingen naar clo
 - **Verbeterde veerkracht**: Cloud-native oplossingen bieden ons niet alleen flexibiliteit, maar verhogen ook de veerkracht en beschikbaarheid van onze systemen. Event-driven architecturen helpen ons bij het minimaliseren van downtime en zorgen voor een snellere reactie op veranderingen in vraag en aanbod.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://solace.com/blog/evolution-of-apis-restful-event-driven-apis/" target="_blank">From RESTful to Event-Driven</a>
+- <a href="https://solace.com/blog/evolution-of-apis-restful-event-driven-apis/">From RESTful to Event-Driven</a>

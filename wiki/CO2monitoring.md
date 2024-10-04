@@ -16,12 +16,12 @@ Om heel eerlijk te zijn is het best lastig om een goede tool te vinden die je é
 
 - We maken gebruik van Azure Carbon Optimization tool, zie hierboven.
 
-- Wij doen er écht nog te weinig mee en hopen binnenkort aan de slag te gaan met de opensource - <a href="https://www.cloudcarbonfootprint.org/" target="_blank">Cloud Carbon Footprint</a>.
+- Wij doen er écht nog te weinig mee en hopen binnenkort aan de slag te gaan met de opensource - <a href="https://www.cloudcarbonfootprint.org/">Cloud Carbon Footprint</a>.
 
 - We hebben vragen uitstaan bij Microsoft of zij ons een keer meer inzicht kunnen geven in de berekeningen van hoe de data tot stand komt. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://aws.amazon.com/aws-cost-management/aws-customer-carbon-footprint-tool/" target="_blank">AWS Carbon Footprint tool</a>
-- <a href="https://learn.microsoft.com/en-us/azure/carbon-optimization/overview" target="_blank">Azure Carbon Optimization</a>
-- <a href="https://cloud.google.com/carbon-footprint?hl=en" target="_blank">Google Cloud Carbon Footprint</a>
+- <a href="https://aws.amazon.com/aws-cost-management/aws-customer-carbon-footprint-tool/">AWS Carbon Footprint tool</a>
+- <a href="https://learn.microsoft.com/en-us/azure/carbon-optimization/overview">Azure Carbon Optimization</a>
+- <a href="https://cloud.google.com/carbon-footprint?hl=en">Google Cloud Carbon Footprint</a>
 

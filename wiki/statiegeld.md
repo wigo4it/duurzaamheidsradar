@@ -12,7 +12,7 @@ Voordelen van het statiegeldsysteem:
 - Het statiegeldsysteem verhoogt de bewustwording onder consumenten over het belang van recycling en duurzaamheid. Mensen worden zich meer bewust van hun afval en de impact ervan op het milieu.
 
 ## Hoe staan we ervoor?
-Wigo4it heeft meerdere koelkasten waar onze collega's gratis blikjes fris kunnen pakken. We hebben een aparte inzamelbak voor deze blikjes. Zodra de bak vol is worden de blikjes ingeleverd bij een statiegeld Nederland machine op Centraal Station Den Haag. Het ingezamelde geld wordt gedoneerd aan de <a href="https://www.plasticsoupfoundation.org/doneer-statiegeld-aan-plastic-soup-foundation/#:~:text=Per%201%20juli%202021%20zit,milieuorganisaties%20jarenlang%20hard%20voor%20gemaakt." target="_blank">Plastic Soup Foundation</a>
+Wigo4it heeft meerdere koelkasten waar onze collega's gratis blikjes fris kunnen pakken. We hebben een aparte inzamelbak voor deze blikjes. Zodra de bak vol is worden de blikjes ingeleverd bij een statiegeld Nederland machine op Centraal Station Den Haag. Het ingezamelde geld wordt gedoneerd aan de <a href="https://www.plasticsoupfoundation.org/doneer-statiegeld-aan-plastic-soup-foundation/#:~:text=Per%201%20juli%202021%20zit,milieuorganisaties%20jarenlang%20hard%20voor%20gemaakt.">Plastic Soup Foundation</a>
 We doen dit nu zo'n anderhalf jaar en onze afdronk tot dusver is:
 
 - De gratis drankjes dragen bij aan verhoogde medewerkerstevredenheid.
@@ -21,4 +21,4 @@ We doen dit nu zo'n anderhalf jaar en onze afdronk tot dusver is:
 - We moeten een keer gezondere alternatieven onderzoeken in plaats van frisdrank
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.statiegeldnederland.nl/" target="_blank">Statiegeld Nederland</a>
+- <a href="https://www.statiegeldnederland.nl/">Statiegeld Nederland</a>

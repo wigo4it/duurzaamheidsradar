@@ -16,11 +16,11 @@ Wigo4it is zich bewust van de impact die green coding kan maken. Zo zijn we bijv
 
 - Green coding helpt Wigo4it haar duurzaamheidsdoelstellingen te behalen, wat ons een interessante werkgever maakt.
 
-- <a href="https://carbon-aware-sdk.greensoftware.foundation/" target="_blank">Carbon Aware SDK</a> is een super tof initiatief waar we nog te weinig mee doen. Deze gaan we binnenkort inzetten op onze FunovationDay!
+- <a href="https://carbon-aware-sdk.greensoftware.foundation/">Carbon Aware SDK</a> is een super tof initiatief waar we nog te weinig mee doen. Deze gaan we binnenkort inzetten op onze FunovationDay!
 
 - Waarom zijn Python-programmeurs zo goed in green coding? Omdat ze 'garbage collection' automatisch doen!
 
 ![alt text](wiki/greencoding.png)
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/" target="_blank">Reducing Carbon Emissions when coding</a>
+- <a href="https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/">Reducing Carbon Emissions when coding</a>

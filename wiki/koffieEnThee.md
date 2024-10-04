@@ -11,7 +11,7 @@ Door te kiezen voor producten met onderstaande keurmerken draag je bij aan beter
 - UTZ Certified
 
 ## Hoe staan we ervoor?
-Wij hebben onderzoek gedaan naar onze koffie en thee. De koffie is van het merk Capriole en heeft alleen het Fairtrade keurmerk. De thee is van Rioba en heeft ook het Fairtrade keurmerk. De koffie kunnen we niet zomaar aanpassen, aangezien dat bij ons contract zit van onze koffiemachines. Dit is een mooi voorbeeld hoe we destijds dus geen rekening hebben gehouden met duurzaamheid tijdens het zoeken van een leverancier. We streven er naar om in de toekomst nog duurzamere koffie aan te schaffen die wel het Rainforest Alliance keurmerk heeft en in Nederland onder betere milieu omstandigheden gebrand wordt zoals <a href="https://hesselinkkoffie.nl/over-ons/duurzaamheid/" target="_blank">Hesselink Koffie</a>. Daarnaast zouden we ook kunnen gaan kijken naar korte keten alternatieven zoals <a href="https://wilder-land.com/" target="_blank">Wilderland</a>. Kortom:
+Wij hebben onderzoek gedaan naar onze koffie en thee. De koffie is van het merk Capriole en heeft alleen het Fairtrade keurmerk. De thee is van Rioba en heeft ook het Fairtrade keurmerk. De koffie kunnen we niet zomaar aanpassen, aangezien dat bij ons contract zit van onze koffiemachines. Dit is een mooi voorbeeld hoe we destijds dus geen rekening hebben gehouden met duurzaamheid tijdens het zoeken van een leverancier. We streven er naar om in de toekomst nog duurzamere koffie aan te schaffen die wel het Rainforest Alliance keurmerk heeft en in Nederland onder betere milieu omstandigheden gebrand wordt zoals <a href="https://hesselinkkoffie.nl/over-ons/duurzaamheid/">Hesselink Koffie</a>. Daarnaast zouden we ook kunnen gaan kijken naar korte keten alternatieven zoals <a href="https://wilder-land.com/">Wilderland</a>. Kortom:
 
 - We zijn aardig op weg met het Fairtrade keurmerk.
 
@@ -24,6 +24,6 @@ Wij hebben onderzoek gedaan naar onze koffie en thee. De koffie is van het merk 
 - Om rellen te voorkomen tussen de boomers en millenials blijven we nog even af van de melk voor de cappucino ;-| 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.klimaathelpdesk.org/answers/hoe-duurzaam-zijn-koffie-en-thee-en-bestaat-een-klimaatneutrale-cappuccino/#:~:text=Je%20kunt%20de%20impact%20van,suiker%20hebben%20de%20laagste%20klimaatimpact." target="_blank">Hoe duurzaam zijn koffie en thee? En bestaat een ‘klimaatneutrale’ cappuccino?</a>
-- <a href="https://www.fairtradenederland.nl/" target="_blank">Fairtrade keurmerk</a>
-- <a href="https://www.rainforest-alliance.org/" target="_blank">Rainforest Alliance</a>
+- <a href="https://www.klimaathelpdesk.org/answers/hoe-duurzaam-zijn-koffie-en-thee-en-bestaat-een-klimaatneutrale-cappuccino/#:~:text=Je%20kunt%20de%20impact%20van,suiker%20hebben%20de%20laagste%20klimaatimpact.">Hoe duurzaam zijn koffie en thee? En bestaat een ‘klimaatneutrale’ cappuccino?</a>
+- <a href="https://www.fairtradenederland.nl/">Fairtrade keurmerk</a>
+- <a href="https://www.rainforest-alliance.org/">Rainforest Alliance</a>

@@ -19,7 +19,7 @@ Hardware die constant in gebruik is, veroudert sneller en heeft een kortere leve
 80% van alle workloads draaien volgens het [OnDemand](wiki.html?page=onDemand) principe. We kiezen er bewust voor om zo veel als mogelijk écht alleen te gebruiken als we dat op dat moment nodig hebben. We hebben uiteraard wel wat reservations voor bepaalde workloads, omdat we weten dat die 24/7 gebruikt worden. 
 We hebben dus ook nog 20% always-on. Deze 20% draait bij ons in Azure VMware Solution (AVS). AVS hebben wij ingezet voor de laatste 20% van de workloads die we niet op tijd cloud-ready of cloud-native konden maken. Dit stelde ons in staat stelt om onze oude VMware-omgeving te lift en shiften naar Azure. Vanuit daar gaan we deze workloads afvoeren of cloud native maken. Kortom, wat is de status mbt always-on bij Wigo4it:
 
-- 20% draait nog in AVS. AVS zien wij als een hypotheek. Deze AVS hypotheek willen we de komende twee jaar aflossen. Zie onze (- <a href="https://techradar.wigo4it.nl" target="_blank">TechRadar</a>)
+- 20% draait nog in AVS. AVS zien wij als een hypotheek. Deze AVS hypotheek willen we de komende twee jaar aflossen. Zie onze (- <a href="https://techradar.wigo4it.nl">TechRadar</a>)
 
 - 80% is cloud-ready of cloud-native en gebaseerd op on-demand en pay-per-use. 
 
@@ -31,5 +31,5 @@ We hebben dus ook nog 20% always-on. Deze 20% draait bij ons in Azure VMware Sol
 
 - [OnDemand](wiki.html?page=onDemand)
 - [Wegwijzer](wiki.html?page=wegwijzer)
-- <a href="https://techradar.wigo4it.nl" target="_blank">TechRadar</a>
-- <a href="https://azure.microsoft.com/en-us/products/azure-vmware" target="_blank">Azure VMware Solution</a>
+- <a href="https://techradar.wigo4it.nl">TechRadar</a>
+- <a href="https://azure.microsoft.com/en-us/products/azure-vmware">Azure VMware Solution</a>

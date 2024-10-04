@@ -19,4 +19,4 @@ Wij hebben via een  afgedwongen dat google onze zoekmachine is. Dit kun je als m
 - Hebben geen misleidende advertenties als eerste resultaten.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.ecosia.org/" target="_blank">Ecosia</a>
+- <a href="https://www.ecosia.org/">Ecosia</a>

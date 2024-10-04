@@ -15,4 +15,4 @@ Wij ondertekenen alles digitaal, van arbeidsvoorwaarden voor medewerkers tot con
 - We hebben ons papierverbruik met meer dan 80% verminderd.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.validsign.eu/" target="_blank">ValidSign</a>
+- <a href="https://www.validsign.eu/">ValidSign</a>

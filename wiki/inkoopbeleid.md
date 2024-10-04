@@ -17,4 +17,4 @@ De afgelopen jaren heeft Wigo4it aanzienlijke stappen gezet in de implementatie 
 - Het regelmatig evalueren van leveranciers op hun naleving van duurzaamheidsnormen en het samenwerken aan verbeterinitiatieven.
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.pianoo.nl/nl/inkopen-het-kort/wat-moet-ik-weten-over-inkopen/welke-inkoopdoelstellingen-streef-ik-na" target="_blank">Maatschappelijk verantwoord inkopen</a>
+- <a href="https://www.pianoo.nl/nl/inkopen-het-kort/wat-moet-ik-weten-over-inkopen/welke-inkoopdoelstellingen-streef-ik-na">Maatschappelijk verantwoord inkopen</a>

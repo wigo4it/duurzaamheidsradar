@@ -19,4 +19,4 @@ Wij bouwen auto's geen vliegtuigen.
 - Bedrijfskritieke componenten worden over meerdere availability zones geschaald. Dit is niet hetzelfde als een twin datacenter, omdat we niet meer resources gebruiken, maar deze slim verdelen. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.ibm.com/docs/en/powerha-aix/7.2?topic=aix-high-availability-versus-fault-tolerance" target="_blank">High availability versus fault tolerance</a>
+- <a href="https://www.ibm.com/docs/en/powerha-aix/7.2?topic=aix-high-availability-versus-fault-tolerance">High availability versus fault tolerance</a>

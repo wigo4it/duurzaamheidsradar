@@ -26,4 +26,4 @@ Wigo4it heeft geen eigen datacenters meer sinds 2024. Alles draait nu in de clou
 - De kosten zijn meer dan gehalveerd in de cloud ten opzichte van eigen datacenters. Dit komt doordat we geen eigen hardware meer hebben, langdurige contracten en momenteel echt alleen betalen voor dat wat we gebruiken. 
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.compact.nl/articles/strategische-keuzen-rondom-datacenters-2/" target="_blank">Twin datacenter concept</a>
+- <a href="https://www.compact.nl/articles/strategische-keuzen-rondom-datacenters-2/">Twin datacenter concept</a>

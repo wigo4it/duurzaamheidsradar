@@ -21,4 +21,4 @@ Vroeger had Wigo4it meer dan 1000 servers 24/7, 365 dagen per week draaien in he
 - Appservices
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://en.wikipedia.org/wiki/Containerization_(computing)" target="_blank">Containerization</a>
+- <a href="https://en.wikipedia.org/wiki/Containerization_(computing)">Containerization</a>

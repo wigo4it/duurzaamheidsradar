@@ -16,5 +16,5 @@ Wigo4it heeft het aligned autonomy concept omarmd van Henrik Kniberg. Als je dit
 - You build it, you run it, you break it, you fix it, you love it!
 
 ## Waar kan ik hier meer over lezen?
-- <a href="https://www.orgtopologies.com/post/aligned-autonomy-at-scale" target="_blank">Aligned Autonomy</a>
-- <a href="https://www.linkedin.com/pulse/werken-zonder-grenzen-jean-paul-van-der-ham-8cxne/?trackingId=TtiHx6soTJClf%2BFsA8afAQ%3D%3D" target="_blank">Werken zonder grenzen</a>
+- <a href="https://www.orgtopologies.com/post/aligned-autonomy-at-scale">Aligned Autonomy</a>
+- <a href="https://www.linkedin.com/pulse/werken-zonder-grenzen-jean-paul-van-der-ham-8cxne/?trackingId=TtiHx6soTJClf%2BFsA8afAQ%3D%3D">Werken zonder grenzen</a>
