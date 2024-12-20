@@ -1,7 +1,12 @@
 [
     {
-        "version": "2024-10",
-        "title": "2024.10",
+        "version": "2024-Q4",
+        "title": "2024.Q4",
         "description": "Initiële versie"
+    },
+    {
+        "version": "2025-Q1",
+        "title": "2025.Q1",
+        "description": "Versie 2025 Q1"
     }
 ]

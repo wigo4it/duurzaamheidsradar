@@ -9,7 +9,6 @@ Een verwijderstrategie is een plan of beleid waarin je als bedrijft vastlegt hoe
 - Audits: Hoe en wanneer worden periodieke audits uitgevoerd?
 - Compliance: Hoe wordt voldaan aan wet- en regelgeving, zoals de AVG?
 - Verantwoordelijkheden: Wie is verantwoordelijk voor naleving en uitvoering?
-- Veilige verwijdering: Hoe worden gegevens veilig verwijderd, zowel digitaal als fysiek?
 
 Met een goed uitgevoerde verwijderstrategie kunnen bedrijven hun datamanagement optimaliseren, energiekosten besparen en voldoen aan wettelijke vereisten, wat uiteindelijk allemaal bijdraagt aan duurzaamheid.
 
@@ -20,7 +19,6 @@ Wigo4it heeft nog geen verwijderstrategie die volledig af is, maar doet al best 
 
 - We kijken naar een mogelijkheid om alle mail ouder dan vier jaar automatisch te verwijderen. Bij sommige collega's stuit dit vooralsnog op wat weerstand. 
 
-- Tijdens het uitfaseren van het datacenter hebben we alle servers en datadragers eerst zelf opgeschoond en daarna nog door een professioneel gecertificeerd bedrijf volledig laten wipen. 
 
 - We bewaren alleen de data voor een langere periode als de wet ons dat voorschrijft. Dit laten we ook jaarlijks toetsen door de auditor. 
 
