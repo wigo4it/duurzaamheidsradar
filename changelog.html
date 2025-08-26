@@ -1,44 +1,83 @@
 <html>
-  <head>
-    <title>Wigo4it Tech Radar | Changelog</title>
 
-    <link rel="stylesheet" href="radar.css">
-    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
-  </head>
+<head>
+  <title>Wigo4it Tech Radar | Changelog</title>
 
-  <body>
-    <div class="center-box">
-      <img src="wigo4it-logo.svg" alt="Wigo4it logo">
-      <h1>Tech Radar</h1>
+  <link rel="stylesheet" href="radar.css">
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+  <script src="i18n.js"></script>
+</head>
+
+<body>
+  <div class="center-box">
+    <!-- Language Selector -->
+    <div class="language-selector">
+      <select id="language-selector" onchange="i18n.switchLanguage(this.value)">
+        <option value="nl" data-i18n="language_nl">Nederlands</option>
+        <option value="en" data-i18n="language_en">English</option>
+      </select>
     </div>
 
-    <div class="center-box">
-      <div id="changelog" class="column">
-        <h2>Changelog</h2>
-      </div>
-  </body>
+    <img src="wigo4it-logo.svg" alt="Wigo4it logo">
+    <h1 data-i18n="radar_title">Duurzaamheidsradar</h1>
+  </div>
 
-  <script>
+  <div class="center-box">
+    <div id="changelog" class="column">
+      <h2 data-i18n="changelog">Changelog</h2>
+    </div>
+  </div>
+</body>
+
+<script>
+  function loadChangelog() {
+    const currentLang = window.i18n ? window.i18n.getCurrentLanguage() : 'nl';
+    const versionsPath = currentLang === 'en' ? '/versions/en/versions.json' : '/versions/versions.json';
+
     const changelog = document.getElementById('changelog');
 
-    fetch("/versions/versions.json")
-        .then(response => response.json())
-        .then(data => {
-          data.sort((a, b) => a.version < b.version ? 1 : -1);
+    fetch(versionsPath)
+      .then(response => response.json())
+      .then(data => {
+        data.sort((a, b) => a.version < b.version ? 1 : -1);
 
-          for (d of data) {
-            const h = document.createElement('h3');
-            const a = document.createElement('a');
-            a.setAttribute('href', d.version === data[0].version ? '/' :  `/?version=${d.version}`);
-            a.append(document.createTextNode(d.title));
-            h.appendChild(a);
+        // Clear existing content except the title
+        const title = changelog.querySelector('h2');
+        changelog.innerHTML = '';
+        changelog.appendChild(title);
 
-            const p = document.createElement('p');
-            p.append(document.createTextNode(d.description));
+        for (d of data) {
+          const h = document.createElement('h3');
+          const a = document.createElement('a');
+          const versionParam = d.version === data[0].version ? '' : `version=${d.version}`;
+          const langParam = currentLang === 'en' ? 'lang=en' : '';
+          const params = [versionParam, langParam].filter(p => p).join('&');
+          const url = params ? `/?${params}` : '/';
 
-            changelog.appendChild(h);
-            changelog.appendChild(p);
-          }
-        });
-  </script>
+          a.setAttribute('href', url);
+          a.append(document.createTextNode(d.title));
+          h.appendChild(a);
+
+          const p = document.createElement('p');
+          p.append(document.createTextNode(d.description));
+
+          changelog.appendChild(h);
+          changelog.appendChild(p);
+        }
+      });
+  }
+
+  // Load changelog after i18n is initialized
+  document.addEventListener('DOMContentLoaded', () => {
+    const checkI18nAndLoad = () => {
+      if (window.i18n) {
+        setTimeout(loadChangelog, 100);
+      } else {
+        setTimeout(checkI18nAndLoad, 50);
+      }
+    };
+    checkI18nAndLoad();
+  });
+</script>
+
 </html>

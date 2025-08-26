@@ -1,0 +1,26 @@
+# Verwijder Strategie
+
+## What does this mean?
+Een verwijderstrategie is een plan of beleid waarin je als bedrijft vastlegt hoe en wanneer je gegevens en documenten opslaat, maar ook permanent verwijdert. Dit is niet alleen belangrijk voor compliance en gegevensbeheer, maar ook vanuit sustainableheidsperspectief. Een goed doordachte verwijderstrategie zorgt ervoor dat je voldoet aan bewaartermijnen en onnodige data opruimt, wat zowel sustainable is als juridisch noodzakelijk. Wat moet er minimaal in een goede verwijderstrategie beschreven staan: 
+
+- Gegevensclassificatie: Welke soorten gegevens worden opgeslagen?
+- Bewaartermijnen: Hoe lang worden gegevens bewaard en wanneer worden ze verwijderd?
+- Automatisering: Hoe wordt het proces van verwijdering geautomatiseerd?
+- Audits: Hoe en wanneer worden periodieke audits uitgevoerd?
+- Compliance: Hoe wordt voldaan aan wet- en regelgeving, zoals de AVG?
+- Verantwoordelijkheden: Wie is verantwoordelijk voor naleving en uitvoering?
+
+Met een goed uitgevoerde verwijderstrategie kunnen bedrijven hun datamanagement optimaliseren, energycosts besparen en voldoen aan wettelijke vereisten, wat uiteindelijk allemaal bijdraagt aan sustainableheid.
+
+## How are we doing?
+Wigo4it heeft nog geen verwijderstrategie die volledig af is, maar doet al best veel als je kijkt naar bovenstaande zeven punten:
+
+- We have retention policies ingericht waarmee bepaalde type data automatisch na een dag/week/maand of jaar wordt verwijderd.
+
+- We kijken naar een mogelijkheid om alle mail ouder dan vier jaar automatisch te verwijderen. Bij sommige collega's stuit dit vooralsnog op wat weerstand. 
+
+
+- We bewaren alleen de data voor een langere periode als de wet ons dat voorschrijft. Dit laten we ook jaarlijks toetsen door de auditor. 
+
+## Where can I read more about this?
+- <a href="https://www.pwc.nl/nl/themas/blogs/in-vijf-stappen-naar-een-verantwoorde-dataretentie.html">Data retentie strategie</a>
