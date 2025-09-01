@@ -1,6 +1,9 @@
 # Duurzaamheidsradar bij Wigo4it
 Welkom bij de [duurzaamheidsradar](https://duurzaamheidsradar.wigo4it.nl) van Wigo4it! Deze radar is geïnspireerd door de Thoughtworks & Zalando Radar en heeft als doel om onze huidige positie als organisatie op het gebied van duurzaamheid inzichtelijk te maken en tegelijkertijd bewustwording te creëren.
 
+## Sustainability radar
+Our radar now effortlessly switches between Nederlands and English. Click the language switcher and watch the magic happen!
+
 ## Doelstellingen:
 - *Inzicht in huidige positie*: De radar biedt een visueel overzicht van onze voortgang en prestaties op verschillende duurzaamheidinspanningen.
 - *Bewustwording*: Door onze duurzaamheidsinspanningen transparant te delen, willen we zowel intern als extern bewustzijn en betrokkenheid vergroten.
@@ -26,7 +29,3 @@ De software wordt geleverd “zoals hij is”, zonder enige garanties. Als je en
 Geniet van de duurzaamheidsradar en laten we samen de wereld een beetje groener maken!
 
 *Deze radar is gebaseerd op de TechRadar van [ThoughtWorks](https://www.thoughtworks.com/radar) en [Zalando](https://github.com/zalando/tech-radar). Bedankt voor hun inspiratie en geweldige werk!*
-
-# Wigo4it Duurzaamheidsradar / Sustainability Radar
-
-Now available in both Dutch and English.
