@@ -295,7 +295,11 @@ Kleuren:
     }      // Load radar
     function loadRadar() {
       console.log('Loading radar data for language:', currentLanguage);
-      fetch("/versions/versions.json")
+      const versionsPath = currentLanguage === 'nl' ?
+        "/versions/nl/versions.json" :
+        "/versions/en/versions.json";
+
+      fetch(versionsPath)
         .then(response => response.json())
         .then(data => {
           data.sort((a, b) => a.version < b.version ? 1 : -1);
@@ -316,7 +320,7 @@ Kleuren:
 
           // Load data from appropriate language folder
           const dataPath = currentLanguage === 'nl' ?
-            `/versions/${versionString}.json` :
+            `/versions/nl/${versionString}.json` :
             `/versions/en/${versionString}.json`;
 
           console.log('Loading radar data from:', dataPath);
@@ -337,7 +341,7 @@ Kleuren:
               // Fallback to Dutch if English fails
               if (currentLanguage === 'en') {
                 console.log('Falling back to Dutch data');
-                fetch(`/versions/${versionString}.json`)
+                fetch(`/versions/nl/${versionString}.json`)
                   .then(response => response.json())
                   .then(entries => {
                     config.entries = entries;

@@ -78,14 +78,14 @@
 
             if (wikiKey) {
                 // Determine the wiki path based on language
-                const wikiPath = currentLang === 'en' ? `wiki/en/${wikiKey}.md` : `wiki/${wikiKey}.md`;
+                const wikiPath = currentLang === 'en' ? `wiki/en/${wikiKey}.md` : `wiki/nl/${wikiKey}.md`;
 
                 fetch(wikiPath)
                     .then(response => {
                         if (!response.ok) {
                             // If English file doesn't exist, try Dutch version
                             if (currentLang === 'en') {
-                                return fetch(`wiki/${wikiKey}.md`);
+                                return fetch(`wiki/nl/${wikiKey}.md`);
                             }
                             throw new Error('Network response was not ok');
                         }
