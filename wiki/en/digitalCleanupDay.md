@@ -1,24 +1,26 @@
 # Digital Cleanup Day
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+More than 4% of our global emissions are caused by IT. Most people are not aware of this because it's invisible. Digital Cleanup Day is an annual recurring event where people worldwide are encouraged to clean up their digital environment. Many people don't realize that stored digital data such as emails, photos and documents continue to consume energy, even when not actively used. This data is often stored in data centers, which permanently need power and cooling. The more data is stored, the more energy is needed to keep it all running. Therefore, reducing digital pollution directly contributes to energy efficiency and sustainability. The goals of Digital Cleanup Day:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- Increase awareness about the hidden ecological impact of digital pollution.
+
+- Clean up data in cloud storage, old emails, unused files, apps and software to reduce energy demand.
+
+- Hardware optimization by removing redundant programs and files, which can lead to longer device lifespan and less waste.
+
+- By having millions of people worldwide reduce their digital footprint, Digital Cleanup Day can contribute to reducing energy consumption and CO2 emissions in data centers.
+
+Digital Cleanup Day is every year on March 15, has more than one million participants worldwide and has so far deleted 14.5 million GB of data.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it participates in Digital Cleanup Day every year in addition to its own ['CleanupFest'](wiki.html?page=cleanupfest). Apart from the above examples, we have also tackled the following during previous Cleanup days:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Unsubscribing from digital newsletters that you never read anyway.
+
+- Unsubscribing from physical mail / magazines etc.
+
+- Turned off PIM notification emails (saves 5000 emails per month)
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.digitalcleanupday.org/">Digital Cleanup Day</a>

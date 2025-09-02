@@ -1,24 +1,22 @@
 # 5% of Time
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+In today's world, sustainability is no longer an optional business strategy, but a necessary approach for companies striving for long-term success and social responsibility. Reserving 5% of employees' working time to work on sustainability offers numerous benefits, both for the company and for the broader community.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- **Innovation and Creativity**: Time for sustainability stimulates innovation and creativity, leads to environmentally friendly solutions and can deliver cost savings.
+
+- **Improved Business Reputation**: Visible investments in sustainability improve the image with customers and future employees.
+
+- **Employee Engagement**: Sustainability initiatives increase employee engagement and motivation, resulting in higher productivity and lower turnover rates.
+
+- **Staying Ahead of Regulation**: Proactive investment in sustainability prepares companies for stricter environmental regulations, preventing expensive (ad-hoc) adjustments in the future.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Currently, individuals spend time on sustainability initiatives, but this is not yet embedded in the company culture. To make the transition from individual efforts to a broader culture, we propose reserving 5% of each employee's time for sustainability. This will help embed sustainability as a core value in our daily work activities. Examples of how this time can be utilized include:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- **Training and Education**: Employees can participate in training and workshops on sustainable practices and how these can be applied in their daily work activities, contributing to broader awareness and knowledge sharing within the company.
+
+- **Research and Implementation of Green Technologies**: Employees can invest time in exploring and applying green coding principles and sustainable technologies. This includes optimizing software performance to promote energy efficiency.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

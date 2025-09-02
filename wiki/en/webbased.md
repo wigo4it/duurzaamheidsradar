@@ -1,24 +1,24 @@
 # Web Based
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Web-based applications are applications that can be easily accessed and used through a web browser. They run on servers and often use the cloud to provide data and functionality. This makes them accessible from any device with an internet connection, regardless of the operating system. Their centralized management and updates also make them user-friendly and easy to maintain. Other advantages of web-based applications:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- No local installations or updates are required, reducing energy consumption and the need for hardware upgrades.
+
+- Web apps often leverage shared cloud infrastructure, resulting in lower energy consumption per user.
+
+- End users need lighter devices, which reduces demand for new hardware and lowers electronic waste.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it used to also have a client-server architecture that was difficult to manage and was offered through Citrix. Today, the reality looks much more modern:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- All 130 screens have been converted to web-based (Blazor) in the past three years.
+
+- We no longer run Citrix or FAT clients in our environment.
+
+- We can now make changes to our application much faster and on the fly without downtime.
+
+- We can now implement A/B test scenarios much more easily.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://en.wikipedia.org/wiki/Web_application">Web application</a>

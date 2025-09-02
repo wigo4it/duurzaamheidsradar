@@ -1,24 +1,19 @@
-# Event Driven
+# Event-Driven
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+An event-driven architecture is a system design where processes and actions are only activated by specific events. This ensures more efficient use of system resources and reduces energy consumption, because the system doesn't have to constantly check for changes (like with API polling). Instead, the system remains inactive until an event occurs, such as completing a transaction or uploading a file. This leads to a significant reduction in energy waste and lower CO₂ emissions.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+Examples of event-driven architectures:
+
+- **Event-driven cloud services**: Applications that use services like AWS Lambda, Google Cloud Functions, or Azure Event Grid only activate resources when a specific event occurs. For example, when a file is uploaded to cloud storage, processing only starts when that event occurs, while resources remain inactive between events.
+  
+- **Asynchronous processing**: In event-driven architectures, processes can occur asynchronously, which better distributes system load and avoids peak loads. This ensures more efficient utilization of available infrastructure.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+We are actively working on transforming our BizTalk solutions to cloud-native, event-driven architectures. This transition enables us to fully utilize the flexibility and scalability of modern cloud infrastructures. Through this shift, we not only improve the performance and efficiency of our systems, but also achieve significant cost and energy savings.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- **Energy savings and sustainability**: By eliminating always-active processes and switching to event-driven processes, we reduce our energy consumption and lower our CO₂ emissions. This contributes to our goal of creating a more sustainable IT environment.
+- **Improved resilience**: Cloud-native solutions not only provide us with flexibility, but also increase the resilience and availability of our systems. Event-driven architectures help us minimize downtime and ensure faster response to changes in supply and demand.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://solace.com/blog/evolution-of-apis-restful-event-driven-apis/">From RESTful to Event-Driven</a>

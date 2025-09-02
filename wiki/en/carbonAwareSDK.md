@@ -1,24 +1,17 @@
 # Carbon Aware SDK
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+The Carbon Aware SDK is a software development kit from the Green Software Foundation designed to make applications and services "carbon aware." This means that applications using this SDK can align their activities with times and locations where CO2 emissions from energy production are lowest. The goal is to help software and infrastructure minimize their ecological footprint by taking into account variations in the CO2 intensity of electricity used by data centers and other IT infrastructures. Benefits include:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- The SDK helps companies and developers perform tasks at times when the energy being used comes from cleaner energy sources, such as wind or solar power. This contributes to optimizing energy consumption and minimizing environmental impact.
+
+- Developers can integrate the Carbon Aware SDK into existing applications or infrastructures without having to develop complex logic themselves for monitoring CO2 emissions. The SDK makes it easy to add sustainable functionalities to applications and infrastructures.
+
+- By performing activities at times when electricity demand is low and CO2 emissions are low, organizations can reduce their energy costs. This is because electricity is often cheaper during off-peak hours, meaning not only is CO2 saved, but operational costs are also reduced.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
-
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+This is just a super cool initiative and we're not doing anything with it yet. This is a perfect example of what we could do during our FunovationDay. That's one day per quarter where you don't have to listen to your PO or look at the backlog. Just do innovative things, regardless of the outcome.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://carbon-aware-sdk.greensoftware.foundation/">Carbon Aware SDK</a>
+- <a href="https://github.com/Green-Software-Foundation/carbon-aware-sdk">Carbon Aware SDK Github</a>

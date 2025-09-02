@@ -1,24 +1,24 @@
-# Batch Processing
+# Batches
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Batch processing is often seen as something old-fashioned, but can contribute significantly to sustainability compared to real-time processing. In batch processing, tasks and data processing are bundled and executed at pre-scheduled times, often during off-peak hours. This results in more efficient use of IT resources and energy.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- Batch processing reduces the need for continuous, high performance required for real-time systems. This allows hardware to operate at lower power, saving energy. It also optimizes server usage, requiring fewer physical servers and reducing the ecological footprint.
+
+- Batch processing makes it possible to schedule processing times when renewable energy sources such as wind and solar energy are abundantly available, reducing dependence on fossil fuels.
+
+- Modern batch processing is often performed in the cloud, where resources such as CPU and storage can be dynamically allocated and shut down once processing is complete.
+
+In short, batch processing offers an energy-efficient and environmentally friendly way to perform IT processes, contributing to organizational sustainability.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it uses quite a few batches, how are we doing:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- We have already significantly reduced our batches. Many things were no longer applicable, could be merged or solved in an even more sustainable way.
+
+- We run the batches in the evening, not yet on green energy. We could potentially run the batches in the Sweden region, then they always run on 100% green energy (hydro power).
+
+- There are no more batch servers running 24/7 for that one hour they're actually used.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://en.wikipedia.org/wiki/Batch_processing">Batch Processing</a>

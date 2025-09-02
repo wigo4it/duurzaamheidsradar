@@ -1,23 +1,29 @@
-# Sustainable Banking
+# Bank
 
 ## What does this mean?
-One of the easiest choices you can make is selecting which bank manages your money. Banks invest the money sitting in savings accounts beneath the surface. From the returns on these investments, they can pay out the interest they promise to savers. By depositing money with banks (Rabobank, ING, and ABN AMRO) that still invest in, for example, the fossil fuel industry, weapons, or tobacco, you indirectly support these sectors as an organization. It's better to send a signal as an individual or organization by choosing a bank that consciously invests your money in a more sustainable future.
+One of the easy choices you can make is deciding which bank you entrust with your money. Banks invest, behind the scenes, the money that sits in savings accounts. From the returns on those investments, they are able to pay out the interest they promise to savers. By placing money with banks (Rabobank, ING, and ABN AMRO) that still invest in, for example, the fossil fuel industry, weapons, or tobacco, you indirectly support those industries as an organization as well. Instead, as an individual or an organization, you can send a clear signal by choosing a bank that consciously invests your money in a more sustainable future.
 
 Benefits of choosing a sustainable bank:
-- Your money is invested ethically and not invested in harmful activities.
-- Your money is used to support initiatives that contribute to a fairer and more sustainable society.
-- Sustainable banks are much more transparent about where they invest your money because they're proud of the choices they make.
 
-In short, by the time you can do something with your savings, there will still be a livable planet where you can spend your money.
+- Your money is invested ethically and not used for harmful activities.
+
+- Your money supports initiatives that contribute to a fairer and more sustainable society.
+
+- Sustainable banks are far more transparent about where they invest your money, because they are proud of the choices they make.
+
+In short, by the time you want to make use of your savings, there will still be a livable planet where you can actually spend your money.
 
 ## How are we doing?
-Wigo4it has its bank account with BNG (Bank Nederlandse Gemeenten). This is a special bank for the public sector. Everything they do is focused on social impact. For them, it's not about maximum profit, but about maximum social impact. So we're not with one of the three major banks that still invest in harmful activities.
+Wigo4it has its bank account with BNG (Bank Nederlandse Gemeenten). This is a special bank for the public sector. Everything they do is focused on social impact. For them, it’s not about maximizing profit, but about maximizing societal impact. So, we are not with one of the three major banks that still invest in harmful activities. Unfortunately, as an individual you cannot open an account with BNG. However, there are two good alternatives:
 
-As an individual, unfortunately, you cannot sign up with BNG. However, there are two good alternatives:
-- **Triodos Bank**: Focuses exclusively on sustainable investments
-- **ASN Bank**: Part of de Volksbank, with a strong focus on sustainability
+- Triodos Bank | Known for its focus on sustainable and ethical banking. Triodos invests exclusively in projects that bring about positive social, ecological, or cultural change.
+
+- ASN Bank | Fully dedicated to sustainable and responsible banking, with investments that contribute to social, ecological, and economic sustainability. The bank avoids investments in harmful sectors such as fossil fuels and weapons, and strives for maximum transparency and positive social impact.
+
+Do you know of any other sustainable banks?
 
 ## Where can I read more about this?
-- [Sustainable Banking Guide](https://www.fairfinanceguide.org/)
-- [BNG Bank Sustainability](https://www.bng.nl/over-bng/duurzaamheid)
-- [Banking on Climate Change Report](https://www.bankingonclimatechaos.org/)
+- <a href="https://www.bngbank.nl/over-BNG-Bank/Onze-duurzame-ontwikkelingsdoelen">BNG Bank</a>
+- <a href="https://www.duurzaam-beleggen.nl/blog/de-impact-van-je-bankrekening/">De impact of your bankaccount</a>
+- <a href="[Triodos Bank](https://www.triodos.nl/)">Triodos Bank</a>
+- <a href="https://www.asnbank.nl/home.html">ASN Bank</a>

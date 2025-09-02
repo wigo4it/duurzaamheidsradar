@@ -1,24 +1,17 @@
-# Energyproportionality
+# Energy Proportionality
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Energy proportionality is the concept where energy consumption of a device, such as a server or CPU, should be proportional to the actual workload the device is performing. Ideally, a processor would only use energy proportional to the computing power actually demanded, but in practice many systems work less efficiently at partial load.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+Examples of energy proportionality:
+
+- **High load, high efficiency**: When a CPU runs at 100% of its capacity, it's generally most energy efficient, because all energy is converted into performance.
+- **Low load, lower efficiency**: At 50% load, a CPU still consumes a relatively large portion of its maximum energy, but only delivers half the performance, leading to lower energy efficiency.
+- **The difference with cars**: While a car drives most efficiently at lower speeds (like 90 km/h), and becomes inefficient at high speeds (like 200 km/h), a CPU works exactly the opposite. With a CPU, energy efficiency actually increases as load rises toward 100%, because energy consumption is proportional to delivered performance.
+- **Modern CPUs improve proportionality**: Newer CPUs have technologies like "dynamic voltage and frequency scaling" (DVFS), allowing them to adjust their energy consumption based on workload. This makes them more efficient than older generations. Although progress has been made, energy consumption at partial load remains a challenge. Even when a processor is only 20-30% loaded, it can consume up to 50-70% of its maximum energy.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+The quest for better energy proportionality is an important topic for us, because improving energy efficiency at lower loads can lead to significant energy savings, especially in our cloud. Therefore, we prefer to scale smaller initially and then scale up as demand grows, instead of immediately over-dimensioning.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
-
-## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+## Image
+![alt text](wiki/energyProportionality.png)

@@ -1,24 +1,22 @@
 # Scaling
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Scaling is the adjustment of system and infrastructure capacity to meet changing demand. This can mean both adding more power to existing machines and adding more machines. Scaling is essential in cloud computing and modern applications to handle resources more efficiently and ensure performance, with other sustainable benefits:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- With scaling, companies can adjust their IT resources to actual demand. Instead of always running at full capacity, systems can automatically scale up during peaks and scale down during low load. This prevents energy waste and ensures that only the required computing power and storage are used.
+
+- By scaling dynamically, data centers and servers can consume less energy when demand is low. This not only reduces costs, but also reduces the ecological footprint by minimizing energy waste.
+
+- Scaling in cloud environments uses shared infrastructure, ensuring that hardware is used more efficiently by multiple users and organizations. This reduces the need for constantly purchasing new physical servers, contributing to sustainability.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it has implemented scaling in various places:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Our Azure Kubernetes Cluster automatically scales nodes up and down depending on demand. This way we only run the necessary container infrastructure that we really need.
+
+- Our WebApps use Azure App Service auto-scaling. This automatically scales our WebApps or APIs depending on CPU usage, memory usage, or other configured thresholds.
+
+- Our Virtual Machine Scalesets scale automatically depending on demand. This prevents us from running unnecessarily many VMs when demand is low.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.nops.io/blog/cloud-scalability/">Cloud scalability</a>

@@ -1,24 +1,18 @@
 # Workbooks
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Workbooks are a powerful tool within the Azure platform that help IT engineers gain deep insights into their cloud environment. These workbooks enable IT engineers to visualize data, perform analysis, and generate reports that are essential for managing and optimizing cloud resources. Think, for example, of security, costs, performance, but also sustainability—where workbooks can help generate insights (and drive action).
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+One of the challenges in the cloud is identifying unused or underutilized resources that cause unnecessary costs and environmental impact. Workbooks can help detect these inefficiencies by generating reports that show which resources exhibit little to no activity. These insights make it possible to clean up or restructure unused resources, leading to cost efficiency, lower emissions, and a better organized cloud environment.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it uses these workbooks to gain insights into the environment. During our Cleanupfest, these workbooks are always used to take the time to analyze whether things can be safely deleted. In addition, these workbooks help raise awareness. Some examples of workbooks we use to gain insights into the cloud environment:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- <a href="https://github.com/dolevshor/azure-orphan-resources/">Azure orphaned resources workbook</a>
+- <a href="https://learn.microsoft.com/en-us/cloud-computing/finops/toolkit/optimization-workbook/cost-optimization-workbook">Azure Cost analyze workbook</a>
+- <a href="https://learn.microsoft.com/en-us/azure/carbon-optimization/overview">Carbon Optimization</a>
+
+Each team can use these workbooks for its own subscriptions. In short, there’s nowhere to hide. You build it, you run it!
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.wigo4it.nl/techorama-2023/duurzame-tips/">Wigo4it Cleanupfest</a>

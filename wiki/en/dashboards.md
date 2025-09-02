@@ -1,24 +1,26 @@
 # Dashboards
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Real-time dashboards provide valuable insights by continuously updating data and providing direct insight into the current status of systems and processes. However, constantly collecting, processing and displaying real-time data has a negative and often unnecessary impact. Think for example of the use of server capacity, storage and network resources for real-time monitoring of data that leads to increased energy consumption and a larger ecological footprint. Ultimately, this inefficient use of resources causes increased operational costs.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- High Energy Consumption
+
+Real-time dashboards require constant data collection and processing, leading to continuous use of servers and network resources. This results in increased energy consumption and a larger ecological footprint.
+
+- Unnecessary Loads:
+
+Constantly updating data in real-time can lead to unnecessary load on infrastructure, requiring more resources for data processing and storage.
+
+- Inefficiency in Data Processing:
+
+Continuously retrieving and processing data can be inefficient, especially when information is not always necessary, contributing to higher operational costs and resource waste.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+By understanding why real-time dashboards are often not a sustainable option, organizations can consider implementing alternative options that both reduce ecological impact and improve efficiency. We have made the choice that real-time dashboards are really unnecessary and implemented the following:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- No more real-time dashboards. Users have a button to refresh the data and yes, that can sometimes take a few minutes.
+- We collect and process data in batches at scheduled intervals instead of continuously. This reduces the load on systems and lowers energy consumption.
+- We use event-driven systems that only process data when there are significant changes, instead of constantly retrieving and updating data.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

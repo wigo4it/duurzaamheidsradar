@@ -1,24 +1,18 @@
 # Digital Signing
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Digital signing is the process where an electronic signature is used to sign a document. Instead of a physical signature with pen on paper, you use a digital signature that is often generated using cryptographic techniques.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- By signing digitally you reduce the use of paper, ink, and other office supplies such as pens and printers.
+
+- Digitizing the signing process eliminates the need to print, scan and mail documents.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+We sign everything digitally, from employment conditions for employees to contracts with suppliers.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Every document that requires a signature is digitally signed.
+- We went from four printers to just one.
+- We reduced our paper consumption by more than 80%.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.validsign.eu/">ValidSign</a>

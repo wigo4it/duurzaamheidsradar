@@ -1,24 +1,22 @@
-# Efficient APIs
+# APIs
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+APIs (Application Programming Interfaces) are considered sustainable for several reasons:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- *Reusability*: APIs make it possible to reuse the same functionality in different applications without having to rewrite the underlying code.
+
+- *Scalability*: APIs make it possible to easily expand or scale services up or down, depending on demand.
+
+- *Interoperability*: By using standardized protocols (such as HTTP and REST), communication between different systems becomes easier, requiring fewer additional systems.
+
+- *Just enough*: APIs ensure that you get exactly the right information and prevent you from having to retrieve a complete dataset.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Currently, we do not yet expose data to third parties via APIs. The Socrates API is only used for the internal operation of our applications.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Our internal API automatically scales based on usage.
+
+- It is our strategy to have all external data connections go through APIs, so we can deliver exactly the right information at the right time.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

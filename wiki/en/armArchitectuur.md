@@ -1,24 +1,25 @@
 # ARM Architecture
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+ARM architecture (Advanced RISC Machine) is a type of processor architecture primarily used in mobile devices and embedded systems. It distinguishes itself from x86 architecture (used in most desktop and laptop processors) through its simplicity and energy efficiency.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+Examples of ARM architecture:
+
+- **RISC (Reduced Instruction Set Computing)**: ARM processors use a simple set of instructions, which ensures more efficient processing and less energy consumption per executed task.
+- **Low complexity**: ARM chips are simpler in design and contain fewer transistors compared to x86 chips, resulting in lower energy consumption.
+- **Applications in mobile and embedded devices**: ARM is used in smartphones, tablets, IoT devices and sometimes even in servers due to the balance between performance and energy efficiency.
+- **Energy efficiency**: ARM processors typically use less power than their x86 counterparts. On average, ARM is 30-50% more efficient than x86, depending on the specific application and configuration. This is due to the focus on low energy consumption per calculation.
+- **Performance per watt**: ARM chips are often designed for optimal balance between performance and energy consumption, especially in environments where power consumption is a critical factor, such as smartphones and tablets. In some cases, ARM chips can be up to 5 times more energy efficient than x86, depending on the task.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+ARM architecture has developed strongly in recent years in terms of performance and energy efficiency, making it more attractive and even becoming the standard for some devices.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
-
+- **ARM is already the standard in mobile phones and tablets**:  
+  ARM processors dominate the mobile market due to their energy efficiency and compactness. Almost all modern smartphones and tablets, including those from Apple, Samsung and other major brands, run on ARM chips.
+- **ARM is becoming the standard in laptops**:  
+  The recent trend, especially fueled by Apple's M1, M2 and M3 processors, shows that ARM chips are gaining more ground in the laptop market. We therefore prefer ARM-based laptops.
+- **ARM is emerging in data centers**:  
+  ARM is also rapidly expanding into the server and data center market, where energy consumption and efficiency are crucial. When our reservations expire, we switch to ARM-based VMs where possible.
+  
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://azure.microsoft.com/nl-nl/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/">ARM on Azure</a>

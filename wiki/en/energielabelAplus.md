@@ -1,21 +1,20 @@
 # Energy Label A+
 
 ## What does this mean?
-Energy label A+ refers to choosing the most energy-efficient option available when purchasing equipment, appliances, or systems. This means selecting products with the highest energy efficiency rating, which consume the least amount of electricity while providing the same functionality.
+As of January 1, 2023, all office buildings in the Netherlands larger than 100 m² must have at least energy label C. This means that these buildings may use a maximum of 225 kWh of primary fossil energy per m² per year. If an office does not meet this requirement, it may no longer be used as an office.
+This measure is part of the efforts to make the Netherlands more sustainable and to reduce CO2 emissions. Municipalities and environmental services enforce this obligation and can impose fines on owners who do not comply. In addition to the environmental and health benefits, there are also two advantages for building owners:
 
-*Examples:*
-- Office Equipment: When purchasing new computers, monitors, printers, or other office equipment, we prioritize products with Energy Star certification or equivalent A+ energy ratings.
-
-- Lighting Systems: LED lighting with the highest efficiency ratings, smart lighting controls that automatically adjust based on occupancy and daylight levels.
-
-- HVAC Systems: Heating, ventilation, and air conditioning systems that meet the highest energy efficiency standards and use sustainable refrigerants.
-
-- Data Centers: Choosing server hardware and cooling systems with the best energy efficiency ratings to minimize power consumption.
+- Lower energy costs
+- Higher property value
+- Better rental potential
 
 ## How are we doing?
-We are actively implementing energy-efficient choices across our organization and encouraging teams to consider energy consumption in their purchasing decisions.
+Wigo4it is located in the New Babylon office building in The Hague. This building has an A+ energy label. The major advantages of this are:
 
-*Initiatives:*
-- Procurement Guidelines: Developing clear guidelines that prioritize energy-efficient products in all purchasing decisions.
-- Energy Audits: Regular assessments of our energy consumption to identify opportunities for more efficient equipment.
-- Employee Awareness: Training staff to recognize and choose energy-efficient options in their daily work.
+- More environmentally friendly
+- Healthier indoor climate
+- Sometimes we do end up sitting in the dark because of the motion sensors
+- Positive corporate reputation
+
+## Where can I read more about this?
+- <a href="https://www.kvk.nl/duurzaamheid/energielabel-c-volg-deze-stappen-en-voorkom-een-boete/">Verplichting energielabel C: voorkom boete</a>

@@ -1,24 +1,22 @@
 # Dark Data
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Dark data refers to the enormous amounts of information that organizations and individuals collect but do not analyze or use. This can include unstructured data, such as emails, customer information, photos, sensor data, or log files, which are often stored without a clear purpose. Although not actively used, this data contributes to an organization's energy consumption and ecological footprint, especially through the resources needed to store and secure this data:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- Storing dark data consumes a lot of energy, especially in data centers that run continuously and must be cooled, contributing to the ecological footprint.
+
+- Data centers storing dark data contribute globally to significant CO2 emissions, having a negative impact on the environment.
+
+- Globally, about 70% (!) of stored data is never accessed or used again.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it tries to prevent unnecessary storage as much as possible. In the past, for example, we made complete backups (vmdk files) of our servers. Nowadays, the entire infrastructure is in code and we only back up production data. Additionally, we have a clear vision on archiving that we actively execute.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- We store hundreds of Terabytes less than four years ago.
+
+- By removing redundant data and only keeping valuable data, our energy consumption has decreased, contributing to sustainability (and costs).
+
+- Preventing dark data by being critical about what you log, store etc. by default. After all, not storing is the best.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://en.wikipedia.org/wiki/Dark_data">Dark Data</a>

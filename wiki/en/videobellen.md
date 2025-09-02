@@ -1,32 +1,30 @@
-# Videobellen
+# Video Calling
 
 ## What does this mean?
-In het digitale tijdperk van vandaag is de manier waarop we communiceren drastisch veranderd. Met de opkomst van videobeltechnologieën kunnen face-to-face gesprekken plaatsvinden over duizenden kilometers afstand. Het is echter essentieel om de sustainableheid van deze moderne communicatiemethoden te overwegen, vooral bij het vergelijken van videobellen met traditionele belmethoden.
+In today’s digital age, the way we communicate has changed drastically. With the rise of video calling technologies, face-to-face conversations can take place across thousands of kilometers. However, it is essential to consider the sustainability of these modern communication methods, especially when comparing video calling with traditional call methods.
 
+- **Video calling**: Requires significant data processing and transmission, leading to higher energy consumption. The servers and clients that support video streaming use a lot of electricity, much of which still comes from non-renewable sources.
 
-- **Videobellen**: Vereist aanzienlijke gegevensverwerking en transmissie, wat leidt tot een hoger energyconsumption. De servers en clients die video streaming ondersteunen consumptionen veel elektriciteit, waarvan een groot deel afkomstig is van niet-hernieuwbare bronnen.
+- **Traditional calling**: Uses less bandwidth and therefore less energy. The infrastructure for voice calls is more energy-efficient compared to the data centers required for video calling.
 
-- **Traditioneel bellen**: Gebruikt minder bandbreedte en daardoor minder energy. De infrastructuur voor spraakoproepen is energy-efficiënter in vergelijking met de datacenters die nodig zijn voor videobellen.
-
-- **Chatten**: Vereist minimale gegevensverwerking en transmissie, waardoor het een van de meest energyzuinige vormen van digitale communicatie is. Het gebruik van tekstberichten consumptiont aanzienlijk minder bandbreedte en elektriciteit in vergelijking met zowel videobellen als traditioneel bellen.
-
+- **Chatting**: Requires minimal data processing and transmission, making it one of the most energy-efficient forms of digital communication. Text messaging consumes significantly less bandwidth and electricity compared to both video and traditional calling.
 
 ## How are we doing?
-Sinds de coronapandemie is het gebruik van Teams onze standaard communicatiemethode geworden. Momenteel proberen we door middel van voorbeeldgedrag ook onze communicatie te versustainablen. Hierbij hanteren we de volgende richtlijnen:
+Since the COVID-19 pandemic, Teams has become our standard communication method. We are currently trying to make our communication more sustainable through role-model behavior. We apply the following guidelines:
 
-- **Chatten**: Voor korte, contextarme interacties maken we gebruik van chatberichten.
+- **Chatting**: For short, low-context interactions, we use chat messages.
 
-- **Bellen**: Eén-op-één gesprekken voeren we bij voorkeur telefonisch en tijdens een wandeling buiten.
+- **Calling**: One-on-one conversations are preferably done by phone and during a walk outside.
 
-- **Camera uit**: Wanneer we via Teams bellen, zetten we indien mogelijk de camera uit. Een Amerikaanse studie toont aan dat dit de ecologische voetafdruk van het gesprek met maar liefst 96% kan verminderen.
+- **Camera off**: When calling via Teams, we turn off the camera whenever possible. An American study shows that this can reduce the ecological footprint of the call by as much as 96%.
 
-- **Beperk de Videokwaliteit**: Wanneer videobellen noodzakelijk is, overweeg dan de videokwaliteit te verlagen om het bandbreedtegebruik te minimaliseren.
+- **Limit video quality**: When video calling is necessary, consider lowering the video quality to minimize bandwidth usage.
 
-- **Beperk het gebruik van virtuele achtergronden**: Wij raden aan om virtuele achtergronden in Teams te minimaliseren, omdat deze veel extra verwerkingskracht en energy vergen.
+- **Limit the use of virtual backgrounds**: We recommend minimizing virtual backgrounds in Teams, as these require much more processing power and energy.
 
-- **Gebruik energyzuinige apparaten**: Wij kiezen voor apparaten met hoge energy-efficiëntie, zoals die met ARM-processors.
+- **Use energy-efficient devices**: We choose devices with high energy efficiency, such as those with ARM processors.
 
-- Onze collega's zijn tenslotte toch niet super knap ;)
+- And after all, our colleagues aren’t that good-looking anyway ;)
 
 ## Where can I read more about this?
-- <a href="https://www.technopolis.be/nl/blog/zijn-videocalls-slecht-voor-het-environment/#:~:text=Dankzij%20de%20data%20van%20achttien,1%20kilogram%20CO2 emissions">Zijn videocalls slecht voor het klimaat?</a>
+- <a href="https://www.technopolis.be/nl/blog/zijn-videocalls-slecht-voor-het-milieu/#:~:text=Dankzij%20de%20data%20van%20achttien,1%20kilogram%20CO2-uitstoot">Are videocalls bad for the climate?</a>

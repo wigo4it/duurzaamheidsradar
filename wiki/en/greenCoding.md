@@ -1,22 +1,26 @@
 # Green Coding
 
 ## What does this mean?
-Green coding refers to writing software code that minimizes energy consumption and environmental impact. This involves choosing efficient algorithms, optimizing code performance, and considering the environmental footprint of software applications throughout their lifecycle.
+At home we're all busy with solar panels, insulation, heat pumps etc., but at work we seem to hardly consider sustainability when building software. Green coding (also called sustainable software development) is the practice of writing energy-efficient code to reduce the ecological footprint of software. It's about conscious programming with attention to the amount of energy and computing power an application consumes, and optimizing code to minimize energy waste. The positive impact of green coding:
 
-*Examples:*
-- Algorithm Optimization: Selecting algorithms with lower computational complexity to reduce CPU usage and energy consumption.
+- More optimal code can reduce energy consumption of data centers, servers and devices, which is not only good for the environment, but also saves costs for companies.
 
-- Efficient Data Structures: Using appropriate data structures that minimize memory usage and improve access patterns.
+- More efficient software means hardware lasts longer, because it's less heavily loaded. This can extend the lifespan of devices, contributing to less electronic waste.
 
-- Code Optimization: Removing unnecessary computations, optimizing loops, and reducing redundant operations.
-
-- Lazy Loading: Loading resources only when needed to reduce memory usage and network traffic.
+- Green coding often leads to faster applications and better performance, improving user experience without consuming unnecessary energy.
 
 ## How are we doing?
-We are actively incorporating green coding practices into our development processes and educating our development teams about sustainable programming techniques.
+Wigo4it is aware of the impact that green coding can make. For example, we've already moved away from ['Python'](wiki.html?page=python) and use sustainable programming languages.
 
-*Initiatives:*
-- Developer Training: Providing workshops on green coding principles and energy-efficient programming practices.
-- Code Reviews: Including energy efficiency considerations in our code review processes.
-- Performance Monitoring: Implementing tools to monitor the energy consumption of our applications.
-- Best Practices Documentation: Creating guidelines for sustainable software development.
+- We've written code so efficiently that our builds and pipelines run as short as possible.
+
+- Green coding helps Wigo4it achieve its sustainability goals, making us an interesting employer.
+
+- <a href="https://carbon-aware-sdk.greensoftware.foundation/">Carbon Aware SDK</a> is a super cool initiative that we don't use enough yet. We're going to deploy this soon on our FunovationDay!
+
+- Why are Python programmers so good at green coding? Because they do 'garbage collection' automatically!
+
+![alt text](wiki/greencoding.png)
+
+## Where can I read more about this?
+- <a href="https://datascience.aero/green-programming-reducing-your-carbon-emissions-when-coding/">Reducing Carbon Emissions when coding</a>

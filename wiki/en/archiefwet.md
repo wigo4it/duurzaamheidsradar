@@ -1,23 +1,22 @@
 # Archive Law
 
 ## What does this mean?
-The government creates and receives vast amounts of information. This information is crucial for government operations, public accountability, legal proceedings, and cultural-historical purposes. Therefore, regulations ensure that government organizations properly preserve their information.
+The government creates and receives a great deal of information. This information is important for the government’s own operations, but also for public accountability, legal purposes, and from a cultural-historical perspective. That is why there are regulations ensuring that government organizations properly preserve their information.
 
-- Information must remain accessible and comprehensible for the duration of the retention period.
+- Information must remain accessible and understandable for the duration of the retention period.
 
-- There are specific requirements for how long different types of documents must be retained.
+- There are specific requirements regarding how long different types of documents must be retained.
 
-- The Archive Law ensures that information is preserved in a reliable manner.
+- The Archives Act ensures that information is preserved in a reliable way.
 
 ## How are we doing?
-Within our application Socrates, we archive data in an efficient and modern way. This eliminates the need to maintain seven-year backups. This enables us to use backups for their intended purpose: disaster recovery, not for compliance with the Archive Law.
+Within our Socrates application, we archive data in an efficient and modern way. As a result, it is no longer necessary to keep a backup for seven years. This allows us to use backups for their intended purpose: disaster recovery, rather than compliance with the Archives Act.
 
 - Our archiving processes are automated and comply with legal requirements.
 
-- Stored data is easily accessible for audits and accountability.
+- The stored data is easily accessible for audit and accountability.
 
-- By eliminating tapes for archival purposes, we now store 30% less data. Additionally, the logistical challenges around tape transport and the need for a tape library disappear, resulting in less e-waste.
+- By eliminating tapes for archiving purposes, we now store 30% less data. In addition, the logistical challenges of transporting tapes and the need for a tape library disappear, resulting in less e-waste.
 
 ## Where can I read more about this?
-- [Dutch Archive Law Overview](https://www.nationaalarchief.nl/archiveren/wat-is-archiveren)
-- [Government Information Management](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/informatiemanagement/)
+- <a href="https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid/">Archive Law</a>

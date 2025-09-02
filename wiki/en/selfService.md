@@ -1,24 +1,20 @@
-# Self Service
+# Self-service
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Self-service refers to systems and tools that allow users to independently perform IT-related tasks without direct intervention from an IT department. Examples include resetting passwords, accessing software, or setting up virtual machines via a cloud portal. Self-service is becoming increasingly popular within companies and organizations because it not only improves efficiency but also contributes to sustainability in several ways:
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- IT teams and customers can allocate resources on demand (think cloud environments), which ensures more efficient use of servers and reduces unnecessary load. This prevents energy waste, as only the resources that are actually needed are used.
+
+- Many self-service systems replace paper-based processes with digital workflows. This reduces the use of paper, ink, and other physical resources, directly contributing to sustainability. In addition, it also saves the energy that would otherwise be required to print, store, and send physical documents.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Wigo4it has implemented quite a lot of self-service. Our favorite example is our ['Wegwijzer'](wiki.html?page=wegwijzer). Through this portal, our developers and customers can configure, deploy, and remove entire environments themselves. In addition, we have a few other self-service implementations:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Through our self-service portal, customers can log incidents and requests themselves. They can also view the status and access hundreds of articles in the knowledge base. The main advantage is that we now have a single channel, and phone calls or emails are no longer needed.
+
+- Laptop enrollment is done via self-service, along with the installation of all corporate software and updates.
+
+- Teams can use a portal to deploy subscriptions themselves, including BIO-compliant key vaults, storage accounts, and more.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://en.wikipedia.org/wiki/Self-service">Self-service</a>

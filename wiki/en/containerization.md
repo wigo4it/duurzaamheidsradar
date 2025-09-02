@@ -1,24 +1,24 @@
 # Containerization
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Containerization is a technique in software development where applications are packaged together with their dependencies into containers. These containers are lightweight, isolated environments that can run on the same host or virtual machine (VM), but are much more efficient than VMs. Containers are isolated from each other, allowing them to work independently, but share the operating system kernel. This makes them more flexible and efficient in terms of resources and energy consumption.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- Containers all run on the same OS kernel, which means you don't have to load additional operating systems and there's less overhead. This leads to more efficient use of physical or virtual hardware.
+
+- Containers can be started almost instantly, while VMs take longer to boot their operating system and processes. This faster startup time reduces energy consumption and ensures applications are available faster, which is both operationally and environmentally friendlier.
+
+- Because containers are lighter and consume fewer resources, they can be more easily deployed in large-scale environments. This means data centers can be used more efficiently, requiring fewer physical servers to perform the same amount of work. Fewer servers means less energy consumption for both running the servers and cooling in the data center.
+
+- Containers can easily be scaled up or down based on demand. This means you can shut down inactive containers and save energy. In VM-based environments, it's much more difficult to flexibly adjust resources without significant overhead.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+Previously, Wigo4it had more than 1000 servers running 24/7, 365 days a week in the data center. What a waste of energy, idle time, hardware purchases, etc. Now we hardly have any VMs and use the following services based on containerization:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Azure Kubernetes Service
+
+- WebApps
+
+- App Services
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://en.wikipedia.org/wiki/Containerization_(computing)">Containerization</a>

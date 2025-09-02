@@ -1,24 +1,21 @@
 # Archiving
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Although archiving mail and data is sometimes necessary, it also brings significant sustainability challenges. By being more conscious about which data is stored and how it is managed, organizations can both reduce their ecological footprint and achieve operational and economic benefits.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- Storing large amounts of data requires significant amounts of energy, both for the data centers that host the data and for the cooling systems needed to keep these centers operational.
+- Much stored data is rarely or never accessed, leading to unnecessary costs without any actual benefit.
+- Managing large amounts of archived data increases the complexity of IT systems and processes.
+- Finding and retrieving specific data can be time-consuming and cumbersome, especially when archiving systems are not well organized.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+In recent years, we have critically looked at what we archive. Things we have adjusted in recent years:
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Clear logging and archiving policy
+- We no longer archive non-prod
+- We archive production for max 3 years (BIO requirement)
+- That story of 7+ year retention periods within government has really gotten out of hand and only applies to specific types of data. We must stop repeating each other and really think through whether you need to store that data for so long. We dare to say that more than 50% of the data within government does not need to be stored as long as it currently is.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.rijksoverheid.nl/onderwerpen/archieven/archieven-van-de-overheid">Government Archives</a>
+- <a href="https://www.autoriteitpersoonsgegevens.nl/themas/overheid/archivering-door-de-overheid/archiefwet-en-avg">Archive Law and GDPR</a>

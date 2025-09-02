@@ -1,24 +1,17 @@
 # Algorithm
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Algorithms play an essential role in making IT processes more sustainable, particularly by optimizing computing power and reducing energy consumption. In our case, we primarily use decision algorithms to implement complex laws and regulations. By making these algorithms more efficient, we can make execution faster and more energy-efficient. Various types of algorithms, such as decision, optimization, and compression algorithms, directly contribute to making our IT infrastructure more sustainable.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+Examples of sustainability through algorithms:
+
+- **Big-O notation**: This helps us analyze and improve the efficiency of our decision algorithms. The more efficient the algorithm, the less computing power and energy are needed for implementing complex laws and rules.
+  
+- **Decision algorithms**: These algorithms, which implement complex rules and legislation, can be made more efficient by streamlining decision trees and reducing unnecessary operations. This results in less computing time and energy consumption.
+
+- **Optimization algorithms**: Algorithms that optimize decision processes by finding the fastest and most energy-efficient route when applying legislation. This helps reduce the load on systems.
+
+- **Machine Learning for legislative interpretation**: By applying machine learning to automate processes and learn from previous decisions, the processing of complex rules can be more efficient and energy-efficient.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
-
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
-
-## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+We focus on making our IT systems more sustainable by continuously optimizing our decision-making algorithms. By making algorithms more efficient, we reduce our energy consumption and improve the speed and accuracy of executing complex regulations.

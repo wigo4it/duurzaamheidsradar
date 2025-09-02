@@ -1,28 +1,28 @@
 # Agile Sustainability Manifesto
 
 ## What does this mean?
-Het Agile sustainability manifesto bestaat uit vier kernwaarden en twaalf principes, geïnspireerd door het originele Agile Manifesto. De kernwaarden benadrukken onder andere de noodzaak om sustainable oplossingen te ontwikkelen, de verantwoordelijkheid te nemen voor environmenteffecten en het belang van samenwerking met stakeholders om sustainable doelen te bereiken. De principes van het manifesto benadrukken de integratie van sustainableheid in elke fase van het ontwikkelingsproces. Dit omvat het minimaliseren van energyconsumption, het bevorderen van herbruikbare oplossingen, en het stimuleren van bewustwording over de impact van software en systemen op het environment.
-Het Agile Sustainability Manifesto biedt dus een raamwerk voor organisaties die sustainableheid willen verankeren in hun agile werkwijzen en helpt bij het maken van keuzes die zowel bedrijfs- als environmentdoelen ondersteunen. De vier kernwaarden zijn:
+The Agile sustainability manifesto consists of four core values and twelve principles, inspired by the original Agile Manifesto. The core values emphasize, among other things, the need to develop sustainable solutions, take responsibility for environmental effects and the importance of collaboration with stakeholders to achieve sustainable goals. The principles of the manifesto emphasize the integration of sustainability in every phase of the development process. This includes minimizing energy consumption, promoting reusable solutions, and stimulating awareness about the impact of software and systems on the environment.
 
-- Mens en planeet __boven__ winst
+The Agile Sustainability Manifesto thus provides a framework for organizations that want to anchor sustainability in their agile ways of working and helps in making choices that support both business and environmental goals. The four core values are:
 
-We give voorrang aan het welzijn van de omgeving (ecosysteemdiensten en biodiversiteit) en mensen (individuen, gemeenschappen en toekomstige generaties) __boven__ financiële (kortetermijn) winsten en bevorderen zo een regeneratieve en rechtvaardige wereld.
+- People and planet __over__ profit
 
-- Aanpassingsvermogen __boven__ rigiditeit
+We prioritize the well-being of the environment (ecosystem services and biodiversity) and people (individuals, communities and future generations) __over__ financial (short-term) profits and thus promote a regenerative and just world.
 
-We omarmen verandering als een kans voor groei, veerkracht en sustainableheid, waarbij we aanpassingsvermogen belangrijker vinden dan rigide plannen en structuren. Aanpassingsvermogen aan veranderende omstandigheden is een belangrijke vaardigheid met het oog op klimaatverandering.
+- Adaptability __over__ rigidity
 
-- Overvloed __boven__ schaarste
+We embrace change as an opportunity for growth, resilience and sustainability, valuing adaptability over rigid plans and structures. Adaptability to changing circumstances is an important skill with climate change in mind.
 
-Bewust afstappen van verhalen en culturen over winnaars en verliezers. Weg blijven van het vergroten van marktaandeel ten koste van anderen, weg blijven van elkaar de schuld geven en in plaats daarvan samenwerken over grenzen heen. Dit leidt tot een mindset van overvloed, waarin "het geheel meer waarde heeft dan de afzonderlijke delen samen."
+- Abundance __over__ scarcity
 
-- Waarde __boven__ consumption
+Consciously moving away from stories and cultures about winners and losers. Staying away from increasing market share at the expense of others, staying away from blaming each other and instead collaborating across boundaries. This leads to a mindset of abundance, where "the whole has more value than the individual parts together."
 
-We zetten ons in om het energy-, materiaal- en transportgebruik in al onze activiteiten te minimaliseren. Met lef altijd de belangrijkste waarde voorop stellen pleiten we voor verantwoord gebruik van grondstoffen en bewuste consumptie op onze eindige planeet.
+- Value __over__ consumption
 
+We are committed to minimizing energy, material and transport use in all our activities. With courage always putting the most important value first, we advocate for responsible use of raw materials and conscious consumption on our finite planet.
 
 ## How are we doing?
-Beschrijf hoe we ervoor staan. Geef voorbeelden in bullets:
+Describe how we are doing. Give examples in bullets:
 
 - 
 

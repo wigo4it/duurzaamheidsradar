@@ -1,24 +1,22 @@
 # Cattle
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+In the sustainability context, cattle refers to servers that are identically configured and can be easily replaced without personal attention through automation.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- By configuring servers identically and making them easily replaceable, they can be easily scaled down when demand decreases.
+
+- Because cattle servers are identically configured and can be easily replaced, it's not necessary to make individual backups.
+
+- This model (cattle) is ideal for self-service environments where resources are built up and torn down on demand (Pay-As-You-Go, PAYG). This ensures environments only run when they're actually being used.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+All static components that run cloud native are based on the 'cattle' model. This means they are identically configured and can be easily replaced without individual attention. In summary, we can say that only our database is still treated as ['pets'](wiki.html?page=pets), while the underlying infrastructure, such as the database server itself, also functions according to the 'cattle' model.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- All infrastructural components are based on the cattle model and scale on demand. This ensures more efficient use of resources.
+
+- Non-production environments are requested via self-service and removed when not in use. This minimizes unnecessary resource usage.
+
+- No more backups are made of infrastructural components, because they can be easily recreated in case of failure. This reduces storage requirements.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/">The History of Pets vs Cattle and How to Use the Analogy Properly</a>

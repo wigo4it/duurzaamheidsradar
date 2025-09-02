@@ -1,26 +1,25 @@
-# Verwijder Strategie
+# Deletion Strategy
 
 ## What does this mean?
-Een verwijderstrategie is een plan of beleid waarin je als bedrijft vastlegt hoe en wanneer je gegevens en documenten opslaat, maar ook permanent verwijdert. Dit is niet alleen belangrijk voor compliance en gegevensbeheer, maar ook vanuit sustainableheidsperspectief. Een goed doordachte verwijderstrategie zorgt ervoor dat je voldoet aan bewaartermijnen en onnodige data opruimt, wat zowel sustainable is als juridisch noodzakelijk. Wat moet er minimaal in een goede verwijderstrategie beschreven staan: 
+A deletion strategy is a plan or policy in which a company defines how and when data and documents are stored, but also permanently deleted. This is not only important for compliance and data management, but also from a sustainability perspective. A well-thought-out deletion strategy ensures that you comply with retention periods and clean up unnecessary data, which is both sustainable and legally required. At a minimum, a good deletion strategy should describe:
 
-- Gegevensclassificatie: Welke soorten gegevens worden opgeslagen?
-- Bewaartermijnen: Hoe lang worden gegevens bewaard en wanneer worden ze verwijderd?
-- Automatisering: Hoe wordt het proces van verwijdering geautomatiseerd?
-- Audits: Hoe en wanneer worden periodieke audits uitgevoerd?
-- Compliance: Hoe wordt voldaan aan wet- en regelgeving, zoals de AVG?
-- Verantwoordelijkheden: Wie is verantwoordelijk voor naleving en uitvoering?
+- Data classification: What types of data are being stored?
+- Retention periods: How long is data kept and when is it deleted?
+- Automation: How is the deletion process automated?
+- Audits: How and when are periodic audits conducted?
+- Compliance: How is compliance with laws and regulations, such as the GDPR, ensured?
+- Responsibilities: Who is responsible for compliance and execution?
 
-Met een goed uitgevoerde verwijderstrategie kunnen bedrijven hun datamanagement optimaliseren, energycosts besparen en voldoen aan wettelijke vereisten, wat uiteindelijk allemaal bijdraagt aan sustainableheid.
+With a well-executed deletion strategy, companies can optimize their data management, save energy costs, and meet legal requirements—all of which ultimately contribute to sustainability.
 
 ## How are we doing?
-Wigo4it heeft nog geen verwijderstrategie die volledig af is, maar doet al best veel als je kijkt naar bovenstaande zeven punten:
+Wigo4it does not yet have a fully completed deletion strategy, but already does quite a lot if you look at the seven points above:
 
-- We have retention policies ingericht waarmee bepaalde type data automatisch na een dag/week/maand of jaar wordt verwijderd.
+- We have implemented retention policies that automatically delete certain types of data after a day, week, month, or year.
 
-- We kijken naar een mogelijkheid om alle mail ouder dan vier jaar automatisch te verwijderen. Bij sommige collega's stuit dit vooralsnog op wat weerstand. 
+- We are looking into the possibility of automatically deleting all emails older than four years. This still meets some resistance from some colleagues.
 
-
-- We bewaren alleen de data voor een langere periode als de wet ons dat voorschrijft. Dit laten we ook jaarlijks toetsen door de auditor. 
+- We only retain data for longer periods if the law requires us to do so. This is also reviewed annually by the auditor.
 
 ## Where can I read more about this?
-- <a href="https://www.pwc.nl/nl/themas/blogs/in-vijf-stappen-naar-een-verantwoorde-dataretentie.html">Data retentie strategie</a>
+- <a href="https://www.pwc.nl/nl/themas/blogs/in-vijf-stappen-naar-een-verantwoorde-dataretentie.html">Data retention strategy</a>

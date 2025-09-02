@@ -1,24 +1,22 @@
 # Build According to SLA
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+Building according to your Service Level Agreement (SLA) prevents over-engineering and unnecessary use of resources. With an SLA of 99.5%, it's not necessary to guarantee extremely high availability (Fault Tolerance), like with airplanes, where everything must be executed redundantly. A high availability solution is comparable to a car; you can have downtime. If you have a flat tire, you stop on the shoulder for a moment, change the tire and get back on the road.
+
+It's important to understand that an SLA of 99.5% means there's an acceptable downtime of about 3.65 hours per month. This is sufficient for many applications. By building according to your SLA, you can ensure your system is reliable without unnecessary use of hardware and energy.
+
+- Automate everything. This prevents ([pets](wiki.html?page=pets)), i.e., systems that must be manually managed and are therefore vulnerable to errors and must be executed redundantly.
+
+- If you use scaling, make sure it scales across multiple availability zones. This increases the reliability and availability of your services, because the system is resilient to failure in a single zone.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+We build cars, not airplanes.
+
+- Because we have automated everything and can recreate resources ([cattle](wiki.html?page=cattle)) in the cloud within minutes, we no longer need a twin datacenter (FT) concept. This halves the number of resources used. This allows us to guarantee the reliability and availability of our services while halving our CO2 footprint.
+
+- Business-critical components are scaled across multiple availability zones. This is not the same as a twin datacenter, because we don't use more resources, but distribute them intelligently.
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.ibm.com/docs/en/powerha-aix/7.2?topic=aix-high-availability-versus-fault-tolerance">High availability versus fault tolerance</a>

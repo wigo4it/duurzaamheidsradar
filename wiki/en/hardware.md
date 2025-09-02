@@ -1,24 +1,23 @@
 # Hardware
 
 ## What does this mean?
-Bij de productie van hardware worden veel schaarse grondstoffen gebruikt, wat jaarlijks zorgt voor een CO2 emissions van 2 tot 3 megaton op de Nederlandse markt. Additionally produceert Nederland jaarlijks 16 kiloton aan e-waste, wat neerkomt op 22 kilogram per persoon aan afgedankte hardware. Om deze problemen aan te pakken, ligt de focus nu op het verlengen van de levensduur van hardware. Dit kan door hergebruik, reparatie, verkoop of sustainable afvoer. As a result kunnen we onze impact op het environment verminderen en kostbare grondstoffen besparen.
+The production of hardware uses many scarce raw materials, which annually causes CO2 emissions of 2 to 3 megatons in the Dutch market. Additionally, the Netherlands annually produces 16 kilotons of e-waste, which amounts to 22 kilograms per person of discarded hardware. To address these problems, the focus is now on extending the lifespan of hardware. This can be done through reuse, repair, sale or sustainable disposal. This way we can reduce our impact on the environment and save precious raw materials.
 
-- Hergebruik: Door hardware opnieuw te gebruiken, verminderen we de vraag naar nieuwe producten en besparen we grondstoffen.
+- Reuse: By reusing hardware, we reduce demand for new products and save raw materials.
 
-- Reparatie: Het repareren van defecte apparaten verlengt hun levensduur en voorkomt dat ze vroegtijdig als afval eindigen.
+- Repair: Repairing defective devices extends their lifespan and prevents them from ending up as waste prematurely.
 
-- Duurzame afvoer: Hardware die niet meer bruikbaar is, wordt op een environmentvriendelijke manier afgevoerd, bijvoorbeeld door donatie aan initiatieven zoals Closing the Loop.
+- Sustainable disposal: Hardware that is no longer usable is disposed of in an environmentally friendly way, for example by donation to initiatives like Closing the Loop.
 
 ## How are we doing?
-Wanneer gebruikersapparatuur zoals telefoons en laptops defect raken, geven wij de voorkeur aan reparatie boven vervanging. Dit geldt ook voor apparaten die economisch afgeschreven zijn. Ons doel is om de levensduur van onze apparatuur te verlengen en daarmee bij te dragen aan een sustainablere bedrijfsvoering. Voor hardware die nog functioneert hebben wij de volgende opties:
+When user equipment such as phones and laptops break down, we prefer repair over replacement. This also applies to devices that are economically depreciated. Our goal is to extend the lifespan of our equipment and thereby contribute to more sustainable business operations. For hardware that still functions, we have the following options:
 
-- Overgebleven hardware kan zakelijk worden overgenomen tegen de dagprijs vanuit het COYD-budget.
+- Remaining hardware can be taken over commercially at daily price from the COYD budget.
 
-- Economisch afgeschreven hardware kan via een interne “marktplaats” privé worden overgenomen.
+- Economically depreciated hardware can be taken over privately via an internal "marketplace".
 
-- Hardware die niemand meer wil wordt sustainable gedoneerd aan initiatieven zoals Closing the Loop.
-
+- Hardware that no one wants anymore is sustainably donated to initiatives like Closing the Loop.
 
 ## Where can I read more about this?
-- <a href="https://data.rvo.nl/subsidies-regelingen/projecten/de-circulaire-it-hardware-keten-%E2%80%93-afterservice">De Circulaire IT-hardware keten – Afterservice</a>
+- <a href="https://data.rvo.nl/subsidies-regelingen/projecten/de-circulaire-it-hardware-keten-%E2%80%93-afterservice">The Circular IT-hardware chain – Afterservice</a>
 - <a href="https://www.closingtheloop.eu/">Closing the loop</a>

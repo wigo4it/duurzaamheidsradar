@@ -1,38 +1,34 @@
 # Product Vision
 
 ## What does this mean?
-Realisatie en levering van producten en diensten vindt binnen Wigo4it plaats vanuit een productvisie. We toetsen onze productontwikkeling aan efficiënte en effectieve dienstverlening richting de burgers in de steden en gebruikersgemak voor de professional. Onze ambitie is onze producten, diensten en services op termijn ook aan andere gemeenten dan de G4 beschikbaar te stellen. 
- 
+Realization and delivery of products and services at Wigo4it takes place from a product vision. We test our product development against efficient and effective service delivery to citizens in cities and user convenience for professionals. Our ambition is to make our products, services and services available to municipalities other than the G4 in the future.
 
-Naast effectiviteit en efficiëntie is sustainableheid één van de belangrijke pijlers in onze productvisie, zowel strategisch als operationeel. Duurzaamheid is daarbij veel meer dan alleen maar het verminderen van onze ecologische voetafdruk, maar ook het bevorderen van economische en sociale sustainableheid.  
+In addition to effectiveness and efficiency, sustainability is one of the important pillars in our product vision, both strategically and operationally. Sustainability is much more than just reducing our ecological footprint, but also promoting economic and social sustainability.
 
- 
-**Economische sustainableheid**: we zorgen voor costssavingsen op lange termijn voor zowel onze eigen organisatie als de deelnemende gemeenten. 
+**Economic sustainability**: we ensure long-term cost savings for both our own organization and the participating municipalities.
 
-**Sociale sustainableheid**: we verbeteren de toegankelijkheid en exclusiviteit van onze applicatie, zodat meer mensen er profijt van hebben. 
+**Social sustainability**: we improve the accessibility and exclusivity of our application, so that more people benefit from it.
 
- 
-Voorbeelden: 
+Examples:
 
-- We vermijden het realiseren van maatwerk voor individuele steden en bieden uitsluitend uniforme oplossingen aan.  
+- We avoid creating customized solutions for individual cities and only offer uniform solutions.
 
-- We automatiseren maximaal alle gemeentelijke uitvoeringsprocessen; om daardoor gebruikersinteractie met de applicatie te verminderen. 
+- We maximize automation of all municipal implementation processes; to thereby reduce user interaction with the application.
 
-- We have het tijdvak van de (her)berekening van de uitkering teruggebracht van standaard 5 jaar naar uitsluitend de periode waarop een aanvraag of mutatie betrekking heeft. 
+- We have reduced the period of (re)calculation of benefits from the standard 5 years to only the period to which an application or change relates.
 
-- Door onze producten en diensten beschikbaar te maken voor meer gemeenten, kunnen schaalbenefits worden gerealiseerd, wat leidt tot lagere costs per gebruiker en efficiënter gebruik van middelen. 
+- By making our products and services available to more municipalities, economies of scale can be realized, leading to lower costs per user and more efficient use of resources.
 
 ## How are we doing?
-Het element sustainableheid afwegen in de keuzes die we vanuit de productvisie maken is nog geen structureel en gestructureerd onderdeel van onze aanpak en komt vooralsnog betrekkelijk ad hoc tot stand. 
+Weighing the element of sustainability in the choices we make from the product vision is not yet a structural and structured part of our approach and so far comes about relatively ad hoc.
 
+Examples:
 
-Voorbeelden: 
+- Currently our starting point is still 24/7 delivery and keeping applications available for users
 
-- Nu nog is ons uitgangspunt 24/7 leveren en applicaties voor gebruikers beschikbaar houden 
+- Letters and decisions are still printed from our application and sent to citizens on paper. We save reports as Word documents instead of in the database. Furthermore, the realized documents are duplicated by sending them to municipal document management solutions as well as storing them in Socrates
 
-- Brieven en beschikkingen worden nog steeds vanuit onze applicatie geprint en op papier aan burgers verzonden. Rapporten slaan we op als Word-document in plaats van in de database. Verder worden de gerealiseerde documenten gedupliceerd door ze zowel door te zetten naar gemeentelijke document management oplossingen als op te slaan in Socrates 
-
-- Als uitgangspunt hebben we neergezet batchverwerking te vervangen door real time verwerking (van berichten). Vanuit het perspectief van sustainableheid is dat wellicht niet in alle omstandigheden de meest logische keus
+- As a starting point, we have set out to replace batch processing with real-time processing (of messages). From a sustainability perspective, this may not be the most logical choice in all circumstances
 
 ## Where can I read more about this?
-- <a href="https://www.wigo4it.nl/?utm=sustainableheidsradar">Wigo4it website</a>
+- <a href="https://www.wigo4it.nl/?utm=duurzaamheidsradar">Wigo4it website</a>

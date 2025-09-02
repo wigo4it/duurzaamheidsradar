@@ -1,24 +1,15 @@
-# Terra Cost
+# Terracost
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Terracost is a tool used with Terraform to create cost estimates for cloud infrastructure before it is deployed. It supports major cloud providers such as AWS, Google Cloud, and Microsoft Azure, and helps users compare costs across different providers. Terracost integrates seamlessly with Terraform and provides detailed cost analyses for specific resources, enabling organizations to budget more effectively, optimize costs, and make well-informed decisions when building infrastructure as code.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+- Helps identify the most expensive resources and potential cost savings.
 
-## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+- Can be used as part of the Terraform plan and apply phases to generate cost estimates before infrastructure changes are made.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Assists in understanding the cost implications of specific infrastructure changes.
+
+Wigo4it uses Terracost in several repositories to gain direct insight into the cost impact (and therefore often the environmental impact) of certain choices in the code. For example, can we also manage with a different SKU? It helps you determine the financial impact of your infrastructure changes. A small extension in VS Code that creates just a bit more awareness!
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- <a href="https://www.cycloid.io/open-source/terracost">Terracost</a>

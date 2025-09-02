@@ -1,24 +1,30 @@
 # Email
 
 ## What does this mean?
-This sustainability practice focuses on making environmentally conscious choices in our daily operations. By implementing this approach, we reduce our environmental impact while maintaining operational efficiency.
+Every day, an enormous amount of emails are sent worldwide. According to recent estimates, more than 300 billion emails are sent daily. This number continues to grow as global digital communication increases.
 
-Key aspects include:
-- Reducing resource consumption
-- Minimizing waste generation  
-- Choosing sustainable alternatives
-- Improving energy efficiency
+Sending emails contributes to CO2 emissions, albeit on a relatively small scale per individual email. The emissions mainly come from energy consumption of data centers, network equipment and the devices we use to send and receive emails.
+
+Estimate of CO2 emissions per email:
+- Short emails (such as business correspondence): About 4 grams CO2 per email.
+
+- Average emails (with attachments): About 50 grams CO2 per email.
+
+- Spam emails: About 0.3 grams CO2 per email.
+
+Per person we emit 45kg CO2 annually on email. That's equivalent to producing 6750 plastic bags.
 
 ## How are we doing?
-Wigo4it is actively implementing this sustainability practice across our organization. We are continuously working to improve our environmental performance and reduce our carbon footprint.
+We are aware that email doesn't have a huge impact, nevertheless we like to bring it to attention, because there's also a lot of low-hanging fruit. Assuming that the mail you consciously send is really necessary, a lot of mail is also sent automatically. We have managed to reduce the following automatic mailing by 90%.
 
-Our current initiatives include:
-- Regular assessment of our environmental impact
-- Training and awareness programs for staff
-- Collaboration with sustainable suppliers and partners
-- Monitoring and reporting on our progress
+- Privileged Identity mail requests and approvals (2000 per month)
+
+- Azure DevOps PRs, Pipelines, builds etc (5000 per month)
+
+- We unsubscribe from newsletters that we never read anyway
 
 ## Where can I read more about this?
-- [Wigo4it Sustainability](https://www.wigo4it.nl/sustainability)
-- [Dutch Government Sustainability Guidelines](https://www.rijksoverheid.nl/onderwerpen/duurzame-economie)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+
+- <a href="https://www.denkdoeduurzaam.nl/actueel/nieuws/2023/07/13/dagelijks-dataverkeer-is-vervuilend-wat-kan-er-anders#:~:text=1%20e%2Dmail%20die%20uit,10.000%20e%2Dmails%20per%20jaar.">Denk Doe Duurzaam</a>
+
+![alt text](wiki/emailuitstoot.png)
