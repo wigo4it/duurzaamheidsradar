@@ -22,6 +22,7 @@
     <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="stylesheet" href="wiki.css">
+    <script src="i18n.js"></script>
 
     <script type="text/javascript" src="https://js.monitor.azure.com/scripts/b/ext/ai.clck.2.min.js"></script>
     <script type="text/javascript">
@@ -58,6 +59,14 @@
 </head>
 
 <body>
+    <!-- Language Selector -->
+    <div class="language-selector">
+        <select id="language-selector" onchange="i18n.switchLanguage(this.value)">
+            <option value="nl" data-i18n="language_nl">Nederlands</option>
+            <option value="en" data-i18n="language_en">English</option>
+        </select>
+    </div>
+
     <div id="wiki-container"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -65,12 +74,19 @@
         document.addEventListener('DOMContentLoaded', function () {
             const params = new URLSearchParams(window.location.search);
             const wikiKey = params.get('page');
-            if (wikiKey) {
-                const markdownFile = `wiki/${wikiKey}.md`; // Append .md to the wikiKey
+            const currentLang = params.get('lang') || 'nl'; // Default to Dutch
 
-                fetch(markdownFile)
+            if (wikiKey) {
+                // Determine the wiki path based on language
+                const wikiPath = currentLang === 'en' ? `wiki/en/${wikiKey}.md` : `wiki/nl/${wikiKey}.md`;
+
+                fetch(wikiPath)
                     .then(response => {
                         if (!response.ok) {
+                            // If English file doesn't exist, try Dutch version
+                            if (currentLang === 'en') {
+                                return fetch(`wiki/nl/${wikiKey}.md`);
+                            }
                             throw new Error('Network response was not ok');
                         }
                         return response.text();
@@ -88,9 +104,10 @@
                     })
                     .catch(error => {
                         console.error('Error fetching the markdown file:', error);
+                        document.getElementById('wiki-container').innerHTML = 'Wiki entry not found / Wiki-item niet gevonden.';
                     });
             } else {
-                document.getElementById('wiki-container').innerHTML = 'No wiki entry specified.';
+                document.getElementById('wiki-container').innerHTML = currentLang === 'en' ? 'No wiki entry specified.' : 'Geen wiki-item opgegeven.';
             }
         });
     </script>

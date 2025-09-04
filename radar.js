@@ -29,18 +29,50 @@ function radar_visualization(config) {
     planning: style.getPropertyValue('--kleur-planning'),
     undoing: style.getPropertyValue('--kleur-undoing')
   };
-  config.quadrants = [
-    { name: "Engineering & Techniek" }, //rechtsonder
-    { name: "Gedrag &  Mindset" }, //linksonder
-    { name: "Organisatie & Cultuur" }, //linksboven
-    { name: "Strategie & Architectuur" }, //rechtsboven
-  ];
-  config.rings = [
-    { name: "DOING", color: config.colors.doing, textColor: "white" },
-    { name: "ONGOING", color: config.colors.ongoing, textColor: "black" },
-    { name: "PLANNING", color: config.colors.planning, textColor: "white" },
-    { name: "UNDOING", color: config.colors.undoing, textColor: "white" }
-  ];
+
+  // Get translated quadrant names
+  const getQuadrantNames = () => {
+    if (window.i18n) {
+      return [
+        { name: window.i18n.t("quadrant_engineering") }, //rechtsonder
+        { name: window.i18n.t("quadrant_behavior") }, //linksonder
+        { name: window.i18n.t("quadrant_organization") }, //linksboven
+        { name: window.i18n.t("quadrant_strategy") }, //rechtsboven
+      ];
+    } else {
+      // Fallback to Dutch names
+      return [
+        { name: "Engineering & Techniek" }, //rechtsonder
+        { name: "Gedrag &  Mindset" }, //linksonder
+        { name: "Organisatie & Cultuur" }, //linksboven
+        { name: "Strategie & Architectuur" }, //rechtsboven
+      ];
+    }
+  };
+
+  config.quadrants = getQuadrantNames();
+
+  // Get translated ring names
+  const getRingNames = () => {
+    if (window.i18n) {
+      return [
+        { name: window.i18n.t("ring_doing"), color: config.colors.doing, textColor: "white" },
+        { name: window.i18n.t("ring_ongoing"), color: config.colors.ongoing, textColor: "black" },
+        { name: window.i18n.t("ring_planning"), color: config.colors.planning, textColor: "white" },
+        { name: window.i18n.t("ring_undoing"), color: config.colors.undoing, textColor: "white" }
+      ];
+    } else {
+      // Fallback to English names (as they are already in English)
+      return [
+        { name: "DOING", color: config.colors.doing, textColor: "white" },
+        { name: "ONGOING", color: config.colors.ongoing, textColor: "black" },
+        { name: "PLANNING", color: config.colors.planning, textColor: "white" },
+        { name: "UNDOING", color: config.colors.undoing, textColor: "white" }
+      ];
+    }
+  };
+
+  config.rings = getRingNames();
   config.print_layout = true;
   config.links_in_new_tabs = false;
 
@@ -142,19 +174,19 @@ function radar_visualization(config) {
       y: rings[3].radius * quadrants[quadrant].factor_y
     };
     return {
-      clipx: function(d) {
+      clipx: function (d) {
         var c = bounded_box(d, cartesian_min, cartesian_max);
         var p = bounded_ring(polar(c), polar_min.r + 15, polar_max.r - 15);
         d.x = cartesian(p).x; // adjust data too!
         return d.x;
       },
-      clipy: function(d) {
+      clipy: function (d) {
         var c = bounded_box(d, cartesian_min, cartesian_max);
         var p = bounded_ring(polar(c), polar_min.r + 15, polar_max.r - 15);
         d.y = cartesian(p).y; // adjust data too!
         return d.y;
       },
-      random: function() {
+      random: function () {
         return cartesian({
           t: random_between(polar_min.t, polar_max.t),
           r: normal_between(polar_min.r, polar_max.r)
@@ -183,17 +215,17 @@ function radar_visualization(config) {
       segmented[quadrant][ring] = [];
     }
   }
-  for (var i=0; i<config.entries.length; i++) {
+  for (var i = 0; i < config.entries.length; i++) {
     var entry = config.entries[i];
     segmented[entry.quadrant][entry.ring].push(entry);
   }
 
   // assign unique sequential id to each entry
   var id = 1;
-  for (var quadrant of [2,3,1,0]) {
+  for (var quadrant of [2, 3, 1, 0]) {
     for (var ring = 0; ring < 4; ring++) {
       var entries = segmented[quadrant][ring];
-      for (var i=0; i<entries.length; i++) {
+      for (var i = 0; i < entries.length; i++) {
         entries[i].id = "" + id++;
       }
     }
@@ -265,11 +297,11 @@ function radar_visualization(config) {
     }
   }
 
-  function legend_transform(quadrant, ring, index=null) {
+  function legend_transform(quadrant, ring, index = null) {
     var dx = ring < 2 ? 0 : 150; // ruimte tussen de legenda's
     var dy = (index == null ? -16 : index * 12);
     if (ring % 2 === 1) {
-      dy = dy + 36 + segmented[quadrant][ring-1].length * 12;
+      dy = dy + 36 + segmented[quadrant][ring - 1].length * 12;
     }
     return translate(
       legend_offset[quadrant].x + dx,
@@ -292,7 +324,7 @@ function radar_visualization(config) {
     // footer
     radar.append("text")
       .attr("transform", translate(footer_offset.x, footer_offset.y))
-      .text("■ nieuw ▲ verplaatst")
+      .text(window.i18n ? window.i18n.t("legend_footer") : "■ nieuw ▲ verplaatst")
       .attr("xml:space", "preserve")
       .style("font-family", "Raleway")
       .style("font-size", "10px")
@@ -322,46 +354,46 @@ function radar_visualization(config) {
         legend.selectAll(".legend" + quadrant + ring)
           .data(segmented[quadrant][ring])
           .enter()
-            .append("a")
-              .attr("href", function (d, i) {
-                 return d.link ? d.link : "#"; // stay on same page if no link was provided
-              })
-              // Add a target if (and only if) there is a link and we want new tabs
-              .attr("target", function (d, i) {
-                 return (d.link && config.links_in_new_tabs) ? "_blank" : null;
-              })
-              .attr("data-custom-id", function (d, i) {
-                return d.label.replace(/\s+/g, '');
-              })
-              .attr("data-custom-name", function (d, i) {
-                return d.label;
-              })
-              .attr("data-custom-bhvr", function (d, i) {
-                return "NAVIGATION";
-              })
-            .append("text")
-              .attr("transform", function(d, i) { return legend_transform(quadrant, ring, i); })
-              .attr("class", "legend" + quadrant + ring)
-              .attr("id", function(d, i) { return "legendItem" + d.id; })
-              .text(function(d, i) { 
-                // Define a function to truncate text to a maximum length
-                function truncateText(text, maxLength) {
-                  if (text.length > maxLength) {
-                    return text.substring(0, maxLength - 3) + "..."; // Subtract 3 for the ellipsis
-                  } else {
-                    return text;
-                  }
-                }
-              
-                const maxLength = 25; //maximale lengte van de tekst
-                const displayText = d.id + ". " + d.label;
-                return truncateText(displayText, maxLength);
-              })
-              .style("font-family", "Raleway")
-              .style("font-size", "11px")
-              .attr("fill", config.colors.text)
-              .on("mouseover", function(d) { showBubble(d); highlightLegendItem(d); })
-              .on("mouseout", function(d) { hideBubble(d); unhighlightLegendItem(d); });
+          .append("a")
+          .attr("href", function (d, i) {
+            return d.link ? d.link : "#"; // stay on same page if no link was provided
+          })
+          // Add a target if (and only if) there is a link and we want new tabs
+          .attr("target", function (d, i) {
+            return (d.link && config.links_in_new_tabs) ? "_blank" : null;
+          })
+          .attr("data-custom-id", function (d, i) {
+            return d.label.replace(/\s+/g, '');
+          })
+          .attr("data-custom-name", function (d, i) {
+            return d.label;
+          })
+          .attr("data-custom-bhvr", function (d, i) {
+            return "NAVIGATION";
+          })
+          .append("text")
+          .attr("transform", function (d, i) { return legend_transform(quadrant, ring, i); })
+          .attr("class", "legend" + quadrant + ring)
+          .attr("id", function (d, i) { return "legendItem" + d.id; })
+          .text(function (d, i) {
+            // Define a function to truncate text to a maximum length
+            function truncateText(text, maxLength) {
+              if (text.length > maxLength) {
+                return text.substring(0, maxLength - 3) + "..."; // Subtract 3 for the ellipsis
+              } else {
+                return text;
+              }
+            }
+
+            const maxLength = 25; //maximale lengte van de tekst
+            const displayText = d.id + ". " + d.label;
+            return truncateText(displayText, maxLength);
+          })
+          .style("font-family", "Raleway")
+          .style("font-size", "11px")
+          .attr("fill", config.colors.text)
+          .on("mouseover", function (d) { showBubble(d); highlightLegendItem(d); })
+          .on("mouseout", function (d) { hideBubble(d); unhighlightLegendItem(d); });
       }
     }
   }
@@ -410,7 +442,7 @@ function radar_visualization(config) {
 
   function hideBubble(d) {
     var bubble = d3.select("#bubble")
-      .attr("transform", translate(0,0))
+      .attr("transform", translate(0, 0))
       .style("opacity", 0);
   }
 
@@ -430,20 +462,27 @@ function radar_visualization(config) {
   var blips = rink.selectAll(".blip")
     .data(config.entries)
     .enter()
-      .append("g")
-        .attr("class", "blip")
-        .attr("transform", function(d, i) { return legend_transform(d.quadrant, d.ring, i); })
-        .on("mouseover", function(d) { showBubble(d); highlightLegendItem(d); })
-        .on("mouseout", function(d) { hideBubble(d); unhighlightLegendItem(d); });
+    .append("g")
+    .attr("class", "blip")
+    .attr("transform", function (d, i) { return legend_transform(d.quadrant, d.ring, i); })
+    .on("mouseover", function (d) { showBubble(d); highlightLegendItem(d); })
+    .on("mouseout", function (d) { hideBubble(d); unhighlightLegendItem(d); });
 
   // configure each blip
-  blips.each(function(d) {
+  blips.each(function (d) {
     var blip = d3.select(this);
 
     // blip link
     if (d.active && d.hasOwnProperty("link") && d.link) {
+      // Add current language to wiki links
+      let linkUrl = d.link;
+      if (linkUrl.includes('wiki.html') && window.currentLanguage) {
+        const separator = linkUrl.includes('?') ? '&' : '?';
+        linkUrl += separator + 'lang=' + window.currentLanguage;
+      }
+
       blip = blip.append("a")
-        .attr("xlink:href", d.link);
+        .attr("xlink:href", linkUrl);
 
       if (config.links_in_new_tabs) {
         blip.attr("target", "_blank");
@@ -453,11 +492,11 @@ function radar_visualization(config) {
     // blip shape
     if (d.status == 1) {
       blip.append("rect") //nieuw (vierkant)
-      .attr("x", -7)       // x-coordinate of the top-left corner
-      .attr("y", -6)       // y-coordinate of the top-left corner
-      .attr("width", 15) 
-      .attr("height", 15)
-      .attr("fill", d.color);
+        .attr("x", -7)       // x-coordinate of the top-left corner
+        .attr("y", -6)       // y-coordinate of the top-left corner
+        .attr("width", 15)
+        .attr("height", 15)
+        .attr("fill", d.color);
     } else if (d.status == 2) {
       blip.append("path")
         .attr("d", "M -11,5 11,5 0,-13 z") // verplaatst (driehoek)
@@ -476,7 +515,7 @@ function radar_visualization(config) {
         .attr("text-anchor", "middle")
         .style("fill", d.textColor)
         .style("font-family", "Raleway")
-        .style("font-size", function(d) { return blip_text.length > 2 ? "8px" : "9px"; })
+        .style("font-size", function (d) { return blip_text.length > 2 ? "8px" : "9px"; })
         .style("pointer-events", "none")
         .style("user-select", "none");
     }
@@ -484,7 +523,7 @@ function radar_visualization(config) {
 
   // make sure that blips stay inside their segment
   function ticked() {
-    blips.attr("transform", function(d) {
+    blips.attr("transform", function (d) {
       return translate(d.segment.clipx(d), d.segment.clipy(d));
     })
   }
