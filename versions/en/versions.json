@@ -8,5 +8,10 @@
         "version": "2025-Q1",
         "title": "2025.Q1",
         "description": "Version 2025 Q1"
+    },
+    {
+        "version": "2026-Q1",
+        "title": "2026.Q1",
+        "description": "Version 2026 Q1"
     }
 ]
